@@ -1,0 +1,81 @@
+ACCESSION_NUMBER	REGULATORYAGENCY	ENTITYNAME	PREVIOUSENTITYNAME	FINSNUMBER	DIFFERENTMAILINGADDRESS	TELEPHONENUMBER	CONDUCTBUSINESSINOTHERLOCATION	SELFTRANSFERAGENT	ENGAGEDSERVICECOMPANY	ENGAGEDASSERVICECOMPANY	REGISTRANTTYPE	REGISTRANTTYPEDESCRIPTION	OTHERCONTROLMANAGEMENT	OTHERCONTROLFINANCE	FELONYORMISDEMEANOR	OTHERFELONY	ENJOINEDINVESTRELATEDACTIVITY	VIOLATIONINVRELATEDREGULATION	FALSESTATEMENTOROMISSION	VIOLATIONOFREGULATIONS	AUTHORIZATIONDENIEDORSUSPENDED	REGISTRATIONDENIEDORSUSPENDED	FSRFALSESTATEMENTOROMISSION	FSRVIOLATEINVRELATEDREGULATION	FSRAUTHORIZEDENIEDORSUSPENDED	FSRFOUNDORDERAGAINSTAPPLICANT	FSRREGISTRATIONDENIEDSUSPENDED	FSRREVOKEDSUSPENDEDLICENSE	SRAFALSESTATEMENTOROMISSION	SRAVIOLATIONOFRULES	SRAAUTHORIZEDENIEDORSUSPENDED	SRAREVOKEDSUSPENDEDLICENSE	FOREIGNAGENCY	SUBJECTOFPROCEEDINGS	REVOKEDBOND	UNSATISFIEDJUDGEMENTSORLIENS
+0001214659-10-000932	SEC	Island Capital Management, LLC dba Island Stock Transfer		278408	N	727-289-0010	N	N	N	Y	Other	Limited Liability Company	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001094768-10-000002	SEC	PayPal Asset Management, Inc.		508291	N	408-967-1068	N	Y	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001380486-10-000001	SEC	TD Ameritrade Clearing, Inc		200060	Y	402-970-7787	Y	Y	N	N	Corporation		N	N	N	N	N	N	N	Y	N	Y	N	Y	N	Y	Y	N	N	Y	N	N	N	N	N	N
+0001202048-10-000002	SEC	VALIC Retirement Services Company		502575	N	713-831-3150	Y	N	N	N	Corporation		Y	N	N	N	Y	N	Y	Y	N	N	Y	Y	N	Y	N	N	N	N	N	N	N	N	N	N
+0001204459-10-000686	SEC	Olympia Trust Company		061006	N	403-261-0900	Y	N	Y	Y	Not Applicable		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001359797-10-000001	SEC	MKPI SERVICES	M & K PRODUCE INC.	323998	Y	404-289-1196	N	Y	Y	N	Not Applicable		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000913181-10-000001	SEC	Rydex Fund Services, Inc.		269647	N	301 296-5100	N	N	N	Y	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001283467-10-000001	SEC	Valiant Trust Company		337378	N	403-233-2801	Y	N	Y	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001029661-10-000006	SEC	FASCore LLC		778514	N	303-737-3853	N	Y	N	N	Not Applicable		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000892712-10-000265	SEC	Fiduciary Counselling, Inc.		019596	N	651-228-0935	N	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001029661-10-000004	SEC	FASCore LLC		778514	N	303-737-3853	N	Y	N	N	Not Applicable		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001133702-10-000002	SEC	National Financial Services LLC		061671	Y	(617) 563-6986	Y	Y	N	Y	Corporation		N	N	N	N	N	N	Y	Y	N	N	N	Y	N	N	N	N	N	Y	N	N	Y	N	N	N
+0001419454-10-000003	SEC	Fidelity Business Services India Private Limited		334318	Y	(617) 563-7949	Y	Y	N	Y	Corporation		Y	Y	N	N	N	N	Y	Y	N	N	N	Y	N	N	N	N	N	Y	N	N	Y	N	N	N
+0001419454-10-000002	SEC	Fidelity Business Services India Private Limited		334318	Y	(617) 563-7949	Y	Y	N	Y	Corporation		Y	Y	N	N	N	N	Y	Y	N	N	N	Y	N	N	N	N	N	Y	N	N	Y	N	N	N
+0000862124-10-000003	SEC	Fidelity Investments Institutional Operations Company, Inc.		428219	Y	(508) 787-7000	Y	Y	Y	Y	Corporation		N	N	N	N	N	N	Y	Y	N	N	N	Y	N	N	N	N	N	Y	N	N	Y	Y	N	N
+0001018490-10-000013	SEC	DB Services Tennessee, Inc.		955203	N	(615) 835-3100	N	N	N	Y	Corporation		Y	Y	Y	N	Y	Y	Y	Y	N	Y	Y	Y	N	Y	N	N	Y	Y	N	N	Y	Y	N	N
+0001230501-10-000002	SEC	Blankinship Corporation		276089	N	703 356 6121	N	Y	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001018490-10-000010	SEC	DB Services Tennessee, Inc.		955203	N	(615) 835-3100	N	N	N	Y	Corporation		Y	Y	Y	N	Y	Y	Y	Y	N	Y	Y	Y	N	Y	N	N	Y	Y	N	N	Y	Y	N	N
+0001347211-10-000003	SEC	Bay City Transfer Agency & Registrar		319228	N	989-891-9720	N	N	N	N	Corporation		Y	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000810417-10-000004	SEC	Edward D. Jones & Co., L.P., dba Edward Jones		000570	Y	314-515-1855	N	Y	N	Y	Other	Limited Partnership	N	N	N	N	N	Y	Y	Y	N	Y	Y	Y	N	Y	Y	N	Y	Y	N	N	N	Y	N	N
+0001093287-10-000021	SEC	Transfer Online, Inc.		050573	N	503-227-2950	N	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000898432-10-000428	SEC	Eagle Fund Services, Inc.		732032	N	727-567-3546	N	Y	N	N	Corporation		Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001144204-10-014880	SEC	Campbell & Company, Inc.		508697	N	410-413-2600	N	Y	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001397380-10-000006	SEC	X-Pedited Transfer Corporation		332494	N	303-573-1000	N	N	Y	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	Y	N	N	N	Y
+0000889231-10-000002	SEC	Reich & Tang Services, Inc.		032847	N	212-830-5200	N	N	Y	N	Corporation		N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	Y	N	N	N
+0001026006-10-000008	SEC	Signature Stock Transfer, Inc.		751917	N	972 612 4120	N	N	N	N	Not Applicable		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001339630-10-000006	SEC	FAF Advisors, Inc.		265967	N	612-303-3447	N	Y	N	N	Corporation		N	N	N	N	N	N	N	Y	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001455353-10-000005	SEC	West Coast Stock Transfer Inc.		339846	N	(619) 664-4780	N	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N
+0000275143-10-000002	SEC	Boston Financial Data Services, Inc.		209809	N	617-483-7000	Y	N	Y	Y	Corporation		N	N	N	N	N	N	Y	Y	N	Y	Y	Y	N	Y	Y	N	N	Y	N	N	Y	Y	N	N
+0001339630-10-000005	SEC	FAF Advisors, Inc.		265967	N	612-303-3447	N	Y	N	N	Corporation		N	N	N	N	N	N	N	Y	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001144204-10-012472	SEC	Parnassus Investments		409581	N	415-778-0200	N	Y	N	N	Not Applicable		Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001144204-10-012281	SEC	Campbell & Company, Inc.		508697	N	410-413-2600	N	Y	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001018490-10-000005	SEC	DB Services Tennessee, Inc.		955203	N	(615) 835-3100	N	N	N	Y	Corporation		Y	Y	Y	N	Y	Y	Y	Y	N	Y	Y	Y	N	Y	N	N	Y	Y	N	N	Y	Y	N	N
+0000772037-10-000005	SEC	Columbia Management Services, Inc.		027748	Y	(617) 772-3348	Y	N	Y	N	Corporation		N	N	N	N	Y	Y	Y	Y	N	Y	Y	Y	N	Y	Y	N	Y	Y	N	N	Y	Y	N	N
+0000088525-10-000242	SEC	Security Benefit Life Insurance Company		368670	N	785-438-3000	N	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000831495-10-000002	SEC	Delaware Service Company, Inc.		411116	N	215-255-1200	N	Y	Y	N	Corporation		N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000817712-10-000008	SEC	Thrivent Financial Investor Services Inc.		473165	Y	612-844-5704	N	Y	Y	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N
+0000821007-10-000003	SEC	Evergreen Service Company, LLC		410399	N	617 210-3200	N	Y	Y	N	Other	Limited Liability Company	N	N	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+0000821007-10-000002	SEC	Evergreen Service Company, LLC		410399	N	617 210-3200	N	Y	Y	N	Other	Limited Liability Company	N	N	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+0001261763-10-000002	SEC	Law Debenture Trust Company of New York		279026	N	212-750-6474	N	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000950123-10-019925	SEC	Invesco Trimark Ltd./Invesco Trimark Ltee, doing business as Invesco Enterprise Services / Services Entreprise Invesco and Invesco		331819	Y	1-800-874-6275	N	N	N	Y	Corporation		N	N	N	N	N	N	Y	Y	N	Y	Y	Y	N	Y	N	N	N	N	N	N	N	Y	N	N
+0000899635-10-000002	SEC	Integrity Fund Services, LLC	Integrity Fund Services, Inc.	455071	Y	701-852-5292	N	N	N	N	Other	Limited Liability Corporation	N	N	N	N	N	N	Y	Y	N	Y	N	N	N	N	N	N	N	Y	N	N	N	N	N	N
+0001104659-10-011306	SEC	Pacific Global Investor Services, Inc.		450908	N	(818) 242-6693	N	Y	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001227021-10-000009	SEC	Brown Brothers Harriman & Co.		269159	Y	617.742.1818	Y	N	N	N	Partnership		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N
+0000883757-10-000003	SEC	Equity Transfer & Trust Company		006020	N	416 361 0930	Y	N	N	N	Corporation		Y	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001007189-10-000006	SEC	Kenmar Preferred Investments Corp.	Preferred Investment Solutions Corp.	489674	N	914.307.7000	N	Y	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001007189-10-000005	SEC	Kenmar Preferred Investments Corp.	Preferred Investment Solutions Corp.	489674	N	914.307.7000	N	Y	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000027048-10-000001	SEC	DST Systems, Inc.		401588	Y	816-435-1000	Y	N	Y	Y	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001139296-10-000012	SEC	X-Clearing Corporation		099952	N	303-573-1000	N	N	Y	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	Y	N	N	N	Y
+0001139296-10-000011	SEC	X-Clearing Corporation		099952	N	303-573-1000	N	N	Y	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	Y	N	N	N	Y
+0001146230-10-000002	SEC	Computershare Inc.		260539	N	781-575-2000	Y	N	Y	Y	Corporation		N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N
+0000772037-10-000003	SEC	Columbia Management Services, Inc.		027748	Y	(617) 772-3348	Y	N	Y	N	Corporation		N	N	N	N	Y	Y	Y	Y	N	Y	Y	Y	N	Y	Y	N	Y	Y	N	N	Y	Y	N	N
+0000772037-10-000002	SEC	Columbia Management Services, Inc.		027748	Y	(617) 772-3348	Y	N	Y	N	Corporation		N	N	N	N	Y	Y	Y	Y	N	Y	Y	Y	N	Y	Y	N	Y	Y	N	N	Y	Y	N	N
+0000005076-10-000001	SEC	American Funds Service Company		403444	Y	949-975-5000	Y	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N
+0000817712-10-000006	SEC	Thrivent Financial Investor Services Inc.		473165	Y	612-844-5704	N	Y	Y	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N
+0000950123-10-011476	SEC	Tri-Continental Corporation		339572	N	207-253-8302	Y	Y	Y	N	Not Applicable		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000870156-10-000017	SEC	Miles Capital, Inc.	WB Capital Management Inc.	725176	N	515-224-2764	N	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001007189-10-000002	SEC	Kenmar Preferred Investments Corp.	Preferred Investment Solutions Corp.	489674	N	914.307.7000	N	Y	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001146060-10-000003	SEC	MERRILL LYNCH ALTERNATIVE INVESTMENTS LLC		264267	Y	609-274-5838	N	Y	N	N	Other	LIMITED LIABILITY COMPANY	Y	N	N	N	Y	Y	Y	Y	N	Y	Y	Y	N	Y	Y	N	Y	Y	N	N	Y	Y	N	N
+0000842657-10-000002	SEC	DWS Investments Service Company		417949	Y	212-454-8758	N	Y	Y	N	Corporation		N	N	Y	N	Y	Y	Y	Y	N	Y	Y	Y	N	Y	N	N	Y	Y	N	Y	Y	Y	N	N
+0000810417-10-000002	SEC	Edward D. Jones & Co., L.P., dba Edward Jones		000570	Y	314-515-1855	N	Y	N	Y	Other	Limited Partnership	N	N	N	N	N	Y	Y	Y	N	Y	Y	Y	N	Y	Y	N	Y	Y	N	N	N	Y	N	N
+0001479495-10-000005	SEC	Dynamic Transfer Services Corp		342030	N	8019946804	N	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000869442-10-000004	SEC	John Hancock Signature Services, Inc.		434332	N	617-572-6000	Y	Y	Y	N	Not Applicable		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001018490-10-000003	SEC	DB Services Tennessee, Inc.		955203	N	(615) 835-3100	N	N	N	Y	Corporation		Y	Y	Y	N	Y	Y	Y	Y	N	Y	Y	Y	N	Y	N	N	Y	Y	N	N	Y	Y	N	N
+0001466955-10-000002	SEC	Loyal3 Transfer Corporation		340810	N	4159810700	N	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+0000869442-10-000003	SEC	John Hancock Signature Services, Inc.		434332	N	617-572-6000	Y	Y	Y	N	Not Applicable		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000898432-10-000057	SEC	Eagle Fund Services, Inc.		732032	N	727-567-3546	N	Y	N	N	Corporation		Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001352156-10-000003	SEC	Sentinel Adminstrative Services, Inc.		422469	N	802-229-7410	N	N	Y	Y	Corporation		N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	Y	N	N	Y	N	N	N	N	Y	N
+0000772037-10-000001	SEC	Columbia Management Services, Inc.		027748	Y	(617) 772-3348	Y	N	Y	N	Corporation		N	N	N	N	Y	Y	Y	Y	N	Y	Y	Y	N	Y	Y	N	Y	Y	N	N	Y	Y	N	N
+0000948010-10-000002	SEC	ISTC CORPORATION		275958	Y	864-239-1029	N	N	Y	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000737074-10-000005	SEC	USAA Transfer Agency Company, dba USAA Shareholder Account Services		332510	N	(210) 498-0226	N	N	N	N	Corporation		N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000950123-10-003644	SEC	Invesco Trimark Ltd./Invesco Trimark Ltee, doing business as Invesco Enterprise Services / Services Entreprise Invesco, Invesco and Invesco Aim		331819	Y	1-800-874-6275	N	N	N	Y	Corporation		N	N	N	N	N	N	Y	Y	N	Y	Y	Y	N	Y	N	N	N	N	N	N	N	Y	N	N
+0001418054-10-000003	SEC	Russell Fund Services Company		410944	N	253-439-9500	N	Y	Y	N	Not Applicable																									
+0001140361-10-001513	SEC	Preferred Partnership Services,  Inc DBA Investor Services		501320	N	5102262700	N	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000948010-10-000001	SEC	ISTC CORPORATION		275958	Y	864-239-1029	N	N	Y	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001448300-10-000002	SEC	Putnam Investor Services, Inc.		338483	Y	617-292-1000	N	N	N	N	Corporation		N	N	N	N	N	Y	Y	Y	N	N	Y	Y	N	Y	N	N	N	Y	N	N	Y	Y	Y	N
+0001354488-10-000019	SEC	Manhattan Transfer Registrar Company		432708	N	631-928-7655	N	N	N	N	Partnership		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0001448300-10-000001	SEC	Putnam Investor Services, Inc.		338483	Y	617-292-1000	N	N	N	N	Corporation		N	N	N	N	N	Y	Y	Y	N	N	Y	Y	N	Y	N	N	N	Y	N	N	Y	Y	Y	N
+0001328759-10-000002	SEC	Wall Street Transfer Agents Inc.	n/a	332007	N	604-542-7440	N	N	N	N	Corporation		N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+0000810704-10-000002	SEC	Primerica Shareholder Services, Inc.	Primerica Shareholder Services	409573	N	770-564-6167	Y	N	N	Y	Corporation		N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N

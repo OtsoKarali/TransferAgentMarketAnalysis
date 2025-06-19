@@ -1,0 +1,396 @@
+ACCESSION_NUMBER	COMPANY_TYPE	SVCCOMPANY_ID	ENTITYNAME	FILENUMBER	ADDRESS
+0001520138-24-000145	serviceCompanyTransferAgent	1	West Coast Stock Transfer Inc.	084-06347	    
+0001434234-24-000001	serviceCompanyTransferAgent	3	DYNAMIC STOCK TRANSFER INC	084-06547	    
+0001434234-24-000001	serviceCompanyTransferAgent	1	DIRECT TRANSFER LLC	084-06338	    
+0001434234-24-000001	serviceCompanyTransferAgent	2	WEST COAST STOCK TRANSFER INC	084-06347	    
+0001808525-24-000004	asServiceCompanyTransferAgent	1	Invesco Investment Services, Inc.	084-05432	    
+0000896852-24-000005	serviceCompanyTransferAgent	3	Invesco (India) Private Ltd.	084-06707	    
+0000896852-24-000005	serviceCompanyTransferAgent	1	Invesco Canada LTD. (Formerly Invesco Trimark LTD.)	084-06210	    
+0000896852-24-000005	serviceCompanyTransferAgent	2	SS&C GIDS, Inc.	084-00448	    
+0000950123-24-003029	serviceCompanyTransferAgent	1	EQ Shareowner Services	085-10133	    
+0001520138-24-000138	asServiceCompanyTransferAgent	1	NEW HORIZON TRANSFER INC.	084-06283	    
+0001520138-24-000138	asServiceCompanyTransferAgent	3	GLOBEX TRANSFER, LLC	084-06307	    
+0001520138-24-000138	asServiceCompanyTransferAgent	4	TWO12 STOCK TRANSFER LLC	084-06816	    
+0001520138-24-000138	asServiceCompanyTransferAgent	2	Mountain Share Transfer, LLC	084-05790	    
+0001410382-24-000001	asServiceCompanyTransferAgent	3	Janus	084-06024	    
+0001410382-24-000001	asServiceCompanyTransferAgent	4	Principal	084-05657	    
+0001410382-24-000001	asServiceCompanyTransferAgent	6	Vanguard	084-07043	    
+0001410382-24-000001	asServiceCompanyTransferAgent	5	Federated	084-01869	    
+0001410382-24-000001	asServiceCompanyTransferAgent	2	Fidelity	084-06287	    
+0001410382-24-000001	asServiceCompanyTransferAgent	1	T. Rowe Price	084-01079	    
+0000838155-24-000001	asServiceCompanyTransferAgent	1	Wilmington Trust Co.	085-05557	    
+0000838155-24-000001	asServiceCompanyTransferAgent	2	Wilmington Trust, National Association	085-11422	    
+0001654954-24-003911	asServiceCompanyTransferAgent	1	New Horizon Transfer Inc	084-06283	    
+0001654954-24-003911	asServiceCompanyTransferAgent	3	Globex Transfer, LLC.	084-06307	    
+0001654954-24-003911	asServiceCompanyTransferAgent	2	Mountain Share Transfer, LLC	084-05790	    
+0001604325-24-000001	serviceCompanyTransferAgent	1	Manufacturers & Traders Trust Co.	085-05057	    
+0001458661-24-000001	serviceCompanyTransferAgent	1	Manufacturers & Traders Trust Co.	085-05057	    
+0000854922-24-000005	asServiceCompanyTransferAgent	1	Bank of New York Mellon Trust Co. NA	085-11396	    
+0000854922-24-000005	asServiceCompanyTransferAgent	4	The Vanguard Group, Inc.	084-00772	    
+0000854922-24-000005	serviceCompanyTransferAgent	3	BNY Mellon International Operations (India) Private Ltd	084-06496	    
+0000854922-24-000005	asServiceCompanyTransferAgent	3	BNY Mellon Trust Co. of Illinois	085-05527	    
+0000854922-24-000005	asServiceCompanyTransferAgent	2	BNY Mellon Trust of Delaware	085-00868	    
+0000854922-24-000005	serviceCompanyTransferAgent	1	BNY Mellon Investment Servicing (US) Inc.	084-01761	    
+0000854922-24-000005	serviceCompanyTransferAgent	2	Computershare Inc/TA	084-05925	    
+0001998958-24-000001	serviceCompanyTransferAgent	1	Odyssey Trust Co	084-06568	    
+0000839287-24-000004	asServiceCompanyTransferAgent	1	The Vanguard Group, Inc	084-00772	    
+0001146230-24-000009	serviceCompanyTransferAgent	1	Computershare Trust Company of Canada	084-06112	    
+0001493152-24-011822	asServiceCompanyTransferAgent	4	Computershare	084-06112	    
+0001146230-24-000009	asServiceCompanyTransferAgent	2	Computershare Trust Company of Canada	084-06112	    
+0001676177-24-000001	asServiceCompanyTransferAgent	2	Odyssey Trust Co	084-06568	    
+0001493152-24-011822	asServiceCompanyTransferAgent	2	Odyssey Trust	084-06568	    
+0001493152-24-011822	asServiceCompanyTransferAgent	3	TSX Trust	084-06502	    
+0001998958-24-000001	asServiceCompanyTransferAgent	1	Odyssey Transfer US Inc.	084-06874	    
+0000839287-24-000004	serviceCompanyTransferAgent	1	SS&C GIDS, Inc	084-00448	    
+0001146230-24-000009	asServiceCompanyTransferAgent	3	Computershare Investor Services Inc.	084-06111	    
+0001998958-24-000001	asServiceCompanyTransferAgent	2	Odyssey Trust Co	084-06568	    
+0001676177-24-000001	asServiceCompanyTransferAgent	3	Computer Share	084-05925	    
+0001146230-24-000009	asServiceCompanyTransferAgent	8	Computershare Delaware Trust Company	085-05570	    
+0001146230-24-000009	asServiceCompanyTransferAgent	1	Citibank, N.A.	085-10232	    
+0001493152-24-011822	asServiceCompanyTransferAgent	1	Olympia Trust	084-05915	    
+0001146230-24-000009	asServiceCompanyTransferAgent	5	The Bank of New York Mellon	085-05006	    
+0001146230-24-000009	asServiceCompanyTransferAgent	4	Computershare Trust Company, N.A.	085-11340	    
+0001676177-24-000001	asServiceCompanyTransferAgent	1	Globex Transfer, LLC	084-06307	    
+0001146230-24-000009	asServiceCompanyTransferAgent	7	Wells Fargo Bank, N.A.	085-10133	    
+0001146230-24-000009	asServiceCompanyTransferAgent	6	Computershare Investor Services Ltd	084-06720	    
+0001654954-24-003887	asServiceCompanyTransferAgent	1	Liberty Stock Transfer, Inc.	084-06623	    
+0000839097-24-000002	serviceCompanyTransferAgent	2	Equiniti Trust Company, LLC	084-00416	    
+0000839097-24-000002	asServiceCompanyTransferAgent	1	Deutsche Bank National Trust Company	085-11220	    
+0000839097-24-000002	serviceCompanyTransferAgent	1	DB Services Americas, Inc.	084-05653	    
+0000839097-24-000002	serviceCompanyTransferAgent	3	Deutsche Bank National Trust Company	085-11220	    
+0000848027-24-000002	asServiceCompanyTransferAgent	1	Deutsche Bank Trust Company Americas	085-05212	    
+0000848027-24-000002	serviceCompanyTransferAgent	2	Deutsche Bank Trust Company Americas	085-05212	    
+0000848027-24-000002	serviceCompanyTransferAgent	1	DB Services Americas, Inc.	084-05653	    
+0001018490-24-000010	asServiceCompanyTransferAgent	1	Deutsche Bank National Trust Company	085-11220	    
+0001018490-24-000010	asServiceCompanyTransferAgent	2	Deutsche Bank Trust Company Americas	085-05212	    
+0001951594-24-000004	asServiceCompanyTransferAgent	1	Odyssey Trust Co	084-06568	    
+0001951594-24-000004	serviceCompanyTransferAgent	1	Odyssey Transfer and Trust Company	084-06899	    
+0000737074-24-000001	serviceCompanyTransferAgent	1	FIS Investor Services LLC	084-06522	    
+0000896852-24-000003	asServiceCompanyTransferAgent	1	Invesco Investment Services, Inc.	084-05432	    
+0001903596-24-000163	asServiceCompanyTransferAgent	1	Securitize LLC	084-06638	    
+0001903596-24-000163	serviceCompanyTransferAgent	1	Securitize LLC	084-06638	    
+0001557183-24-000003	asServiceCompanyTransferAgent	1	PRICE ROWE T SERVICES INC /TA	084-01079	    
+0001557183-24-000003	serviceCompanyTransferAgent	1	The Vanguard Group, Inc.	084-00772	    
+0001999371-24-004105	asServiceCompanyTransferAgent	4	TSX Trust Company (Canada)	084-06506	    
+0001999371-24-004105	asServiceCompanyTransferAgent	3	Deutsche Bank Trust Co Americas/TA	085-05212	    
+0001999371-24-004105	asServiceCompanyTransferAgent	1	JP Morgan Chase Bank NA	085-11399	    
+0001999371-24-004105	asServiceCompanyTransferAgent	2	Ultimus Fund Solutions LLC/TA	084-05829	    
+0001999371-24-004105	serviceCompanyTransferAgent	1	Equiniti India Pvt Ltd	084-06598	    
+0001903596-24-000161	asServiceCompany	1	Securitize LLC	084-06638	100 Pine Street Suite 1250 San Francisco CA 94111
+0001903596-24-000161	serviceCompany	1	Securitize LLC	084-06638	100 Pine Street Suite 1250 San Francisco CA 94111
+0001903596-24-000160	serviceCompanyTransferAgent	1	Pacific Stock Transfer, LLC	084-01145	    
+0001903596-24-000160	asServiceCompanyTransferAgent	1	Pacific Stock Transfer, LLC	084-01145	    
+0001022437-24-000002	serviceCompanyTransferAgent	1	Computershare Inc.	084-05925	    
+0001630490-24-000001	asServiceCompanyTransferAgent	2	Franklin Templeton Investor Services LLC/TA	084-01036	    
+0001630490-24-000001	asServiceCompanyTransferAgent	1	Victory Capital Transfer Agency, Inc	084-01197	    
+0001630490-24-000001	asServiceCompanyTransferAgent	3	The Northern Trust Company	085-05127	    
+0000872657-24-000005	serviceCompanyTransferAgent	1	SS&C GIDS, INC	084-00448	    
+0001062993-24-007298	serviceCompanyTransferAgent	5	Equiniti Trust Company, LLC	084-00416	    
+0001062993-24-007298	serviceCompanyTransferAgent	7	Continental Stock Transfer & Trust Co.	084-00034	    
+0001062993-24-007298	serviceCompanyTransferAgent	8	Link Market Services, UK	084-00000	    
+0001062993-24-007298	serviceCompanyTransferAgent	4	Computershare Hong Kong Investor Services Limited, Hong Kong Registrars Limited	084-00000	    
+0001062993-24-007298	serviceCompanyTransferAgent	2	Tricor Investor Services Limited	084-00000	    
+0001062993-24-007298	serviceCompanyTransferAgent	6	TMX Investor Solutions Inc.	084-06416	    
+0001062993-24-007298	serviceCompanyTransferAgent	1	Link Market Services	084-00000	    
+0001062993-24-007298	serviceCompanyTransferAgent	3	Rizal Commercial Banking Corporation (RCBC) Stock	084-00000	    
+0001062993-24-007298	asServiceCompanyTransferAgent	1	Equiniti Trust Company, LLC	084-00416	    
+0001062993-24-007296	serviceCompany	2	Tricor Investor Services Limited	084-00000	17/F, Far East Finance Centre 16 Harcourt Road Hong Kong K3 
+0001062993-24-007296	serviceCompany	5	Equiniti Trust Company, LLC	084-00416	Operations Center 6201 15th Avenue Brooklyn NY 11219
+0001062993-24-007296	asServiceCompany	1	Equiniti Trust Company, LLC	084-00416	Operations Center 6201 15th Avenue Brooklyn NY 11219
+0001062993-24-007296	serviceCompany	3	Rizal Commercial Banking Corporation (RCBC) Stock Transfer	084-00000	GF, West Wing, GPL (Grepalife Building) 221 Senator Gil Puyat Avenue Makati City, Metro Manila R6 
+0001062993-24-007296	serviceCompany	1	Link Market Services	084-00000	Level 12 680 George Street Sydney NSW C3 2000
+0001062993-24-007296	serviceCompany	6	TMX Investor Solutions Inc.	084-06416	100 Adelaide Street West Suite 300 Toronto A6 M5H 1S3
+0001062993-24-007296	serviceCompany	4	Computershare Hong Kong Investor Services Limited	084-00000	17M Floor, Hopewell Centre 183 Queen's Road East Wanchai, Hong Kong K3 
+0001062993-24-007296	serviceCompany	8	Link Market Services, UK	084-00000	Link Group, 10th Floor, Central Square, 29 Wellington Street, Leeds X0 LS1 4DL
+0001062993-24-007296	serviceCompany	7	Continental Stock Transfer & Trust Co	084-00034	1 State Street 30th Floor New York NY 1004-1561
+0001213900-24-026934	asServiceCompanyTransferAgent	1	MADISON STOCK TRANSFER INC /TA	084-05639	    
+0001213900-24-026934	asServiceCompanyTransferAgent	2	TSX TRUST Co	084-06502	    
+0001809901-24-000004	serviceCompanyTransferAgent	1	Computershare Inc.	084-05925	    
+0001062993-24-007251	asServiceCompanyTransferAgent	1	TSX Trust Company	084-06506	    
+0001999371-24-004069	serviceCompanyTransferAgent	1	Equiniti Trust Company, LLC	084-00416	    
+0001062993-24-007251	serviceCompanyTransferAgent	2	Computershare Investor Services	084-06111	    
+0001999371-24-004069	asServiceCompanyTransferAgent	1	Equiniti Trust Company, LLC	084-00416	    
+0001062993-24-007251	serviceCompanyTransferAgent	1	Equiniti Trust Company, LLC	084-00416	    
+0000019617-24-000254	serviceCompanyTransferAgent	2	Equiniti Trust Company, LLC/TA	084-00416	    
+0000019617-24-000254	serviceCompanyTransferAgent	1	US BANCORP FUND SERVICES LLC /TA/	085-11357	    
+0000019617-24-000254	asServiceCompanyTransferAgent	1	THE VANGUARD GROUP, INC.	084-00772	    
+0000842657-24-000012	serviceCompany	1	SS&C GIDS, Inc.	084-00448	1055 Broadway St  Kansas City MO 64105
+0001557183-24-000002	serviceCompany	1	The Vanguard Group, Inc.	084-00772	100 Vanguard Boulevard V26 Malvern PA 19355-2900
+0001557183-24-000002	asServiceCompany	1	PRICE ROWE T SERVICES INC /TA	084-01079	4515 Painters Mill Road  Owings Mills MD 21117
+0001776449-24-000003	serviceCompanyTransferAgent	1	Manhattan Transfer Registrar	084-01868	    
+0001776449-24-000003	serviceCompanyTransferAgent	2	Olde Monmouth Stock Transfer	084-01986	    
+0000950123-24-003006	asServiceCompanyTransferAgent	1	Tri-Continental Corporation	084-00458	    
+0000950123-24-003006	serviceCompanyTransferAgent	1	SS&C GIDS, Inc.	084-00896	    
+0000950123-24-003001	serviceCompanyTransferAgent	1	Columbia Management Investment Services Corp	084-05685	    
+0000353291-24-000002	serviceCompanyTransferAgent	1	FIS Investor Services LLC/TA	084-06522	    
+0000735286-24-000008	asServiceCompanyTransferAgent	3	JP Morgan Chase Bank NA	085-11399	    
+0000735286-24-000008	asServiceCompanyTransferAgent	1	Ascensus College Savings Recordkeeping Services, LLC.	084-06488	    
+0000735286-24-000008	asServiceCompanyTransferAgent	2	Bank of New York Mellon /TA	085-05006	    
+0000735286-24-000008	asServiceCompanyTransferAgent	4	State Street Bank & Trust Co /TA	085-05003	    
+0001062993-24-007175	serviceCompanyTransferAgent	2	Capital Transfer Agency, Ulc	084-06117	    
+0001062993-24-007175	asServiceCompanyTransferAgent	2	Computershare Investor Services Inc.	084-06111	    
+0001062993-24-007175	asServiceCompanyTransferAgent	1	Computershare Trust Company of Canada	084-06112	    
+0001062993-24-007175	serviceCompanyTransferAgent	1	Equity Stock Transfer LLC	084-06453	    
+0001062993-24-007173	asServiceCompany	1	Computershare Trust Company of Canada	084-06112	100 University Avenue 8th Floor Toronto A6 M5J 2Y1
+0001062993-24-007173	asServiceCompany	2	Computershare Investor Services Inc.	084-06111	100 University Avenue 8th Floor Toronto A6 M5J 2Y1
+0001062993-24-007173	serviceCompany	1	Equity Stock Transfer LLC	084-06453	237 W 37th St Suite 602  New York NY 11018
+0001062993-24-007173	serviceCompany	2	Capital Transfer Agency, Ulc	084-06117	390 Bay Street Suite 920 Toronto A6 M5H 2Y2
+0001104659-24-039414	asServiceCompanyTransferAgent	4	Bank of New York Mellon Trust Co. NA	085-11396	    
+0001104659-24-039414	asServiceCompanyTransferAgent	1	Alliance Bernstein Global Investor Services, Inc.	084-01187	    
+0001104659-24-039414	asServiceCompanyTransferAgent	8	Columbia Management Investor Services Corp	084-05685	    
+0001104659-24-039414	asServiceCompanyTransferAgent	28	T. Rowe Price Services, Inc.	084-01079	    
+0001104659-24-039414	asServiceCompanyTransferAgent	31	Vanguard Group Inc.	084-00772	    
+0001104659-24-039414	asServiceCompanyTransferAgent	16	Invesco Investment Services Inc	084-05432	    
+0001104659-24-039414	asServiceCompanyTransferAgent	7	Citibank NA/TA	085-10232	    
+0001104659-24-039414	asServiceCompanyTransferAgent	18	John Hancock Signature Services Inc/TA	084-01885	    
+0001104659-24-039414	asServiceCompanyTransferAgent	12	Fidelity Investments Institutional Operations Company, Inc.	084-01839	    
+0001104659-24-039414	asServiceCompanyTransferAgent	30	US Bancorp Fund Services, LLC	085-11357	    
+0001104659-24-039414	asServiceCompanyTransferAgent	23	Prudential Mutual Fund Services LLC	084-05681	    
+0001104659-24-039414	asServiceCompanyTransferAgent	21	Northeast Retirement Services LLC	084-06495	    
+0001104659-24-039414	asServiceCompanyTransferAgent	5	Bank of New York Mellon/TA	085-05006	    
+0001104659-24-039414	asServiceCompanyTransferAgent	27	State Street Bank & Trust Company	085-05003	    
+0001104659-24-039414	asServiceCompanyTransferAgent	2	American Funds Service Company	084-00316	    
+0001104659-24-039414	asServiceCompanyTransferAgent	26	SEI Institutional Transfer Agent, Inc.	084-06349	    
+0001104659-24-039414	asServiceCompanyTransferAgent	25	Russel Fund Services Co.	084-06276	    
+0001104659-24-039414	asServiceCompanyTransferAgent	6	BNY Mellon Investment Servicing US Inc.	084-01761	    
+0001104659-24-039414	asServiceCompanyTransferAgent	15	Harbor Services Group Inc.	084-05901	    
+0001104659-24-039414	asServiceCompanyTransferAgent	20	MFS Service Center, Inc.	084-01316	    
+0001104659-24-039414	asServiceCompanyTransferAgent	3	Atlantic Shareholder Services	084-06277	    
+0001104659-24-039414	asServiceCompanyTransferAgent	22	Northern Trust Co.	085-05127	    
+0001104659-24-039414	asServiceCompanyTransferAgent	29	ULTIMUS FUND SOLUTIONS LLC /TA	084-05829	    
+0001104659-24-039414	asServiceCompanyTransferAgent	9	Diamond Hill	084-06385	    
+0001104659-24-039414	asServiceCompanyTransferAgent	13	FIS Investor Services, LLC	084-06522	    
+0001104659-24-039414	asServiceCompanyTransferAgent	17	Janus Henderson Services US LLC	084-06024	    
+0001104659-24-039414	asServiceCompanyTransferAgent	10	SS&C GIDS, Inc.	084-00448	    
+0001104659-24-039414	asServiceCompanyTransferAgent	11	DST Asset Manager Solutions, Inc./TA	084-00896	    
+0001104659-24-039414	asServiceCompanyTransferAgent	14	Franklin Templeton Investor Services LLC	084-01036	    
+0001104659-24-039414	asServiceCompanyTransferAgent	19	JPMorgan Chase Bank NA	085-11399	    
+0001104659-24-039414	asServiceCompanyTransferAgent	24	Putnam Investor Services Inc.	084-06331	    
+0001971768-24-000002	asServiceCompanyTransferAgent	2	U.S. Bank Trust National Association	085-11299	    
+0001971768-24-000002	asServiceCompanyTransferAgent	1	U.S. Bank National Association	085-11347	    
+0001971768-24-000002	asServiceCompanyTransferAgent	4	BOKF, National Association	085-10438	    
+0001971768-24-000003	serviceCompanyTransferAgent	1	U.S. Bank Trust Company, National Association	085-11425	    
+0001971768-24-000004	serviceCompanyTransferAgent	1	U.S. Bank Trust Company, National Association	085-11425	    
+0001971768-24-000002	asServiceCompanyTransferAgent	3	Bank of America, N.A.	085-10189	    
+0000882734-24-000005	asServiceCompanyTransferAgent	1	Liberty Stock Transfer, Inc.	084-06623	    
+0000854922-24-000003	asServiceCompanyTransferAgent	2	BNY Mellon Trust of Delaware	085-00868	    
+0000854922-24-000003	asServiceCompanyTransferAgent	1	Bank of New York Mellon Trust Co. NA	085-11396	    
+0000854922-24-000003	serviceCompanyTransferAgent	2	Computershare Inc/TA	084-05925	    
+0000854922-24-000003	serviceCompanyTransferAgent	1	BNY Mellon Investment Servicing (US) Inc.	084-01761	    
+0000854922-24-000003	asServiceCompanyTransferAgent	3	BNY Mellon Trust Co. of Illinois	085-05527	    
+0000854922-24-000003	serviceCompanyTransferAgent	3	BNY Mellon International Operations (India) Private Ltd	084-06496	    
+0000838981-24-000001	serviceCompanyTransferAgent	1	FIS Investor Services LLC/TA	084-06522	    
+0001020337-24-000001	serviceCompanyTransferAgent	1	SS&C GIDS, Inc.	084-00448	    
+0001999371-24-003960	serviceCompany	1	Equiniti Trust Company, LLC	084-00416	48 Wall Street 23rd Floor New York NY 10005
+0001999371-24-003960	asServiceCompany	1	Equiniti Trust Company, LLC	084-00416	48 Wall Street 23rd Floor New York NY 10005
+0001253179-24-000005	asServiceCompanyTransferAgent	2	Fenimore Asset Management Trust	084-05483	    
+0001253179-24-000005	serviceCompanyTransferAgent	1	Equiniti Trust Company, LLC	084-00416	    
+0001253179-24-000005	asServiceCompanyTransferAgent	1	Ultimus Asset Services, LLC	084-00142	    
+0001253179-24-000004	serviceCompanyTransferAgent	1	Ultimus Fund Solutions, LLC	084-05829	    
+0000855870-24-000001	serviceCompanyTransferAgent	1	US Bank National Association	085-11347	    
+0001146230-24-000005	serviceCompanyTransferAgent	1	Computershare Inc.	084-05925	    
+0001146230-24-000005	asServiceCompanyTransferAgent	1	Wells Fargo Delaware Trust Company, N.A.	085-11339	    
+0001146230-24-000004	asServiceCompanyTransferAgent	1	Citibank, N.A.	085-10232	    
+0001146230-24-000004	asServiceCompanyTransferAgent	3	Computershare Investor Services Inc.	084-06111	    
+0001146230-24-000004	asServiceCompanyTransferAgent	5	Wells Fargo Trust Company, N.A.	085-10988	    
+0001146230-24-000004	asServiceCompanyTransferAgent	2	Computershare Trust Company of Canada	084-06112	    
+0001146230-24-000004	serviceCompanyTransferAgent	1	Computershare Inc.	084-05925	    
+0001146230-24-000004	asServiceCompanyTransferAgent	4	Wells Fargo Bank, N.A.	085-10133	    
+0001458682-24-000001	asServiceCompanyTransferAgent	1	First Guaranty Bank	085-00139	    
+0001458682-24-000001	asServiceCompanyTransferAgent	3	Phoenix Transfer Inc.	084-05465	    
+0001458682-24-000001	asServiceCompanyTransferAgent	2	The Ohio Valley Bank Company	085-00512	    
+0000795029-24-000002	serviceCompanyTransferAgent	1	Broadridge Corporate Issuer Solutions, LLC	084-01007	    
+0000838927-24-000002	serviceCompanyTransferAgent	1	U.S. Bank National Association	085-11347	    
+0000810704-24-000002	asServiceCompanyTransferAgent	6	SS&C GIDS, Inc.	084-00448	    
+0001951594-24-000002	serviceCompany	2	Odyssey Transfer and Trust Company	084-06899	2155 WOODLANE DRIVE  WOODBURY MN 55125
+0001951594-24-000002	serviceCompany	1	Odyssey Trust Co.	084-06568	350 - 409 Granville St  Vancouver A1 V6C 1T2
+0000810704-24-000002	serviceCompanyTransferAgent	1	BNY Mellon Investment Servicing (US) Inc.	084-01761	    
+0000810704-24-000002	asServiceCompanyTransferAgent	2	American Century Investment Servicing (US) Inc.	084-01406	    
+0000810704-24-000002	asServiceCompanyTransferAgent	3	Invesco Investment Services Inc.	084-05432	    
+0001951594-24-000003	asServiceCompany	1	Odyssey Trust Company	084-06568	350-409 Granville St,  Vancouver A1 V6C 1T2
+0000810704-24-000002	asServiceCompanyTransferAgent	1	PIONEER Investment Management Shareholder Services Inc.	084-01359	    
+0000810704-24-000002	asServiceCompanyTransferAgent	4	Franklin Templeton Investor Services, Inc.	084-01036	    
+0000810704-24-000002	asServiceCompanyTransferAgent	5	SS&C (USA) Inc.	084-06471	    
+0001951594-24-000003	serviceCompany	1	Odyssey Trust Company	084-06568	350-409 Granville St  Vancouver A1 V6C 1T2
+0001951594-24-000003	asServiceCompany	2	Odyssey Transfer US Inc.	084-06874	2155 Woodlane Drive Suite 100 Woodbury MN 55125
+0001951594-24-000002	asServiceCompany	1	Odyssey Trust Co.	084-06568	350 - 409 Granville St  Vancouver A1 V6C 1T2
+0000810704-24-000001	asServiceCompany	6	SS&C GIDS, Inc.	084-00448	1055 Broadway 7th Floor Kansas City MO 64105
+0000810704-24-000001	asServiceCompany	1	Pioneer Investment Management Shareholder Services	084-01359	60 State Street  Boston MA 02109
+0000810704-24-000001	asServiceCompany	5	SS&C (US) Inc.	084-06471	4 Times Square 6th Floor New York NY 10036
+0000810704-24-000001	asServiceCompany	2	American Century Services, LLC	084-01406	4500 Main Street  Kansas City MO 64111
+0000810704-24-000001	asServiceCompany	4	Franklin Templeton Investor Services, LLC	084-01036	3344 Quality Drive  Rancho Cordova CA 95670
+0000810704-24-000001	asServiceCompany	3	Invesco Investment Services Inc	084-05432	Greenway Plaza Ste. 100  Houston TX 77046
+0001104659-24-038408	serviceCompanyTransferAgent	1	Worldwide Stock Transfer LLC	084-06153	    
+0000734700-24-000002	serviceCompanyTransferAgent	1	SS&C GIDS	084-00448	    
+0000734700-24-000002	serviceCompanyTransferAgent	2	DST Asset Manager Solutions, Inc/TA	084-00896	    
+0000857128-24-000001	serviceCompanyTransferAgent	1	Clear Trust LLC	084-06351	    
+0001452780-24-000001	asServiceCompanyTransferAgent	1	SS&C GIDS, Inc.	084-00448	    
+0000842657-24-000010	serviceCompanyTransferAgent	1	SS&C GIDS Inc.	084-00448	    
+0000882734-24-000003	asServiceCompany	1	Liberty Stock Transfer	084-06623	788 Shrewsbury Ave Suite 2163 Tinton Falls NJ 07716
+0000950123-24-002974	serviceCompanyTransferAgent	1	SS&C GIDS, Inc.	084-00448	    
+0000024179-24-000001	asServiceCompanyTransferAgent	1	TSX Trust	084-06502	    
+0000027048-24-000001	asServiceCompanyTransferAgent	11	MFS Service Center, Inc.	084-01316	    
+0000027048-24-000001	asServiceCompanyTransferAgent	7	Fidelity Investments Institutional Operations Co., LLC.	084-01839	    
+0000027048-24-000001	asServiceCompanyTransferAgent	2	State Street Bank & Trust Company	085-05003	    
+0000027048-24-000001	asServiceCompanyTransferAgent	6	Goldman, Sachs & Co. LLC.	084-01100	    
+0000027048-24-000001	asServiceCompanyTransferAgent	9	Columbia Management Investment Services Corp.	084-05685	    
+0000027048-24-000001	asServiceCompanyTransferAgent	16	T. Rowe Price Retirement Plan Services, Inc.	084-01917	    
+0000027048-24-000001	asServiceCompanyTransferAgent	1	Thrivent Financial Investor Services, Inc.	084-01547	    
+0000027048-24-000001	asServiceCompanyTransferAgent	14	Russell Investments Fund Services, LLC.	084-06276	    
+0000027048-24-000001	asServiceCompanyTransferAgent	13	Hartford Administrative Services Company	084-00353	    
+0000027048-24-000001	asServiceCompanyTransferAgent	5	American Century Services, LLC.	084-01406	    
+0000027048-24-000001	serviceCompanyTransferAgent	1	SS&C FinTech Services India Private Limited	084-06342	    
+0000027048-24-000001	asServiceCompanyTransferAgent	4	Transamerica Fund Services, Inc.	084-06130	    
+0000027048-24-000001	asServiceCompanyTransferAgent	10	Principal Shareholder Services, Inc.	084-05657	    
+0000027048-24-000001	asServiceCompanyTransferAgent	8	NYLIM Service Company LLC.	084-05844	    
+0000027048-24-000001	asServiceCompanyTransferAgent	15	Prudential Mutual Fund Services, LLC.	084-05681	    
+0000027048-24-000001	asServiceCompanyTransferAgent	12	John Hancock Signature Services, Inc.	084-01885	    
+0000027048-24-000001	asServiceCompanyTransferAgent	3	DWS Service Company	084-01713	    
+0000817712-24-000006	serviceCompanyTransferAgent	1	SS&C GIDS, Inc./TA	084-00448	    
+0000071138-24-000003	serviceCompanyTransferAgent	2	TSX TRUST CO	084-06506	    
+0000071138-24-000003	asServiceCompanyTransferAgent	2	SEDONA EQUITY REGISTRAR & TRANSFER INC	084-06562	    
+0000071138-24-000003	asServiceCompanyTransferAgent	1	ODYSSEY TRUST CO	084-06568	    
+0001170078-24-000001	serviceCompanyTransferAgent	1	SS&C GIDS, Inc.	084-00448	    
+0001140361-24-014396	asServiceCompany	1	Nottingham Shareholder Services LLC	084-05687	116 South Franklin Street  Rocky Mount NC 27804
+0001140361-24-014396	asServiceCompany	2	AFLAC INC /GA/ /TA	084-00501	1932 Wynnton Road  Columbus GA 31999
+0000071138-24-000003	serviceCompanyTransferAgent	1	ODYSSEY TRUST CO	084-06568	    
+0001999371-24-003649	serviceCompany	1	Equiniti India Pvt Ltd.	084-06598	Zed Tech Park, No 74A Keonics Electronic City Phase 1 Bangalore K7 560100
+0001999371-24-003649	asServiceCompany	4	TSX Trust Company (Canada)	084-06506	100 Adelaide Street West Suite 300 Toronto A6 M5H 1S3
+0001999371-24-003649	asServiceCompany	2	Ultimus Fund Solutions LLC/TA	084-05829	225 Pictoria Drive Suite 450 Cincinnati OH 45246
+0001999371-24-003649	asServiceCompany	1	JP Morgan Chase Bank NA	085-11399	4 Chase Metrotech Center  Brooklyn NY 11245-0001
+0001999371-24-003649	asServiceCompany	3	Deutsche Bank Trust Co Americas/TA	085-05212	1 Columbus Circle  New York NY 10019-8735
+0001288777-24-000004	asServiceCompanyTransferAgent	3	Computershare Inc.	084-05925	    
+0001288777-24-000004	serviceCompanyTransferAgent	1	Computershare Investor Services Inc.	084-06111	    
+0001288777-24-000004	asServiceCompanyTransferAgent	2	Computershare Trust Company, NA	085-11340	    
+0001288777-24-000004	asServiceCompanyTransferAgent	1	Computershare Investor Services Inc.	084-06111	    
+0001288777-24-000004	serviceCompanyTransferAgent	2	Computershare Trust Company, NA	085-11340	    
+0001288777-24-000004	serviceCompanyTransferAgent	3	Computershare Inc.	084-05925	    
+0001288763-24-000004	asServiceCompanyTransferAgent	1	Computershare Trust Company of Canada	084-06112	    
+0001288763-24-000004	serviceCompanyTransferAgent	2	Computershare Trust Company, NA	085-11340	    
+0001288763-24-000004	asServiceCompanyTransferAgent	3	Computershare Inc.	084-05925	    
+0001288763-24-000004	serviceCompanyTransferAgent	3	Computershare Inc.	084-05925	    
+0001288763-24-000004	serviceCompanyTransferAgent	1	Computershare Trust Company of Canada	084-06112	    
+0001288763-24-000004	asServiceCompanyTransferAgent	2	Computershare Trust Company, NA	085-11340	    
+0001776449-24-000001	serviceCompany	1	Olde Monmouth Stock Transfer	084-01986	200 Memorial Parkway  Atlantic Highlands NJ 07716
+0000840464-24-000003	serviceCompanyTransferAgent	1	Computershare Trust Company, NA/TA	085-11340	    
+0000840464-24-000003	serviceCompanyTransferAgent	2	Computershare Inc	084-05925	    
+0000869442-24-000002	serviceCompanyTransferAgent	1	S S & C Global Investor & Distribution Solutions, Inc.	084-00896	    
+0001145695-24-000002	serviceCompanyTransferAgent	1	Computershare Trust Company, N.A.	085-11340	    
+0001145695-24-000001	serviceCompanyTransferAgent	1	Computershare Delaware Trust Company, N.A.	085-05570	    
+0000831495-24-000002	serviceCompanyTransferAgent	1	Bank of New York Mellon	084-01761	    
+0000025728-24-000002	serviceCompanyTransferAgent	1	Computershare Trust Company, NA	085-11340	    
+0000831495-24-000001	serviceCompanyTransferAgent	1	Bank of New York Mellon	084-01761	    
+0001474589-24-000002	serviceCompanyTransferAgent	1	Ultimus Fund Solutions, LLC/TA	084-05829	    
+0001073944-24-000005	asServiceCompanyTransferAgent	1	Lee Financial Keeping Inc/HI/TA	084-05507	    
+0000734713-24-000003	serviceCompanyTransferAgent	1	Equiniti Trust Company, LLC /TA	084-00416	    
+0000894189-24-001724	asServiceCompanyTransferAgent	1	JP Morgan Chase Bank, National Association	085-11399	    
+0000950123-24-002876	serviceCompanyTransferAgent	10	Goldman Sachs & Co LLC	084-01100	    
+0000950123-24-002876	serviceCompanyTransferAgent	6	Edward D Jones & Co LP	084-01496	    
+0000950123-24-002876	serviceCompanyTransferAgent	3	The Vanguard Group Inc	084-00772	    
+0000950123-24-002876	serviceCompanyTransferAgent	2	Alight Solutions LLC (formerly Hewitt Associates, LLC)	084-01996	    
+0000950123-24-002876	serviceCompanyTransferAgent	5	BNY Mellon Investment Servicing (US) Inc	084-01761	    
+0000950123-24-002876	serviceCompanyTransferAgent	9	Nationwide Fund Management LLC (FKA Nationwide Financial Services Inc)	084-00825	    
+0000950123-24-002876	serviceCompanyTransferAgent	7	Fidelity Investments Institutional Operations Co Inc	084-01839	    
+0000950123-24-002876	serviceCompanyTransferAgent	1	National Financial Services LLC	084-05888	    
+0000950123-24-002876	serviceCompanyTransferAgent	11	SS&C GIDS, Inc (formerly DST Systems Inc)	084-00448	    
+0000950123-24-002876	serviceCompanyTransferAgent	4	Valic Retirement Services Co	084-06057	    
+0000950123-24-002876	serviceCompanyTransferAgent	8	Wells Fargo Bank NA	085-10133	    
+0000950123-24-002875	serviceCompany	6	Edward D Jones & Co LP	084-01496	12555 Manchester Rd  St. Louis MO 63131
+0000950123-24-002875	serviceCompany	10	Wells Fargo Bank NA	085-10133	600 South 4th Street 7th Floor Minneapolis MN 55415-1526
+0000950123-24-002875	serviceCompany	9	Goldman Sachs & Co LLC	084-01100	71 S Wacker Drive Ste 500 Chicago IL 60606
+0000950123-24-002875	serviceCompany	8	Nationwide Fund Management LLC (formerly Nationwide Financial Services Inc)	084-00825	10 West Nationwide Blvd 5-02-210T Columbus OH 43215
+0000950123-24-002875	serviceCompany	1	National Financial Services, LLC	084-05888	499 Washington Blvd. 5th FL Jersey City NJ 07310
+0000950123-24-002875	serviceCompany	3	The Vanguard Group, Inc.	084-00772	100 Vanguard Blvd.  Malvern PA 19355
+0000950123-24-002875	serviceCompany	5	Valic Retirement Services Co.	084-06057	2929 Allen Parkway L4-01  Houston TX 77109
+0000950123-24-002875	serviceCompany	2	Alight Solutions LLC (formerly Hewitt Associates LLC)	084-01996	4 Overlook Point  Lincolnshire IL 60069
+0000950123-24-002875	serviceCompany	11	SS&C GIDS, Inc (formerly DST Systems Inc)	084-00448	1055 Broadway 7th FL Kansas City MO 64105
+0000950123-24-002875	serviceCompany	4	BNY Mellon Investment Servicing (U.S.) Inc.	084-01761	118 Flanders Road  Westborough MA 01581
+0000950123-24-002875	serviceCompany	7	Fidelity Investments Institutional Operations Co Inc.	084-01839	245 Summer Street  Boston MA 02210
+0000854729-24-000002	asServiceCompanyTransferAgent	1	UMB BANK & TRUST, NATIONAL ASSOCIATION	085-11314	    
+0001418054-24-000001	serviceCompanyTransferAgent	1	SS&C GIDS, Inc	084-00448	    
+0000950123-24-002863	serviceCompanyTransferAgent	1	SS&C GIDS, Inc.	084-00448	    
+0000862124-24-000003	serviceCompanyTransferAgent	1	National Financial Services LLC\TA	084-05888	    
+0000862124-24-000003	serviceCompanyTransferAgent	2	Fidelity Business Services India Private Limited	084-06287	    
+0001133702-24-000002	asServiceCompanyTransferAgent	1	Fidelity Investments Institutional Operations Company LLC	084-01839	    
+0001018490-24-000008	asServiceCompany	1	Deutsche Bank National Trust Company	085-11220	1999 Avenue of the Stars, Ste. 3750  Los Angeles CA 90067
+0001018490-24-000008	asServiceCompany	2	Deutsche Bank Trust Company Americas	085-05212	1 Columbus Circle Mail Stop NYC01-1710 New York NY 10019-8735
+0001145959-24-000002	serviceCompanyTransferAgent	1	UMB BANK NA	085-10225	    
+0001419454-24-000002	asServiceCompanyTransferAgent	1	Fidelity Investments Institutional Operations Company LLC	084-01839	    
+0000735383-24-000001	serviceCompanyTransferAgent	1	SS&C GIDS Inc.	084-00448	    
+0000735383-24-000001	serviceCompanyTransferAgent	2	UMB Fund Services Inc.	084-05792	    
+0001179131-24-000002	serviceCompanyTransferAgent	1	The Bank of New York Mellon	085-05006	    
+0000005076-24-000002	serviceCompanyTransferAgent	1	DST Asset Manager Solutions, Inc.	084-00896	    
+0001285911-24-000001	serviceCompanyTransferAgent	1	BNY Mellon Investment Servicing (US) Inc.	084-01761	    
+0001419454-24-000001	asServiceCompany	1	Fidelity Investments Institutional Operations Company LLC	084-01839	245 Summer Street  Boston MA 02210
+0001140361-24-010943	asServiceCompanyTransferAgent	1	Nottingham Shareholder Services LLC	084-05687	    
+0001140361-24-010943	asServiceCompanyTransferAgent	2	AFLAC INC /GA/ /TA	084-00501	    
+0001371431-24-000003	serviceCompanyTransferAgent	2	Equinity Trust Company, LLC	084-00416	    
+0001371431-24-000003	asServiceCompanyTransferAgent	1	Fifth Third Bank/OH	085-05080	    
+0001371431-24-000003	serviceCompanyTransferAgent	1	The Bank of New York Mellon	085-05006	    
+0001371431-24-000003	asServiceCompanyTransferAgent	2	Banknorth, N.A.	085-11375	    
+0000769188-24-000002	serviceCompanyTransferAgent	1	SS&C GIDS, Inc	084-00448	    
+0000765207-24-000006	serviceCompanyTransferAgent	1	Broadridge Corporate Issuer Solutions Inc	084-01007	    
+0000735286-24-000005	serviceCompany	3	State Street Bank & Trust Co /TA	085-05003	1776 HERITAGE DRIVE JOHN ADAMS BUILDING NORTH QUINCY MA 02171
+0000735286-24-000005	serviceCompany	2	JP Morgan Chase Bank NA	085-11399	4 NEW YORK PLAZA  NEW YORK TX 10004
+0000735286-24-000005	serviceCompany	1	Bank of New York Mellon /TA	085-05006	101 BARCLAY ST  NEW YORK NY 10286
+0001559963-24-000001	asServiceCompanyTransferAgent	1	BNY Mellon Investment Servicing (US) Inc.	084-01761	    
+0001559963-24-000001	asServiceCompanyTransferAgent	2	The Bank of New York Mellon	085-05006	    
+0000849542-24-000001	asServiceCompanyTransferAgent	4	BNY Mellon Transfer, Inc.	084-06102	    
+0000849542-24-000001	asServiceCompanyTransferAgent	3	Delaware Investments Fund Services Company	084-06512	    
+0000849542-24-000001	serviceCompanyTransferAgent	2	BNY Mellon International Operations (India) Private Ltd	084-06496	    
+0000849542-24-000001	asServiceCompanyTransferAgent	1	PGIM Mutual Fund Services, LLC	084-05681	    
+0000849542-24-000001	serviceCompanyTransferAgent	1	Computershare Inc.	084-05925	    
+0000849542-24-000001	asServiceCompanyTransferAgent	2	Virtus Fund Services, LLC	084-06485	    
+0000914717-24-000001	serviceCompanyTransferAgent	1	Ultimus Fund Solutions LLC /TA	084-05829	    
+0000842657-24-000007	serviceCompany	1	SS&C GIDS, Inc.	084-00448	1055 Broadway St  Kansas City MO 64105
+0000794265-24-000002	serviceCompanyTransferAgent	1	SS&C GIDS, Inc.	084-00448	    
+0001562770-24-000002	serviceCompanyTransferAgent	1	BNY Mellon Investment Servicing (US) Inc	084-01761	    
+0000862124-24-000001	serviceCompany	1	National Financial Services, LLC	084-05888	499 Washington Blvd  Jersey City NJ 07310
+0000862124-24-000001	serviceCompany	2	Fidelity Business Services India Private Limited	084-06287	Embassy Golf Links Business Park Off Intermediate Ring Road Bangalore K7 560071
+0002003426-24-000001	serviceCompany	1	Equity Stock Transfer, LLC	084-06453	237 W 37th St Suite 602 New York NY 10018
+0001603694-24-000002	serviceCompanyTransferAgent	1	CLEAR TRUST	084-06351	    
+0000071138-24-000001	serviceCompany	1	TSX TRUST CO	084-06506	100 ADELAIDE STREET WEST SUITE 300 TORONTO Z4 M5H 1S3
+0000071138-24-000001	asServiceCompany	1	TSX TRUST CO	084-06506	100 ADELAIDE STREET WEST SUITE 300 TORONTO Z4 M5H 1S3
+0001030030-24-000002	serviceCompanyTransferAgent	1	Broadridge Corporate Issuer Solutions, Inc.	084-01007	    
+0000920493-24-000002	serviceCompanyTransferAgent	1	UMB Fund Services, Inc.	084-05792	    
+0001146230-24-000003	serviceCompany	1	Computershare Trust Company of Canada	084-06112	100 University Avenue, 11th Floor  Toronto A6 M5J 2Y1
+0001146230-24-000003	asServiceCompany	5	The Bank of New York Mellon	085-05006	101 Barclay Street  New York NY 10286
+0001146230-24-000003	asServiceCompany	1	Citibank, N.A.	085-10232	111 Wall Street  New York NY 10043
+0001146230-24-000003	asServiceCompany	2	Computershare Trust Company, N.A.	085-11340	150 Royall Street  Canton MA 02021-1011
+0001146230-24-000003	asServiceCompany	4	Computershare Investor Services Inc.	084-06111	100 University Avenue, 11th Floor  Toronto A6 M5J 2Y1
+0001146230-24-000003	asServiceCompany	3	Computershare Trust Company of Canada	084-06112	100 University Avenue, 11th Floor  Toronto A6 M5J 2Y1
+0001146230-24-000003	asServiceCompany	7	Computershare Delaware Trust Company	085-05570	919 North Market Street, Suite 1600  Wilmington DE 19801
+0001146230-24-000003	asServiceCompany	6	Computershare Investor Services Ltd.	084-06720	46 Floor Hopewell Centre 183 Queen's Road East Wanchai K3 Hong Kong K3 00000
+0000216108-24-000001	serviceCompanyTransferAgent	1	U.S. Bancorp Fund Services, LLC	085-11357	    
+0001018490-24-000006	asServiceCompany	2	Deutsche Bank Trust Company Americas	085-05212	1 Columbus Circle Mail Stop NYC01-1710 New York NY 10019-8735
+0001018490-24-000006	asServiceCompany	1	Deutsche Bank National Trust Company	085-11220	1999 Avenue of the Stars, Ste. 3750  Los Angeles CA 90067
+0001018490-24-000004	asServiceCompany	2	Deutsche Bank Trust Company Americas	085-05212	1 Columbus Circle Mail Stop NYC01-1710 New York NY 10019-8735
+0001018490-24-000004	asServiceCompany	1	Deutsche Bank National Trust Company	085-11220	1999 Avenue of the Stars, Ste. 3750  Los Angeles CA 90067
+0001073944-24-000002	asServiceCompany	1	Hartford Administrative Services Company	084-00353	690 Lee Road  Wayne PA 19087
+0001999371-24-000944	asServiceCompany	4	TSX Trust Company (Canada)	084-06506	100 Adelaide Street West Suite 300 Toronto A6 M5H1S3
+0001999371-24-000944	asServiceCompany	3	Deutsche Bank Trust Co Americas/TA	085-05212	1 Columbus Circle  New York NY 10019-8735
+0001999371-24-000944	asServiceCompany	2	Ultimus Fund Solutions LLC/TA	084-05829	225 Pictoria DR STE 450 Cincinnati OH 45246
+0001999371-24-000944	asServiceCompany	1	JP Morgan Chase Bank NA	085-11399	4 New York Plaza  New York NY 10004-2413
+0001999371-24-000944	serviceCompany	1	Equiniti India Pvt Ltd.	084-06598	Zed Tech Park, No 74A Keonics Electronic City Phase 1 Bangalore K7 560100
+0001133702-24-000001	asServiceCompany	1	Fidelity Investments Institutional Operations Company LLC	084-01839	245 Summer Street  Boston MA 02210
+0001288777-24-000002	serviceCompany	3	Computershare Trust Company, N.A.	085-11340	250 Royall Street  Canton MA 02021
+0001288777-24-000002	serviceCompany	1	Computershare Investor Services Inc.	084-06111	100 University Avenue 8th Floor Toronto A6 M5J 2Y1
+0001288777-24-000002	serviceCompany	2	Computershare Inc.	084-05925	250 Royall Street  Canton MA 02021
+0001288777-24-000002	asServiceCompany	1	Computershare Investor Services Inc.	084-06111	100 University Avenue 8th Floor Toronto A6 M5J 2Y1
+0001288777-24-000002	asServiceCompany	3	Computershare Trust Company, N.A.	085-11340	250 Royall Street  Canton MA 02021
+0001288777-24-000002	asServiceCompany	2	Computershare Inc.	084-05925	250 Royall Street  Canton MA 02021
+0001288763-24-000002	asServiceCompany	3	Computershare Trust Company, N.A.	085-11340	250 Royall Street  Canton MA 02021
+0001288763-24-000002	serviceCompany	1	Computershare Trust Company of Canada	084-06112	100 University Avenue 8th floor Toronto A6 M5J 2Y1
+0001288763-24-000002	serviceCompany	2	Computershare Inc.	084-05925	250 Royall Street  Canton MA 02021
+0001288763-24-000002	asServiceCompany	1	Computershare Trust Company of Canada	084-06112	100 University Avenue 8th Floor Toronto A6 M5J 2Y1
+0001288763-24-000002	asServiceCompany	2	Computershare Inc.	084-05925	250 Royall Street  Canton MA 02021
+0001288763-24-000002	serviceCompany	3	Computershare Trust Company, N.A.	085-11340	250 Royall Street  Canton MA 02021
+0001018490-24-000002	asServiceCompany	1	Deutsche Bank National Trust Company	085-11220	1999 Avenue of the Stars, Ste. 3750  Los Angeles CA 90067
+0001018490-24-000002	asServiceCompany	2	Deutsche Bank Trust Company Americas	085-05212	1 Columbus Circle Mail Stop NYC01-1710 New York NY 10019-8735
+0000842657-24-000002	serviceCompany	1	SS&C GIDS, Inc.	084-00448	1055 Broadway St  Kansas City MO 64105
+0001199835-24-000012	serviceCompanyTransferAgent	1	Nevada Agency & Transfer Company	084-00076	    
+0001424537-24-000001	serviceCompanyTransferAgent	1	WESTCOAST STOCK TRANSFER	084-06347	    
+0001424537-24-000001	serviceCompanyTransferAgent	2	DIRECT TRANSFER LLC	084-06338	    
+0000817712-24-000003	serviceCompany	1	SS&C GIDS, Inc.	084-00448	1055 Broadway  Kansas City MO 64105
+0000734700-24-000001	serviceCompany	2	SS&C GIDS, Inc	084-00448	1055 Broadway St  Kansas Ctiy MO 64105
+0000734700-24-000001	serviceCompany	1	DST Asset Manager Solutions, Inc./TA	084-00896	2000 Crown Colony Drive  Quincy MA 02169

@@ -1,0 +1,82 @@
+ACCESSION_NUMBER	ADDRESS_ID	ADDRESS_TYPE	ADDRESS
+0001486544-11-000004	1	principalOfficeAddress	1235 Howard St Suite D San Francisco CA 94103
+0001261763-11-000004	1	principalOfficeAddress	400 Madison Avenue 4th Floor New York NY 10017
+0000817712-11-000016	2	mailingAddress	625 Fourth Avenue South  Minneapolis MN 55415
+0000817712-11-000016	1	principalOfficeAddress	4321 N. Ballard Road  Appleton WI 54919
+0000769188-11-000006	1	principalOfficeAddress	100 Hancock Street  Quincy MA 02171
+0001466955-11-000012	1	principalOfficeAddress	16 Maiden Lane Suite 300 San Francisco CA 94108
+0000071138-11-000004	1	principalOfficeAddress	50 West Liberty Street Ste 880 Reno NV 89501
+0001018490-11-000015	1	principalOfficeAddress	5022 Gate Parkway, Suite 200  Jacksonville FL 32256-7088
+0000944496-11-000007	1	otherBusinessLocation	Mellon Client Service Center 500 Ross Street Pittsburgh PA 15262
+0000944496-11-000007	1	principalOfficeAddress	Newport Office Center VII 480 Washington Boulevard Jersey City NJ 07310
+0001285911-11-000010	1	principalOfficeAddress	144 Glenn Curtiss Boulevard  Uniondale NY 11556
+0001285911-11-000010	2	mailingAddress	200 Park Avenue  New York NY 10166
+0001277690-11-000012	2	otherBusinessLocation	600 The Dome Tower 333, 7th Avenue SW Calgary A0 T2P 2Z1
+0001277690-11-000012	4	otherBusinessLocation	1600 Hollis Street 4th Floor Halifax A5 B3J 1V7
+0001277690-11-000012	1	principalOfficeAddress	320 Bay Street  Toronto A6 M5H 4A6
+0001277690-11-000012	1	otherBusinessLocation	1066 West Hastings Street Suite 1600 Vancouver A1 V6E 3X1
+0001277690-11-000012	3	otherBusinessLocation	2001 University Street 16th Floor Montreal A8 H3A 2A6
+0001144204-11-035188	1	principalOfficeAddress	77 Spruce Street Suite 201 Cedarhurst NY 11516
+0001078782-11-001593	1	principalOfficeAddress	2469 E FORT UNION BLVD STE 214 SALT LAKE CITY UT 84121
+0000892712-11-000445	1	principalOfficeAddress	2000 Wells Fargo Place 30 East 7th Street St. Paul MN 55101-4930
+0001214659-11-001876	1	principalOfficeAddress	14 Philips Parkway  Montvale NJ 07645-1811
+0001139576-11-000004	1	principalOfficeAddress	One Commerce Square 2005 Market Street, 15th Floor Philadelphia PA 19103
+0001283467-11-000004	1	otherBusinessLocation	600 - 750 Cambie Street  Vancouver A1 V6B 0A2
+0001283467-11-000004	1	principalOfficeAddress	Suite 310 - 606 4th Street S.W.  Calgary A0 T2P 1T1
+0001283467-11-000004	2	otherBusinessLocation	Suite 710 - 130 King St West PO Box 34 Toronto A6 M5X 1A9
+0000027048-11-000004	5	otherBusinessLocation	430 W 7th Street  Kansas City MO 64105
+0000027048-11-000004	6	otherBusinessLocation	4900 Main  Kansas City MO 64112
+0000027048-11-000004	4	otherBusinessLocation	333 W 11th Street  Kansas City MO 64105
+0000027048-11-000004	2	mailingAddress	Attn: Legal Department 333 W 11th Street 5th Floor Kansas City MO 64105
+0000027048-11-000004	1	principalOfficeAddress	210 W 10th Street  Kansas City MO 64105
+0000027048-11-000004	1	otherBusinessLocation	7201 E 64th Ct  Kansas City MO 64133
+0000027048-11-000004	2	otherBusinessLocation	330 W 9th Street  kansas City MO 64105
+0000027048-11-000004	3	otherBusinessLocation	816 Broadway  Kansas City MO 64105
+0001018490-11-000012	1	principalOfficeAddress	5022 Gate Parkway, Suite 200  Jacksonville FL 32256-7088
+0001466955-11-000008	1	principalOfficeAddress	16 Maiden Lane Suite 300 San Francisco CA 94108
+0000891010-11-000004	1	principalOfficeAddress	1926 EAST 6400 SOUTH  SALT LAKE CITY UT 84121
+0000891010-11-000004	2	mailingAddress	6364 SOUTH HIGHLAND DR STE 201  SALT LAKE CITY UT 84121
+0001518573-11-000007	1	principalOfficeAddress	7285 W 132nd Street Suite 240 Overland Park KS 66213
+0000896852-11-000018	2	mailingAddress	Corporate Secretary, Legal Department 5140 Yonge Street, Suite 900 Toronto A6 M2N 6X7
+0000896852-11-000018	1	principalOfficeAddress	119 Euston Street  Charlottetown A7 C1A 1W3
+0001144204-11-025607	2	mailingAddress	59 Maiden Lane Plaza Level New York NY 10038
+0001144204-11-025607	1	principalOfficeAddress	Operations Center 6201 15th Avenue Brooklyn NY 11219
+0001144204-11-025607	1	otherBusinessLocation	10150 Mallard Creek Road Suite 307 Charlotte NC 28262
+0001144204-11-025607	2	otherBusinessLocation	1218 Third Avenue Suite 1700 Seattle WA 98101
+0000950123-11-043213	1	principalOfficeAddress	1900 Main Street Suite 700 Irvine CA 92614
+0000849542-11-000005	1	otherBusinessLocation	760 Moore Road  King of Prussia PA 19406
+0000849542-11-000005	1	principalOfficeAddress	4400 Computer Drive  Westborough MA 01581
+0000849542-11-000005	2	otherBusinessLocation	100 Freight Street  Pawtucket RI 02860
+0000849542-11-000005	3	otherBusinessLocation	400 Bellevue Parkway  Wilmington DE 19809
+0001413398-11-000007	1	otherBusinessLocation	522 Fifth Avenue 6th Floor New York City NY 10036
+0001413398-11-000007	1	principalOfficeAddress	201 Plaza Two 3rd Floor Jersey City NJ 07311
+0001372934-11-000007	1	principalOfficeAddress	130 King Street West Suite 2950, P.O. Box 361 Toronto A6 M5X 1E2
+0000275143-11-000006	1	principalOfficeAddress	2000 Crown Colony Drive  Quincy MA 02169
+0000275143-11-000006	2	otherBusinessLocation	2000 Bluffs Drive  Lawrence KS 66044
+0000275143-11-000006	1	otherBusinessLocation	30 Dan Road  Canton MA 02021
+0000275143-11-000006	3	otherBusinessLocation	12 Water Street  Rockland ME 04841
+0001288777-11-000008	2	otherBusinessLocation	1500 University Street Suite 700 Montreal A8 H3A 3S8
+0001288777-11-000008	1	otherBusinessLocation	Purdy's Wharf, Tower 2 1969 Upper Water St. Suite 2008 Halifax A5 B3J 3R7
+0001288777-11-000008	3	otherBusinessLocation	530-8th Avenue S.W. Suite 600 Calgary A0 T2P 3S8
+0001288777-11-000008	1	principalOfficeAddress	100 University Ave 9th Floor Toronto A6 M5J 2Y1
+0001288777-11-000008	4	otherBusinessLocation	510 Burrard Street 2nd Floor Vancouver A1 V6C 3B9
+0000915794-11-000004	1	principalOfficeAddress	101 Munson Street, Ste 104  Greenfield MA 01301-9684
+0000915794-11-000004	2	mailingAddress	Compliance Department 100 Pearl Street Hartford CT 06103
+0001020337-11-000004	2	otherBusinessLocation	6200 Park Ave  Des Moines IA 50321
+0001020337-11-000004	1	principalOfficeAddress	1100 Investment Blvd Ste 200 El Dorado Hills CA 95762
+0001020337-11-000004	1	otherBusinessLocation	650 8th St  Des Moines IA 50392
+0001144204-11-022297	1	principalOfficeAddress	2850 Quarry Lake Drive 3rd Floor Baltimore MD 21209
+0001323210-11-000002	1	principalOfficeAddress	7577 W. 103rd Avenue Suite 212 Westminster CO 80021
+0001213900-11-001861	1	principalOfficeAddress	2416 LINCOLN STREET  HOLLYWOOD FL 33020
+0001452780-11-000005	1	principalOfficeAddress	5th Floor, Block B, Q City Nanakramguda, Gachibowli Hyderabad K7 500032
+0001283467-11-000003	1	otherBusinessLocation	600 - 750 Cambie Street  Vancouver A1 V6B 0A2
+0001283467-11-000003	2	otherBusinessLocation	Suite 710 - 130 King St West PO Box 34 Toronto A6 M5X 1A9
+0001283467-11-000003	1	principalOfficeAddress	Suite 310 - 606 4th Street S.W.  Calgary A0 T2P 1T1
+0000027048-11-000003	2	otherBusinessLocation	330 W 9th Street  kansas City MO 64105
+0000027048-11-000003	3	otherBusinessLocation	816 Broadway  Kansas City MO 64105
+0000027048-11-000003	5	otherBusinessLocation	430 W 7th Street  Kansas City MO 64105
+0000027048-11-000003	6	otherBusinessLocation	4900 Main  Kansas City MO 64112
+0000027048-11-000003	2	mailingAddress	Attn: Legal Department 333 W 11th Street 5th Floor Kansas City MO 64105
+0000027048-11-000003	1	principalOfficeAddress	210 W 10th Street  Kansas City MO 64105
+0000027048-11-000003	1	otherBusinessLocation	7201 E 64th Ct  Kansas City MO 64133
+0000027048-11-000003	4	otherBusinessLocation	333 W 11th Street  Kansas City MO 64105

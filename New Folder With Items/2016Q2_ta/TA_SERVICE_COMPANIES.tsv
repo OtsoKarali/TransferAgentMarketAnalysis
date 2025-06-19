@@ -1,0 +1,99 @@
+ACCESSION_NUMBER	COMPANY_TYPE	SVCCOMPANY_ID	ENTITYNAME	FILENUMBER	ADDRESS
+0001451217-16-000009	serviceCompany	1	UMB Funds Services, Inc.	084-05792	803 West Michigan Street Suite A Milwaukee  53233
+0000896852-16-000045	asServiceCompany	1	Invesco Investment Services, Inc	084-05432	11 Greenway Plaza Ste 1000  Houston  77046
+0000737074-16-000010	serviceCompany	1	BNY Mellon Investment Servicing (US) Inc.	084-01761	4400 Computer Dr.  Westborough  01581
+0000019617-16-001021	asServiceCompanyTransferAgent	1	Vantagepoints Transfer Agents, LLC	084-05796	    
+0000019617-16-001021	asServiceCompanyTransferAgent	2	Nationwide Fund Services	084-00825	    
+0000019617-16-001021	serviceCompanyTransferAgent	1	Boston Financial Data Services	084-00896	    
+0000019617-16-001021	serviceCompanyTransferAgent	2	Wells Fargo Bank, NA	085-10133	    
+0000019617-16-001021	serviceCompanyTransferAgent	3	Bank of New York	085-11396	    
+0000019617-16-001021	serviceCompanyTransferAgent	4	U.S. Bancorp	085-11357	    
+0000810704-16-000014	asServiceCompany	1	BNY Mellon Investments Servicing (US) Inc. fka PNC Global Investment Services, Inc.	084-01761	400 Bellevue Parkway  Wilmington  19809
+0000810704-16-000014	asServiceCompany	2	Pioneer Investment Management Shareholder Services	084-01359	60 State Street  Boston  02109
+0000810704-16-000014	asServiceCompany	3	American Century Services, LLC	084-01406	4500 Main Street  Kansas City  64111
+0000810704-16-000014	asServiceCompany	4	Invesco Investment Services Inc	084-05432	11 Greenway Plaza Ste. 100  Houston  77046
+0000810704-16-000014	asServiceCompany	5	Franklin Templeton Investor Services, LLC	084-01036	3344 Quality Drive  Rancho Cordova  95670
+0000740583-16-000458	asServiceCompanyTransferAgent	1	Rydex Fund Services, LLC	084-05475	    
+0000950123-16-017873	asServiceCompany	1	Equity Financial Trust Company	084-01990	200 UNIVERSITY AVE, SUITE 400 TORONTO  MSH 4H1
+0001288777-16-000013	asServiceCompany	1	Computershare Investor Services Inc.	084-06111	100 University Avenue 8th floor Toronto  M5J 2Y1
+0001288777-16-000013	asServiceCompany	2	Computershare Inc.	084-05925	250 Royall Street  Canton  02021
+0001288777-16-000013	asServiceCompany	3	Computershare Trust Company, N.A.	085-11340	250 Royall Street  Canton  02021
+0001288777-16-000013	serviceCompany	1	Computershare Investor Services Inc.	084-06111	100 University Avenue 8th Floor Toronto  M5J 2Y1
+0001288777-16-000013	serviceCompany	2	Computershare Inc.	084-05925	250 Royall Street  Canton  02021
+0001288777-16-000013	serviceCompany	3	Computershare Trust Company, N.A.	085-11340	250 Royall Street  Canton  02021
+0000740583-16-000456	asServiceCompany	1	Rydex Fund Services, LLC	084-05475	805 King Farm Blvd.  Suite 600  Rockville  20805
+0001077223-16-000026	serviceCompany	1	J. P. Morgan	085-11399	One Beacon Street, 20th Floor  Boston  02108
+0001077223-16-000025	serviceCompany	1	J. P. Morgan	085-11399	One Beacon Street, 20th Floor  Boston  02108
+0000275143-16-000024	asServiceCompany	1	State Street Bank and Trust Company	085-05003	One Lincoln Street  Boston  02111-2900
+0000275143-16-000024	asServiceCompany	2	DST Systems, Inc.	084-00448	333 W. 11th Street  Kansas City  64105
+0000275143-16-000024	asServiceCompany	3	Boston Financial Data Services, Inc.	084-00896	2000 Crown Colony Drive  Quincy  02169
+0000275143-16-000024	asServiceCompany	4	Goldman Sachs & Company	084-01100	71 S. Wacker Drive  Chicago  60606
+0000275143-16-000024	asServiceCompany	5	Weitz Investment Management, Inc.	084-01858	1125 S. 103rd Street  Omaha  68124
+0000275143-16-000024	serviceCompany	1	DST Systems, Inc.	084-00448	333 W. 11th Street  Kansas City  64105
+0000275143-16-000024	serviceCompany	2	Boston Financial Data Services, Inc.	084-00896	2000 Crown Colony  Quincy  02169
+0000275143-16-000023	asServiceCompany	1	State Street Bank and Trust Company	085-05003	One Lincoln Street  Boston  02111-2900
+0000275143-16-000023	asServiceCompany	2	DST Systems, Inc.	084-00448	333 W. 11th Street  Kansas City  64105
+0000275143-16-000023	asServiceCompany	3	NYLIM Service Company LLC	084-05844	169 Lackwanna Avenue  Parsippany  07054
+0000275143-16-000023	asServiceCompany	4	Columbia Management Investment Services Corp.	084-05685	225 Franklin Street 25th Floor Boston  02110
+0000275143-16-000023	asServiceCompany	5	Principal Shareholder Services, Inc.	084-05657	1100 Investment Boulevard Suite 200 El Dorado Hills  95762
+0000275143-16-000023	asServiceCompany	6	MFS Service Center, Inc.	084-01316	500 Boylston Street  Boston  02116
+0000275143-16-000023	asServiceCompany	7	Transamerica Fund Services, Inc.	084-06130	4600 S Syracuse St Ste 1100  Denver  80237
+0000275143-16-000023	asServiceCompany	8	John Hancock Signature Services, Inc.	084-01885	380 Stuart Street  Boston  02116
+0000275143-16-000023	asServiceCompany	9	Hartford Administrative Services Company	084-00353	500 Bielenberg Drive Suite 500 Woodbury  55125
+0000275143-16-000023	asServiceCompany	10	Citibank, N.A.	085-10232	388 Granite Street  New York  10013
+0000275143-16-000023	asServiceCompany	11	Sentinel Administrative Services, Inc.	084-06175	One National Life Drive  Montpelier  05604
+0000275143-16-000023	serviceCompany	1	DST Systems, Inc.	084-00448	333 W. 11th Street  Kansas City  64105
+0000275143-16-000023	serviceCompany	2	National Financial Data Services, Inc.	084-01078	330 W. 9th Street  Kansas City  64105
+0001285911-16-000031	serviceCompany	1	BNY Mellon Investment Servicing (US) Inc.	084-01761	4400 Computer Drive  Westborough  01581
+0000842657-16-000041	serviceCompany	1	DST Systems, Inc.	084-00448	333 West 11th Street  Kansas City  64105
+0001018490-16-000036	asServiceCompany	1	Deutsche Bank Trust Company Americas	085-05212	60 Wall Street, Mail Stop NYC60-3712  New York  10005-2836
+0000950123-16-016123	asServiceCompany	1	Boston Trust & Investment Management, Inc.	085-00174	1 Beacon Street  Boston  02108
+0000950123-16-016123	asServiceCompany	2	Diamond Hill Capital Management, Inc.	084-06385	325 John H. McConnell Blvd.  Columbus  43215
+0000950123-16-016123	asServiceCompany	3	Citi Fund Services Ohio, Inc.	085-11408	3435 Stelzer Road  Columbus  43219
+0001285911-16-000030	serviceCompany	1	BNY Mellon Investment Servicing (US) Inc.	084-01761	4400 Computer Drive  Westborough  01581
+0001354488-16-007091	serviceCompany	1	Direct Transfer, LLC.	084-06338	500 Perimter Park Drive Suite # D Morrisville  27560
+0000896852-16-000040	serviceCompany	1	Invesco Canada Ltd Invesco Canada Ltee doing business as Invesco Enterprise Services Services Entreprise Invesco and Invesco	084-06210	119 Euston Street  Charlottetown  C1A 1W3
+0000027048-16-000010	asServiceCompany	1	Thrivent Financial Investor Services Inc.	084-01547	4321 N Ballard Rd  Appleton  54919
+0000027048-16-000010	asServiceCompany	2	State Street Bank & Trust Company	085-05003	One Lincoln Street  Boston  02111-2900
+0000027048-16-000010	asServiceCompany	3	DeAWM Service Company	084-01713	222 South Riverside Plaza  Chicago  60606
+0000027048-16-000010	asServiceCompany	4	State Farm Investment Management Corp	084-00839	Three State Farm Plaza  Bloomington  61709
+0000027048-16-000010	asServiceCompany	5	Transamerica Fund Services, Inc.	084-06130	AEGON Purchase Processing 570 Carillon Parkway St Petersburg  33716
+0000027048-16-000010	asServiceCompany	6	American Century Services, LLC	084-01406	4500 Main Street  Kansas City  64111
+0000027048-16-000010	asServiceCompany	7	Morgan Stanley Services Co Inc	084-06270	Harborside Financial Center Plaza Two, Third Floor Jersey City  07311
+0000027048-16-000010	asServiceCompany	8	Leaf Financial Corporation	084-05900	1845 Walnut St Ste 100 Philadelphia  19103
+0000027048-16-000010	asServiceCompany	9	Pioneer Investment Management Shareholder Services, Inc	084-01359	60 State Street  Boston  02109
+0000027048-16-000010	serviceCompany	1	Boston Financial Data Services, Inc.	084-00896	2000 Crown Colony Drive  Quincy  02169
+0000027048-16-000010	serviceCompany	2	National Financial Data Services, Inc.	084-01078	330 west 9th Street  Kansas City  64105
+0000027048-16-000010	serviceCompany	3	DST Worldwide Services India Private Limited	084-06342	5th Floor, Block B, Q City Nanakramguda, Gachibowli Hyderabad  500032
+0000027048-16-000010	serviceCompany	4	DST Worldwide Services India Private Limited	084-06342	1st Floor, Block A, Q City Nanakramguda, Gachibowli Hyderabad  500032
+0000027048-16-000010	serviceCompany	5	DST Worldwide Services India Private Limited	084-06342	Suite 201, Building 7, Commerzone Samrat Ashok Path Road, Yerawada Pune  411006
+0001062993-16-009104	serviceCompany	1	American Stock Transfer & Trust Company, LLC	084-00416	Operations Centre 620 15th Avenue Brooklyn  11219
+0001062993-16-009104	serviceCompany	2	Computershare Investor Services Inc.	084-06111	100 University Avenue 8th Floor Toronto  M5J 2Y1
+0001062993-16-009104	serviceCompany	3	CST Investor Services Inc.	084-06416	320 Bay Street 3rd Floor Toronto  M5H 4A6
+0001451217-16-000007	serviceCompany	1	UMB Funds Services, Inc.	084-05792	803 West Michigan Street Suite A Milwaukee  53233
+0001558234-16-000005	asServiceCompany	1	OFI Global Asset Management, Inc.	084-06477	6803 South Tucson Way  Centennial  80112
+0001558234-16-000004	serviceCompany	1	Shareholder Services Inc.	084-00907	6803 South Tucson Way  Centennial  80112
+0001548847-16-000015	serviceCompanyTransferAgent	1	CACEIS (Canada) Limited	084-06469	    
+0001548847-16-000012	serviceCompany	1	CACEIS (Canada) Limited	084-06469	1 Robert Speck Parkway Suite 1400 Mississauga  L4Z3M3
+0001455353-16-000005	serviceCompanyTransferAgent	1	Direct Transfer LLC	084-06338	    
+0001295361-16-000008	serviceCompany	1	Worldwide Stock Transfer LLC	084-06153	One University Plaza Suite 505 Hackensack  07601
+0001550840-16-000006	asServiceCompanyTransferAgent	1	CACEIS (USA) Inc.	084-06471	    
+0001548847-16-000005	serviceCompany	1	CACEIS (Canada) Limited	084-06469	1 Robert Speck Parkway Suite 1400 Mississauga  L4Z3M3
+0000842657-16-000038	serviceCompany	1	DST Systems, Inc.	084-00448	333 West 11th Street  Kansas City  64105
+0001133796-16-000226	asServiceCompanyTransferAgent	1	Columbia Stock Transfer Company	084-01153	    
+0000839097-16-000004	asServiceCompanyTransferAgent	1	Deutsche Bank National Trust Company	085-11220	    
+0001018490-16-000035	asServiceCompanyTransferAgent	1	Deutsche Bank Trust Company Americas	085-05212	    
+0000839287-16-000008	asServiceCompanyTransferAgent	1	Goldman Sachs & Co	084-01100	    
+0001133796-16-000226	asServiceCompanyTransferAgent	2	Bay City Transfer Agency	084-06172	    
+0000839097-16-000004	asServiceCompanyTransferAgent	2	Deutsche Bank AG	085-05478	    
+0000839287-16-000008	asServiceCompanyTransferAgent	2	Russell Fund Services Company	084-06276	    
+0000839287-16-000008	asServiceCompanyTransferAgent	3	The Vanguard Group, Inc	084-00772	    
+0001133796-16-000226	serviceCompanyTransferAgent	1	American Stock Transfer & Trust, LLC	084-00416	    
+0000839287-16-000008	serviceCompanyTransferAgent	1	Boston Financial Data Services, Inc	084-00896	    
+0000839097-16-000004	serviceCompanyTransferAgent	1	DB Services Americas, Inc.	084-05653	    
+0000839097-16-000004	serviceCompanyTransferAgent	2	American Stock Transfer & Trust Company, LLC	084-00416	    
+0000839287-16-000008	serviceCompanyTransferAgent	2	DST Systems, Inc	084-00448	    
+0000839287-16-000008	serviceCompanyTransferAgent	3	National Financial Data Services, Inc	084-01078	    
+0000839097-16-000004	serviceCompanyTransferAgent	3	U.S. Bank National Association	085-11347	    
+0000839287-16-000008	serviceCompanyTransferAgent	4	Computershare Inc	084-05925	    
+0000839097-16-000004	serviceCompanyTransferAgent	4	Continental Stock Transfer & Trust Company	084-00034	    

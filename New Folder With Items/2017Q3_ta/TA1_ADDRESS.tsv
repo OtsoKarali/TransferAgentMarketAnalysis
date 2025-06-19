@@ -1,0 +1,107 @@
+ACCESSION_NUMBER	ADDRESS_ID	ADDRESS_TYPE	ADDRESS
+0000842657-17-000025	1	principalOfficeAddress	222 S. Riverside Plaza  Chicago IL 60606
+0001573302-17-000005	3	otherBusinessLocation	Tour De La Bourse, Box 61 800 Victoria Square Montreal A8 H4Z 1A9
+0001573302-17-000005	2	otherBusinessLocation	300-5th Avenue Sw 10th Floor Calgary A0 T2P 3C4
+0001573302-17-000005	1	principalOfficeAddress	100 Adelaide St. West Suite 301 Toronto A6 M5H 4H1
+0001573302-17-000005	1	otherBusinessLocation	650 West Georgia St. Suite 2700 Vancouver A1 V6B 4N9
+0001716848-17-000001	1	principalOfficeAddress	2905 San Gabriel St. Ste. 212 Austin TX 78705
+0000721748-17-000665	1	principalOfficeAddress	6725 VIA AUSTI PARKWAY SUITE 300 LAS VEGAS NV 89119
+0001295361-17-000007	1	principalOfficeAddress	121 RICHMOND STREET W SUITE 401 TORONTO A6 M5H 2K1
+0001114874-17-000004	1	principalOfficeAddress	6700 E. Pacific Coast Hwy., #150  Long Beach CA 90803
+0001114874-17-000003	1	principalOfficeAddress	6700 E. Pacific Coast Hwy., #150  Long Beach CA 90803
+0000735286-17-000012	2	mailingAddress	400 DEVON PARK DR  WAYNE PA 19087
+0000735286-17-000012	1	principalOfficeAddress	100 Vanguard Boulevard M39 Malvern PA 19355-2900
+0000735286-17-000012	1	otherBusinessLocation	2525 Water Ridge Parkway 1 North Falls Plaza Charlotte NC 28217
+0000735286-17-000012	2	otherBusinessLocation	14321 North Northsight Blvd.  Scottsdale AZ 85260
+0000950123-17-008424	1	principalOfficeAddress	9800 Fredericksburg Rd.  San Antonio TX 78288
+0001140361-17-034294	1	principalOfficeAddress	2850 Quarry Lake Drive 3rd Floor Baltimore MD 21209
+0000817712-17-000017	2	mailingAddress	625 FOURTH AVENUE SOUTH  MINNEAPOLIS MN 55415
+0000817712-17-000017	1	principalOfficeAddress	4321 N. Ballard Road  Appleton WI 54919
+0001419454-17-000006	2	otherBusinessLocation	8th & 9th Flr Neville, TRIL Infopark Ltd Rajiv Gandhi Salai (OMR), Taramani Chennai K7 600113
+0001419454-17-000006	2	mailingAddress	245 Summer Street Mailzone Z2L Attn: Enterprise Cmpl Boston MA 02210
+0001419454-17-000006	1	principalOfficeAddress	Embassy Golf Links Business Park Off Intermediate Ring Road Bangalore K7 560 071
+0001419454-17-000006	1	otherBusinessLocation	Manyata Embassy Bus. Park: Outer Ring Rd Hebbal - Krishnarajpuram Section Bangalore K7 560 045
+0001511164-17-000531	1	principalOfficeAddress	15500 Roosevelt Blvd., Suite 301  Clearwater FL 33760
+0001535872-17-000003	1	principalOfficeAddress	2320 Haverford Rd. STE 230 Ardmore PA 19003
+0001380486-17-000009	1	principalOfficeAddress	200 South 108th Avenue  Omaha NE 68154
+0001380486-17-000009	1	otherBusinessLocation	4600 Alliance Gateway Freeway  Fort Worth TX 76177
+0001380486-17-000008	1	otherBusinessLocation	4600 Alliance Gateway Freeway  Fort Worth TX 76177
+0001380486-17-000008	1	principalOfficeAddress	200 South 108th Avenue  Omaha NE 68154
+0001062993-17-003812	1	principalOfficeAddress	1 Toronto Street Suite 1200 Toronto A6 M5C 2V6
+0001062993-17-003812	1	otherBusinessLocation	1 Toronto Street Suite 1200 Toronto A6 M5C 2V6
+0001062993-17-003811	3	otherBusinessLocation	600 The Dome Tower 333-7th Ave S.W. Calgary A0 T2P 2Z1
+0001062993-17-003811	1	otherBusinessLocation	2001 Boul. Robert-Bourassa Suite 1600 Montreal A8 H3A 2A6
+0001062993-17-003811	2	otherBusinessLocation	1066 West Hastings St. Suite 1600 Vancouver A1 V6E 3X1
+0001062993-17-003811	1	principalOfficeAddress	1 Toronto Street Suite 1200 Toronto A6 M5C 2V6
+0000842657-17-000022	1	principalOfficeAddress	222 S. Riverside Plaza  Chicago IL 60606
+0001018490-17-000025	1	principalOfficeAddress	5022 Gate Parkway Suite 200 Jacksonville FL 32256-7088
+0000842657-17-000021	1	principalOfficeAddress	222 S. Riverside Plaza  Chicago IL 60606
+0001007444-17-000023	1	principalOfficeAddress	4707 Executive Drive  San Diego CA 92121-3091
+0001007444-17-000023	2	mailingAddress	75 STATE STREET, 22ND FLOOR  BOSTON MA 02109
+0001133702-17-000002	4	otherBusinessLocation	Two Destiny Way  Westlake TX 76262
+0001133702-17-000002	1	principalOfficeAddress	499 Washington Blvd  Jersey City NJ 07310
+0001133702-17-000002	2	mailingAddress	245 Summer Street Mail zone Z2L Attention: Enterprise Cmpl Boston MA 02210
+0001133702-17-000002	3	otherBusinessLocation	155 Seaport Blvd  Boston MA 02210
+0001133702-17-000002	1	otherBusinessLocation	100 Crosby Parkway  Covington KY 41015
+0001133702-17-000002	2	otherBusinessLocation	500 Salem  Smithfield RI 02917
+0000862124-17-000014	3	otherBusinessLocation	200 Magellan Drive  Covington KY 41015
+0000862124-17-000014	2	otherBusinessLocation	100 Magellan Drive  Covington KY 41015
+0000862124-17-000014	2	mailingAddress	245 Summer Street Mail Zone Z2L Attention: Enterprise Cmpl Boston MA 02210
+0000862124-17-000014	1	principalOfficeAddress	245 Summer Street  Boston MA 02210
+0000862124-17-000014	1	otherBusinessLocation	100 Crosby Parkway  Covington KY 41015
+0000862124-17-000014	4	otherBusinessLocation	200 Seaport Boulevard  Boston MA 02210
+0000862124-17-000014	14	otherBusinessLocation	5401 Watson Drive SE  Albuquerque NM 87106
+0000862124-17-000014	13	otherBusinessLocation	100 New Millennium Way  Durham NC 27709
+0000862124-17-000014	12	otherBusinessLocation	Two Destiny Way  Westlake TX 76262
+0000862124-17-000014	5	otherBusinessLocation	One Spartan Way  Merrimack NH 03054
+0000862124-17-000014	6	otherBusinessLocation	Two Contra Way  Merrimack NH 03054
+0000862124-17-000014	7	otherBusinessLocation	100 Salem Street  Smithfield RI 02917
+0000862124-17-000014	8	otherBusinessLocation	One Destiny Way  Westlake TX 76262
+0000862124-17-000014	9	otherBusinessLocation	100 Howe Drive  Covington KY 41015
+0000862124-17-000014	10	otherBusinessLocation	2250 William D. Tate  Grapevine TX 76051
+0000862124-17-000014	11	otherBusinessLocation	49 North 400 West  Salt Lake City UT 84101
+0001133796-17-000106	1	principalOfficeAddress	Operations Center 6201 15th Avenue Brooklyn NY 11219
+0001511164-17-000465	1	principalOfficeAddress	15500 Roosevelt Blvd., Suite 301 Clearwater FL 33760
+0001511164-17-000464	1	otherBusinessLocation	2200 East 104th Avenue Suite 201 Thornton CO 80233
+0001511164-17-000464	1	principalOfficeAddress	15500 Roosevelt Blvd., Suite 301  Clearwater FL 33760
+0001146230-17-000008	3	otherBusinessLocation	Newport Office Center VII 480 Washington Boulevard Jersey City NJ 07310
+0001146230-17-000008	1	otherBusinessLocation	33 North LaSalle Street, Suite 1100  Chicago IL 60602
+0001146230-17-000008	6	otherBusinessLocation	2900 South Diablo Way  Tempe AZ 85282
+0001146230-17-000008	5	otherBusinessLocation	462 South Fourth Street  Louisville KY 40202
+0001146230-17-000008	1	principalOfficeAddress	250 Royall Street  Canton MA 02021-1011
+0001146230-17-000008	2	otherBusinessLocation	144 Fernwood Avenue  Edison NJ 08837
+0001146230-17-000008	4	otherBusinessLocation	211 Quality Circle Suite 210 College Station TX 77845
+0001018490-17-000023	1	principalOfficeAddress	5022 Gate Parkway Suite 200 Jacksonville FL 32256-7088
+0000842657-17-000019	1	principalOfficeAddress	222 S. Riverside Plaza  Chicago IL 60606
+0000896852-17-000011	2	mailingAddress	SECRETARY, LEGAL DEPARTMENT 5140 YONGE STREET, SUITE 800 TORONTO A6 M2N 6X7
+0000896852-17-000011	1	principalOfficeAddress	119 EUSTON STREET  CHARLOTTETOWN A7 C1A 1W3
+0001550840-17-000012	1	principalOfficeAddress	1 Robert Speck Parkway Suite 1400 Mississauga A6 L4Z3M3
+0000817712-17-000015	1	principalOfficeAddress	4321 N. Ballard Road  Appleton WI 54919
+0000817712-17-000015	2	mailingAddress	625 FOURTH AVENUE SOUTH  MINNEAPOLIS MN 55415
+0001432531-17-000003	2	mailingAddress	C/O FRANKLIN TEMPLETON INVESTOR SERVICES 3355 Data Drive, 2ND FLOOR RANCHO CORDOVA CA 95670
+0001432531-17-000003	1	principalOfficeAddress	Franklin Templeton Park Plot #18-23 Financial Dist. Nanakramguda Hyderabad K7 500019
+0001448300-17-000011	2	mailingAddress	ONE POST OFFICE SQUARE  BOSTON MA 02109
+0001448300-17-000011	1	principalOfficeAddress	7 Shattuck Road  Andover MA 01810
+0001709660-17-000003	1	principalOfficeAddress	230 Park Avenue 10th Floor New York NY 10169
+0001550840-17-000011	1	principalOfficeAddress	1 Robert Speck Parkway Suite 1400 Mississauga A6 L4Z3M3
+0001424537-17-000010	1	principalOfficeAddress	215-515 West Pender Street  Vancouver A1 V6B6H5
+0001018490-17-000021	1	principalOfficeAddress	5022 Gate Parkway Suite 200 Jacksonville FL 32256-7088
+0000842657-17-000017	1	principalOfficeAddress	222 S. Riverside Plaza  Chicago IL 60606
+0000913181-17-000003	1	principalOfficeAddress	805 King Farm Blvd. Suite 600 Rockville MD 20850
+0001007444-17-000021	2	mailingAddress	75 STATE STREET, 22ND FLOOR  BOSTON MA 02109
+0001007444-17-000021	1	principalOfficeAddress	4707 Executive Drive  San Diego CA 92121-3091
+0000005076-17-000004	3	otherBusinessLocation	12711 N. Meridian Street  Carmel IN 46032
+0000005076-17-000004	2	otherBusinessLocation	5300 Robin Hood Road  Norfolk VA 23513-2430
+0000005076-17-000004	1	otherBusinessLocation	3500 Wiseman Blvd.  San Antonio TX 78251-4321
+0000005076-17-000004	1	principalOfficeAddress	6455 Irvine Center Drive  Irvine CA 92618
+0000005076-17-000004	2	mailingAddress	P.O. Box 7118  Indianapolis IN 46206-7118
+0000950123-17-006045	1	principalOfficeAddress	1801 California Street, Suite 5200  Denver CO 80202
+0001493152-17-007670	1	principalOfficeAddress	237 West 37th Street Suite 602 New York NY 10018
+0000769188-17-000004	1	principalOfficeAddress	100 Hancock Street  Quincy MA 02171
+0001285911-17-000004	1	principalOfficeAddress	144 Glenn Curtiss Boulevard  Uniondale NY 11556
+0001285911-17-000004	2	mailingAddress	200 Park Avenue  New York NY 10166
+0000817712-17-000013	1	principalOfficeAddress	4321 N. Ballard Road  Appleton WI 54919
+0000817712-17-000013	2	mailingAddress	625 FOURTH AVENUE SOUTH  MINNEAPOLIS MN 55415
+0001667731-17-000172	2	mailingAddress	300 Carlsbad Village Dr. #108A  Carlsbad CA 92008
+0001667731-17-000172	1	principalOfficeAddress	250 Avenida De Suerte  San Marcos CA 92069
+0001667731-17-000172	1	otherBusinessLocation	Churchill House 120 Bunns Lane London X0 NW7 2BA

@@ -1,0 +1,71 @@
+ACCESSION_NUMBER	COMPANY_TYPE	SVCCOMPANY_ID	ENTITYNAME	FILENUMBER	ADDRESS
+0001654954-17-011894	asServiceCompany	1	Mountain Share Transfer	084-05790	2389 ELMWOOD CIRCLE S.E  ATLANTA GA 30339
+0001654954-17-011894	asServiceCompany	2	GLOBEX TRANSFER, LLC	084-06307	780 DELTONA BLVD., SUITE 202  DELTONA FL 32725
+0001654954-17-011894	asServiceCompany	3	American Registrar & Transfer Co.	084-00403	342 East 900 South  Salt Lake City UT 84111
+0001654954-17-011894	asServiceCompany	4	Interwest Transfer Co., Inc.	084-00273	1981 Murray Holladay Rd., Suite 100 P.O. Box 17136 Salt Lake City UT 84117
+0001133702-17-000008	asServiceCompany	1	Fidelity Investments Institutional Operations Company, Inc.	084-01839	245 Summer Street  Boston MA 02210
+0001146230-17-000010	asServiceCompany	1	Citibank, N.A.	085-10232	111 Wall Street  New York NY 10043
+0001146230-17-000010	asServiceCompany	2	Computershare Trust Company, N.A.	085-11340	250 Royall Street  Canton MA 02021-1011
+0001146230-17-000010	asServiceCompany	3	Computershare Trust Company of Canada	084-06112	100 University Avenue, 11th Floor  Toronto A6 M5J 2Y1
+0001146230-17-000010	asServiceCompany	4	Computershare Investor Services Inc.	084-06111	100 University Avenue, 11th Floor  Toronto A6 M5J 2Y1
+0001146230-17-000010	asServiceCompany	5	The Bank of New York Mellon	085-05006	101 Barclay Street  New York NY 10286
+0001146230-17-000010	asServiceCompany	6	BNY Mellon Investment Servicing (US) Inc.	084-01761	4400 Computer Drive  Westborough MA 01581
+0001146230-17-000010	serviceCompany	1	Computershare Trust Company of Canada	084-06112	100 University Avenue, 11th Floor  Toronto A6 M5J 2Y1
+0000862124-17-000018	asServiceCompany	1	Fidelity Investments Institutional Operations Company, Inc.	084-01839	245 Summer Street  Boston MA 02210
+0000862124-17-000017	serviceCompany	1	National Financial Services, LLC	084-05888	499 Washington Blvd  Jersey City NJ 07310
+0000862124-17-000017	serviceCompany	2	Fidelity Business Services India Private Limited	084-06287	Embassy Golf Links Business Park Off Intermediate Ring Road Bangalore K7 560071
+0000842657-17-000029	serviceCompany	1	DST Systems, Inc.	084-00448	333 West 11th Street  Kasas City MO 64105
+0000350751-17-000003	asServiceCompany	1	Equity Financial Trust Company	084-01990	200 University Avenue Suite 400 Toronto A6 MSH 4H1
+0001721868-17-000110	serviceCompany	1	PACIFIC STOCK TRANSFER COMPANY	084-01145	6725 VIA AUSTI PARKWAY SUITE 300 LAS VEGAS NV 89118
+0000849542-17-000010	asServiceCompany	1	Prudential Mutual Fund Services, LLC	084-05681	100 Mulberry Street Gateway Center III Newark NJ 07102
+0000849542-17-000010	asServiceCompany	2	Banco Santander Puerto Rico	085-00818	207 Ponce De Leon Ave.  San Juan PR 00918
+0000849542-17-000010	asServiceCompany	3	USAA Transfer Agency Company, dba USAA Shareholder Account Services	084-01197	9800 Fredericksburg Rd.  San Antonio TX 78288
+0000849542-17-000010	asServiceCompany	4	The Bank of New York Mellon	085-05006	101 Barclay Street  New York NY 10286
+0000849542-17-000010	asServiceCompany	5	Banco Popular de Puerto Rico	085-05510	209 Munoz Rivera Avenue  San Juan PR 00936
+0000849542-17-000010	asServiceCompany	6	Virtus Fund Services, LLC	084-06485	101 Munson Street, Ste 104  Greenfield MA 01301
+0000849542-17-000010	asServiceCompany	7	Delaware Investments Fund Services Company	084-06512	2005 Market Street  Philadelphia PA 19103
+0000849542-17-000010	asServiceCompany	8	Dreyfus Transfer, Inc.	084-06102	144 Glenn Curtiss Boulevard  Uniondale NY 11556-0144
+0000849542-17-000010	serviceCompany	1	Computershare Inc.	084-05925	250 Royall Street  Canton MA 02021
+0000849542-17-000010	serviceCompany	2	BNY Mellon International Operations (India) Private Limited	084-06496	L1 Tower S-3, Cybercity, Magarpatta City Hadapsar Pune K7 411013
+0001018490-17-000032	asServiceCompanyTransferAgent	1	Deutsche Bank National Trust Company	085-11220	    
+0001018490-17-000032	asServiceCompanyTransferAgent	2	Deutsche Bank Trust Company Americas	085-05212	    
+0000839097-17-000007	asServiceCompanyTransferAgent	1	Deutsche Bank AG	085-05478	    
+0000839097-17-000007	serviceCompanyTransferAgent	1	DB Services Americas, Inc.	084-05653	    
+0000839097-17-000007	serviceCompanyTransferAgent	2	American Stock Transfer & Trust Company, LLC	084-00416	    
+0000839097-17-000007	serviceCompanyTransferAgent	3	U.S. Bank National Association	085-11347	    
+0000839097-17-000007	serviceCompanyTransferAgent	4	Continental Stock Transfer & Trust Company	084-00034	    
+0001133702-17-000004	serviceCompanyTransferAgent	1	National Financial Services LLC	084-05888	    
+0001133702-17-000004	serviceCompanyTransferAgent	2	Fidelity Business Services India Private Limited	084-06287	    
+0001133702-17-000003	asServiceCompanyTransferAgent	1	Fidelity Investments Institutional Operations Company, Inc.	084-01839	    
+0001458682-17-000004	asServiceCompany	1	The Ohio Valley Bank Company	085-00512	420 3rd Ave, PO Box 240  Gallipolis OH 45631
+0001458682-17-000004	asServiceCompany	2	First Guaranty Bank	085-00139	400 E Thomas St  Hammond LA 70401
+0000950123-17-009722	serviceCompany	1	BNY Mellon Investment servicing (US) Inc.	084-01761	4400 Computer Dr.  Wesborough MA 01581
+0001511164-17-000648	serviceCompany	1	Island Capital Management, LLC (dba Island Stock Transfer)	084-06085	15500 Roosevelt Blvd. Suite 301 Clearwater FL 33760
+0001146230-17-000009	asServiceCompany	1	Citibank, N.A.	085-10232	111 Wall Street  New York NY 10043
+0001146230-17-000009	asServiceCompany	2	Computershare Trust Company, N.A.	085-11340	250 Royall Street  Canton MA 02021-1011
+0001146230-17-000009	asServiceCompany	3	Computershare Trust Company of Canada	084-06112	100 University Avenue, 11th Floor  Toronto A6 M5J 2Y1
+0001146230-17-000009	asServiceCompany	4	Computershare Investor Services Inc.	084-06111	100 University Avenue, 11th Floor  Toronto A6 M5J 2Y1
+0001146230-17-000009	asServiceCompany	5	The Bank of New York Mellon	085-05006	101 Barclay Street  New York NY 10286
+0001146230-17-000009	asServiceCompany	6	BNY Mellon Investment Servicing (US) Inc.	084-01761	4400 Computer Drive  Westborough MA 01581
+0001146230-17-000009	serviceCompany	1	Computershare Trust Company of Canada	084-06112	100 University Avenue, 11th Floor  Toronto A6 M5J 2Y1
+0000842657-17-000027	serviceCompany	1	DST Systems, Inc.	084-00448	333 West 11th Street  Kasas City MO 64105
+0001018490-17-000030	asServiceCompany	1	Deutsche Bank National Trust Company	085-11220	2000 Avenue of the Stars, 9th Floor  Los Angeles CA 90067
+0001018490-17-000030	asServiceCompany	2	Deutsche Bank Trust Company Americas	085-05212	60 Wall Street Mail Stop NYC60-1635 New York NY 10005-2836
+0001511164-17-000617	asServiceCompany	1	TSX Trust Company	084-06502	200 University Ave Suite 300 Toronto A6 M5H 4H1
+0001511164-17-000617	serviceCompany	1	Island Capital Management, LLC	084-06085	15500 Roosevelt Blvd. Suite 301 Clearwater FL 33760
+0001511164-17-000616	asServiceCompanyTransferAgent	1	TSX Trust Co.	084-065502	    
+0001432532-17-000005	asServiceCompany	1	Franklin Templeton Investor Services, LLC	084-01036	3344 Quality Drive, ATTN: GRC US  Rancho Cordova CA 95670
+0000071138-17-000003	asServiceCompany	1	Odyssey Trust Co	084-06568	835 - 409 Granville Street  Vancouver A1 V6C1T2
+0001295361-17-000008	serviceCompany	1	PACIFIC STOCK TRANSFER COMPANY	084-01145	6725 VIA AUSTI PARKWAY SUITE 300 LAS VEGAS NV 89118
+0001718015-17-000002	serviceCompany	1	Nevada Agency and Transfer Company	084-00076	50 W Liberty St Ste 880  Reno NV 89501
+0000950123-17-008918	serviceCompany	1	BNY Mellon Investment servicing (US) Inc.	084-01761	4400 Computer Dr.  Westborough MA 01581
+0000849542-17-000009	asServiceCompany	1	Prudential Mutual Fund Services, LLC	084-05681	100 Mulberry Street Gateway Center III Newark NJ 07102
+0000849542-17-000009	asServiceCompany	2	Banco Santander Puerto Rico	085-00818	207 Ponce De Leon Ave.  San Juan PR 00918
+0000849542-17-000009	asServiceCompany	3	USAA Transfer Agency Company, dba USAA Shareholder Account Services	084-01197	9800 Fredericksburg Rd.  San Antonio TX 78288
+0000849542-17-000009	asServiceCompany	4	The Bank of New York Mellon	085-05006	101 Barclay Street  New York NY 10286
+0000849542-17-000009	asServiceCompany	5	Banco Popular de Puerto Rico	085-05510	209 Munoz Rivera Avenue  San Juan PR 00936
+0000849542-17-000009	asServiceCompany	6	Virtus Fund Services, LLC	084-06485	101 Munson Street, Ste 104  Greenfield MA 01301
+0000849542-17-000009	asServiceCompany	7	Delaware Investments Fund Services Company	084-06512	2005 Market Street  Philadelphia PA 19103
+0000849542-17-000009	asServiceCompany	8	Dreyfus Transfer, Inc.	084-06102	144 Glenn Curtiss Boulevard  Uniondale NY 11556-0144
+0000849542-17-000009	serviceCompany	1	Computershare Inc.	084-05925	250 Royall Street  Canton MA 02021
+0000849542-17-000009	serviceCompany	2	BNY Mellon International Operations (India) Private Limited	084-06496	L1 Tower S-3, Cybercity, Magarpatta City Hadapsar Pune K7 411013

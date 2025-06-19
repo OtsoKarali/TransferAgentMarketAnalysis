@@ -1,0 +1,1769 @@
+﻿{
+	"@context": "http://www.w3.org/ns/csvw",
+	"dialect": {
+		"header": true,
+		"headerRowCount": 1,
+		"delimiter": "\t"
+	},
+	"tables": [
+		{
+			"url": "TA_SUBMISSION.tsv",
+			"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"primaryKey": [
+				"SUB_ID"
+				],
+				"columns": [
+				   	{
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the EDGAR to each filing submission."
+					},
+					{
+						"name": "FILING_DATE",
+						"titles": [
+							"FILING DATE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "date",
+							"format": "DD-MON-YYYY"
+						},
+						"dc:description": "Date of original filing with EDGAR."
+					},
+					{
+						"name": "SUBMISSIONTYPE",
+						"titles": [
+							"SUBMISSION TYPE"
+						],
+						"required": "true",
+							"datatype": {
+							"base": "string",
+							"maxLength": 15
+						},
+						"dc:description": "SUBMISSION TYPE: TA-1, TA-1/A, TA-2, TA-2/A, TA-W."
+					},
+					{
+						"name": "CIK",
+						"titles": [
+							"CIK"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "The Central Index Key or CIK is a 10-digit number assigned to an entity by the SEC."
+					},
+					{
+						"name": "FILENUMBER",
+						"titles": [
+							"FILE NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 25
+						},
+						"dc:description": "File number provided by the SEC sourced from EDGAR."
+					},
+										{
+						"name": "ISFILINGAMENDMENT",
+						"titles": [
+							"IS FILING AMENDMENT"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 1
+						},
+						"dc:description": "Is filing an amendment (Y/N)."
+					},
+					{
+						"name": "SIGNATURENAME",
+						"titles": [
+							"SIGNATURE NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 30
+						},
+						"dc:description": "Full name of person signing the form."
+					},{
+						"name": "SIGNATUREPHONENUMBER",
+						"titles": [
+							"SIGNATURE PHONENUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 25
+						},
+						"dc:description": "Phone number of individual signing the form."
+					},
+					{
+						"name": "SIGNATURETITLE",
+						"titles": [
+							"SIGNATURE TITLE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 75
+						},
+						"dc:description": "Title of individual signing the form."
+					},
+					{
+						"name": "SIGNATUREDATE",
+						"titles": [
+							"SIGNATURE DATE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "date",
+							"format": "DD-MON-YYYY"
+						},
+						"dc:description": "Date of signature."
+					}
+				},
+				{
+					"url": "TA1_REGISTRANT.tsv",
+					"tableSchema": {
+						"aboutUrl": "ta_readme.html",
+						"foreignKey": [
+							"ACCESSION_NUMBER"
+						],	
+						"columns": [
+							{
+								"name": "ACCESSION_NUMBER",
+								"titles": [
+									"ACCESSION NUMBER"
+								],
+								"required": "true",
+								"datatype": {
+									"base": "string",
+									"minLength": 20,
+									"maxLength": 20
+								},
+								"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+							},
+							{
+								"name": "REGULATORYAGENCY",
+								"titles": [
+									"REGULATORY AGENCY"
+								],
+								"required": "true",
+								"datatype": {
+									"base": "string",
+									"maxLength": 50
+								},
+								"dc:description": "Regulatory agency."
+							},
+							{
+								"name": "ENTITYNAME",
+								"titles": [
+									"ENTITY NAME"
+								],
+								"required": "true",
+								"datatype": {
+									"base": "string",
+									"maxLength": 150
+								},
+								"dc:description": "Full name of registrant."
+							},
+							{
+								"name": "PREVIOUSENTITYNAME",
+								"titles": [
+									"PREVIOUS ENTITYNAME"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 150
+								},
+								"dc:description": "Previous name of registrant (if any)."
+							},
+							{
+								"name": "FINSNUMBER",
+								"titles": [
+									"FINS NUMBER"
+								],
+								"required": "true",
+								"datatype": {
+									"base": "string",
+									"maxLength": 25
+								},
+								"dc:description": "inancial Industry Number Standard assigned by the Depository Trust and Clearing Corporation (DTCC)."
+							},
+							{
+								"name": "DIFFERENTMAILINGADDRESS",
+								"titles": [
+									"DIFFERENT MAILING ADDRESS"
+								],
+								"required": "true",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). 'Y' if filer's mailing address is different from principal office address."
+							},
+							{
+								"name": "TELEPHONENUMBER",
+								"titles": [
+									"TELEPHONE NUMBER"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 25
+								},
+								"dc:description": "Telephone number for individual/department who may answer questions."
+							},
+							{
+								"name": "CONDUCTBUSINESSINOTHERLOCATION",
+								"titles": [
+									"CONDUCT BUSINESS IN OTHER LOCATION"
+								],
+								"required": "true",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). 'Y' if filer conducts business from different location(s)."
+							},
+							{
+								"name": "SELFTRANSFERAGENT",
+								"titles": [
+									"SELF TRANSFER AGENT"
+								],
+								"required": "true",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). 'Y' if filer is self transfer agent."
+							},
+							{
+								"name": "ENGAGEDSERVICECOMPANY",
+								"titles": [
+									"ENGAGED SERVICE COMPANY"
+								],
+								"required": "true",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). 'Y' if filer has engaged (or will engage) a service company."
+							},
+							{
+								"name": "ENGAGEDASSERVICECOMPANY",
+								"titles": [
+									"ENGAGED AS SERVICE COMPANY"
+								],
+								"required": "true",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). 'Y' if filer is engaged as a service company."
+							},
+							{
+								"name": "REGISTRANTTYPE",
+								"titles": [
+									"REGISTRANT TYPE"
+								],
+								"required": "true",
+								"datatype": {
+									"base": "string",
+									"maxLength": 25
+								},
+								"dc:description": "Registrant type. List of values includes Corporation, Partnership, Sole Proprietorship, Other, Not Applicable."
+							},
+							{
+								"name": "REGISTRANTTYPEDESCRIPTION",
+								"titles": [
+									"REGISTRANT TYPE DESCRIPTION"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 30
+								},
+								"dc:description": "Description provided for 'Other' registrant type."
+							},
+							{
+								"name": "OTHERCONTROLMANAGEMENT",
+								"titles": [
+									"OTHER CONTROL MANAGEMENT"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). 'Y' if any other person or entity has power to exercise control over company."
+							},
+							{
+								"name": "OTHERCONTROLFINANCE",
+								"titles": [
+									"OTHER CONTROL FINANCE"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). 'Y' if any other person or entity wholly or partially finance the activities of the business of the applicant, directly or indirectly, in any manner other than by a public offering or credit extension in the ordinary course of business."
+							},
+							{
+								"name": "FELONYORMISDEMEANOR",
+								"titles": [
+									"FELONY OR MISDEMEANOR"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if applicant or a control affiliate been convicted of or plead guilty or no contest to a felony or misdemeanor involving investments or any investment-related business, fraud, false statements or omissions, wrongful taking of property, or bribery, forgery, counterfeiting, or extortion."
+							},
+							{
+								"name": "OTHERFELONY",
+								"titles": [
+									"OTHER FELONY"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if applicant or a control affiliate been convicted of or plead guilty or no contest to any other felony."
+							},
+							{
+								"name": "ENJOINEDINVESTRELATEDACTIVITY",
+								"titles": [
+									"ENJOINED INVEST RELATED ACTIVITY"
+								],
+								"required": "false",
+									"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if in the last 10 years the court has enjoined the applicant or a control affiliate in connection with any investment-related activity."
+							},
+							{
+								"name": "VIOLATIONINVRELATEDREGULATION",
+								"titles": [
+									"VIOLATION INV RELATED REGULATION"
+								],
+								"dc:description": "Flag (Y/N). ‘Y’ if in the last 10 years the court has found the applicant or a control affiliate involved in a violation of investment-related statutes or regulations."
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Y of N."
+							},
+							{
+								"name": "FALSESTATEMENTOROMISSION",
+								"titles": [
+									"FALSE STATEMENT OR OMISSION"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if the SEC or CFTC have ever found the applicant or a control affiliate to have made a false statement or omission."
+							},
+							{
+								"name": "VIOLATIONOFREGULATIONS",
+								"titles": [
+									"VIOLATION OF REGULATIONS"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if the SEC or CFTC have ever found the applicant or a control affiliate to have been involved in a violation of its regulations or statutes."
+							},
+							{
+								"name": "AUTHORIZATIONDENIEDORSUSPENDED",
+								"titles": [
+									"AUTHORIZATION DENIED OR SUSPENDED"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if the SEC or CFTC have ever found the applicant or a control affiliate to have been a cause of an investment-related business having its authorization to do business denied, suspended, revoked, or restricted."
+							},
+							{
+								"name": "REGISTRATIONDENIEDORSUSPENDED",
+								"titles": [
+									"REGISTRATION DENIED OR SUSPENDED"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if the SEC or CFTC have ever entered an order denying, suspending, or revoking the applicant’s or a control affiliate’s registration or otherwise disciplined it by restricting its activities."
+							},
+							{
+								"name": "FSRFALSESTATEMENTOROMISSION",
+								"titles": [
+									"FSR FALSE STATEMENT OR OMISSION"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any other Federal regulatory agency or state regulatory agency has ever found the applicant or a control affiliate to have a made a false statement or omission or to have been dishonest, unfair, or unethical."
+							},
+							{
+								"name": "FSRVIOLATEINVRELATEDREGULATION",
+								"titles": [
+									"FSR VIOLATE INV RELATED REGULATION"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any other Federal regulatory agency or state regulatory agency has ever found the applicant or a control affiliate to have been involved in a violation of investment-related regulations or statutes."
+							},
+							{
+								"name": "FSRAUTHORIZEDENIEDORSUSPENDED",
+								"titles": [
+									"FSR AUTHORIZE DENIED OR SUSPENDED"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any other Federal regulatory agency or state regulatory agency has ever found the applicant or a control affiliate to have been a cause of an investment-related business having its authorization to do business denied, suspended, revoked, or restricted."
+							},
+							{
+								"name": "FSRFOUNDORDERAGAINSTAPPLICANT",
+								"titles": [
+									"FSR FOUND ORDER AGAINST APPLICANT"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any other Federal regulatory agency or state regulatory agency has in the past ten years entered an order against the applicant or a control affiliate in connection with investment-related activity."
+							},
+							{
+								"name": "FSRREGISTRATIONDENIEDSUSPENDED",
+								"titles": [
+									"FSR REGISTRATION DENIED SUSPENDED"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any other Federal regulatory agency or state regulatory agency has ever denied, suspended, or revoked the applicant’s or a control affiliate’s registration or license, or prevented it from associating with an investment-related business, or otherwise disciplined it by restricting activities."
+							},
+							{
+								"name": "FSRREVOKEDSUSPENDEDLICENSE",
+								"titles": [
+									"FSR REVOKED SUSPENDED LICENSE"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any other Federal regulatory agency or state regulatory agency has ever revoked or suspended the applicant’s or a control affiliate’s license as an attorney or accountant."
+							},
+							{
+								"name": "SRAFALSESTATEMENTOROMISSION",
+								"titles": [
+									"SRA FALSE STATEMENT OR OMISSION"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any self-regulatory organization or commodities exchange has ever found the applicant or a control affiliate to have made a false statement or omission."
+							},
+							{
+								"name": "SRAVIOLATIONOFRULES",
+								"titles": [
+									"SRA VIOLATION OF RULES"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any self-regulatory organization or commodities exchange has ever found the applicant or a control affiliate to have been in violation of its rules."
+							},
+							{
+								"name": "SRAAUTHORIZEDENIEDORSUSPENDED",
+								"titles": [
+									"SRA AUTHORIZE DENIED OR SUSPENDED"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any self-regulatory organization or commodities exchange has ever found the applicant or a control affiliate to have been the cause of an investment-related business losing its authorization to do business."
+							},
+							{
+								"name": "SRAREVOKEDSUSPENDEDLICENSE",
+								"titles": [
+									"SRA REVOKED SUSPENDED LICENSE"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any self-regulatory organization or commodities exchange has ever disciplined the applicant or a control affiliate by expelling or suspending its association with other members, or by otherwise restricting its activities."
+							},
+							{
+								"name": "FOREIGNAGENCY",
+								"titles": [
+									"FOREIGN AGENCY"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if any foreign government, court, regulatory agency, or exchange ever entered an order against the applicant or a control affiliate related to investments or fraud."
+							},
+							{
+								"name": "SUBJECTOFPROCEEDINGS",
+								"titles": [
+									"SUBJECT OF PROCEEDINGS"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if the applicant or a control affiliate is now the subject of any proceeding that could result in an affirmative answer to any of the earlier questions."
+							},
+							{
+								"name": "REVOKEDBOND",
+								"titles": [
+									"REVOKED BOND"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if a bonding company has denied, paid out on, or revoked a bond for the applicant or a control affiliate."
+							},
+							{
+								"name": "UNSATISFIEDJUDGEMENTSORLIENS",
+								"titles": [
+									"UNSATISFIED JUDGEMENTS OR LIENS"
+								],
+								"required": "false",
+								"datatype": {
+									"base": "string",
+									"maxLength": 1
+								},
+								"dc:description": "Flag (Y/N). ‘Y’ if the applicant or a control affiliate have any unsatisfied judgments or liens against it."
+							}
+						]
+					}
+				},
+			{
+			"url": "TA1_ADDRESS.tsv",
+			"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"primaryKey": [
+				"ACCESSION_NUMBER","ADDRESS_ID","ADDRESS_TYPE"
+				],
+				"foreignKey": [
+					"ACCESSION_NUMBER"
+				],	
+				"columns": [
+					{
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "ADDRESS_ID",
+						"titles": [
+							"ADDRESS_ID"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "numeric"
+						},
+						"dc:description": "Registrant Address index key."
+					},
+					{
+						"name": "ADDRESS_TYPE",
+						"titles": [
+							"ADDRESS_TYPE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "Type of address. Consists of principalOfficeAddress, mailingAddress and otherBusinessLocation."
+					},
+					{
+						"name": "ADDRESS",
+						"titles": [
+							"ADDRESS"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 170
+						},
+						"dc:description": "Street, City, State, Postal code, or Country code of registrant for each address type."
+					}					
+				]
+				}
+			},
+				{
+			"url": "TA_SERVICE_COMPANIES.tsv",
+			"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"primaryKey": [
+				"ACCESSION_NUMBER","COMPANY_TYPE","SVCCOMPANY_ID"
+				],
+				"foreignKey": [
+					"ACCESSION_NUMBER"
+				],	
+				"columns": [
+					{
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "COMPANY_TYPE",
+						"titles": [
+							"COMPANY_TYPE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 30
+						},
+						"dc:description": "Service company type (serviceCompany, asServiceCompany, serviceCompanyTransferAgent, asServiceCompanyTransferAgent ).."
+					},
+					{
+						"name": "SVCCOMPANY_ID",
+						"titles": [
+							"SVCCOMPANYID"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "numeric",							
+						},
+						"dc:description": "Service companies index key."
+					},
+					{
+						"name": "ENTITYNAME",
+						"titles": [
+							"ENTITY NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of an entity."
+					},
+					{
+						"name": "FILENUMBER",
+						"titles": [
+							"FILE NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 30
+						},
+						"dc:description": "File number provided by the Commission."
+					},
+					{
+						"name": "ADDRESS",
+						"titles": [
+							"ADDRESS"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 170
+						},
+						"dc:description": "Street, City, State, Postal code, or Country code of entity."
+					}					
+				]
+				}
+				},
+				{
+				"url": "TA1_CORP_PARTNER_DATA.tsv",
+				"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"primaryKey": [
+				"ACCESSION_NUMBER","CORP_PARTNER_TYPE","CORP_PARTNER_ID"
+				],
+				"foreignKey": [
+					"ACCESSION_NUMBER"
+				],	
+				"columns": [
+					{
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "CORP_PARTNER_TYPE",
+						"titles": [
+							"CORP PARTNER TYPE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 38
+						},
+						"dc:description": "Registrant organization type: corporationPartnership or soleProprietorship."
+					},
+					{
+						"name": "CORP_PARTNER_ID",
+						"titles": [
+							"CORP PARTNER ID"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "numeric"
+						},
+						"dc:description": "Corporation Partnership index key."
+					},
+					{
+						"name": "ENTITYNAME",
+						"titles": [
+							"ENTITY NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of an entity."
+					},
+					{
+						"name": "RELATIONSHIPSTARTDATE",
+						"titles": [
+							"RELATIONSHIP START DATE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "date",
+							"format": "DD-MON-YYYY"
+						},
+						"dc:description": "Date relationship began with registrant."
+					},
+					{
+						"name": "TITLEORSTATUS",
+						"titles": [
+							"TITLE OR STATUS"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "Title or status of named."
+					},
+					{
+						"name": "OWNERSHIPCODE",
+						"titles": [
+							"OWNERSHIP CODE"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 2
+						},
+						"dc:description": "Letter Code corresponding to a level of ownership: 'NA' (0 up to 5%), 'A' (5% up to 10%), 'B' (10% up to 25%), 'C' (25% up to 50%), 'D' (50% up to 75%) and 'E' (75% up to 100%)."
+					},
+					{
+						"name": "CONTROLPERSON",
+						"titles": [
+							"CONTROL PERSON"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "'True' if named has the power to direct the management of a company whether through ownership of securities, by contract, or otherwise."
+					}
+					{
+						"name": "AUTHORITYDESCRIPTION",
+						"titles": [
+							"AUTHORITY DESCRIPTION"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "Description of an authority when soleProprietorship is the organization type (CORP_PARTNER_TYPE)."
+					}
+					{
+						"name": "RELATIONSHIPENDDATE",
+						"titles": [
+							"RELATIONSHIP END DATE"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "date",
+							"format": "DD-MON-YYYY"
+						},
+						"dc:description": "Date when relationship ended. Provided in form TA-1/A."
+					}
+				]
+			}
+			},
+				{
+			"url": "TA1_CONTROL_ENTITIES.tsv",
+			"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"primaryKey": [
+				"ACCESSION_NUMBER","ENTITY_TYPE","ENT_ID"
+				],
+				"foreignKey": [
+					"ACCESSION_NUMBER"
+				],	
+				"columns": [
+				   {
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},					
+					{
+						"name": "ENTITY_TYPE",
+						"titles": [
+							"ENTITY TYPE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "Entity Type as otherControlManagement or otherControlFinance."
+					},
+					{
+						"name": "ENT_ID",
+						"titles": [
+							"ENTITYID"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "numeric"							
+						},
+						"dc:description": "Control entities index key."
+					},
+					{
+						"name": "ENTITYNAME",
+						"titles": [
+							"ENTITY NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Entity Name."
+					},
+					{
+						"name": "AGREEMENTDESCRIPTION",
+						"titles": [
+							"AGREEMENT DESCRIPTION"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 4000
+						},
+						"dc:description": "Description of agreement through which control person or entity exercises control."
+					}
+				]
+			}
+		},
+		{
+			"url": "TA_DISCIPLINARY_HIST_DETAILS.tsv",
+			"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"primaryKey": [
+				"ACCESSION_NUMBER","ACTION_TYPE","ACTION_ID"
+				],
+				"foreignKey": [
+					"ACCESSION_NUMBER"
+				],
+				"columns": [
+					{
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "ACTION_TYPE",
+						"titles": [
+							"ACTION TYPE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 50
+						},
+						"dc:description": "Action Type. Affirmative response provided in discipline history."
+					},
+					{
+						"name": "ACTION_ID",
+						"titles": [
+							"ACTIONID"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "numeric"
+						},
+						"dc:description": "Disciplinary history details index key."
+					},
+					{
+						"name": "ENTITYNAME",
+						"titles": [
+							"ENTITY NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of an entity."
+					},
+					{
+						"name": "ACTIONTITLE",
+						"titles": [
+							"ACTIONTITLE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 80
+						},
+						"dc:description": "Title of action."
+					},
+					{
+						"name": "ACTIONDATE",
+						"titles": [
+							"ACTIONDATE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "date",
+							"format": "DD-MON-YYYY"
+						},
+						"dc:description": "Date of action."
+					},
+					{
+						"name": "COURTORBODYNAMEANDLOCATION",
+						"titles": [
+							"COURTORBODYNAMEANDLOCATION"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 80
+						},
+						"dc:description": "Name and location of court or body taking action."
+					},
+					{
+						"name": "ACTIONDESCRIPTION",
+						"titles": [
+							"ACTIONDESCRIPTION"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 4000
+						},
+						"dc:description": "Description of an action."
+					}
+					{
+						"name": "DISPOSITIONOFPROCEEDING",
+						"titles": [
+							"DISPOSITIONOFPROCEEDING"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Disposition of proceeding."
+					}
+					]
+			}
+		},
+		{
+			"url": "TA2_FILING.tsv",
+			"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"foreignKey": [
+					"ACCESSION_NUMBER"
+				],	
+				"columns": [
+					{
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "PERIODOFREPORT",
+						"titles": [
+							"PERIOD OF REPORT"
+						],
+						"required": "true",
+						"datatype": {
+						    "base": "date"
+							"format": "DD-MON-YYYY"
+						},
+						"dc:description": "Reporting period for transfer agent activities."
+					},
+					{
+						"name": "ENTITYNAME",
+						"titles": [
+							"ENTITY NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of an entity."
+					},
+					{
+						"name": "SERVICECOMPANY",
+						"titles": [
+							"SERVICECOMPANY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 4
+						},
+						"dc:description": "Specification if a service company performs transfer agent functions (All, Some, None)."
+					},
+					{
+						"name": "REGISTRANTENGAGEDSERVICE",
+						"titles": [
+							"REGISTRANT ENGAGED SERVICE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 1
+						},
+						"dc:description": "Flag (Y/N). 'Y' if registrant has been engaged as a service company."
+					},
+					{
+						"name": "REGULATORYAGENCY",
+						"titles": [
+							"REGULATORY AGENCY"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 50
+						},
+						"dc:description": "Regulatory agency."
+					},
+					{
+						"name": "AMENDMENTFILED",
+						"titles": [
+							"AMENDMENT FILED"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 35
+						},
+						"dc:description": "Specification if an amendment was filed within 60 days of the date on which any of the information on Form TA-1 became inaccurate, misleading, or incomplete. (Yes, filed amendment(s); No, failed to file amendment(s); and Not applicable)."
+					},
+					{
+						"name": "ADDITIONALINFORMATION",
+						"titles": [
+							"ADDITIONAL INFORMATION"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Additional information provided when a negative response given for amendment filed."
+					},
+					{
+						"name": "NUMBERITEMSRECEIVEDFORTRANSFER",
+						"titles": [
+							"NUMBER ITEMS RECEIVED FOR TRANSFER"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "Number of items received from transfer during the reporting period."
+					},
+					{
+						"name": "NUMMASTERSECURITYHOLDERFILINGS",
+						"titles": [
+							"NUMM ASTER SECURITY HOLDER FILINGS"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "Number of individual master securityholder accounts for which the transfer agent maintained master securityholder files."
+					},
+					{
+						"name": "NUMBERINDIVIDUALACCOUNTS",
+						"titles": [
+							"NUMBER INDIVIDUAL ACCOUNTS"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "Number of individual accounts including accounts in the Direct Registration System (DRS), dividend reinvestment plans and/or direct purchase plans as of December 31."
+					},
+					{
+						"name": "NUMDIVREINVDIRPURPLANACCOUNTS",
+						"titles": [
+							"NUM DIV REINV DIR PURPLAN ACCOUNTS"
+						],
+						"required": "false",
+						"datatype": {,
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "Number of individual securityholder dividend reinvestment plan and/or direct purchase plan accounts as of December 31."
+					},
+					{
+						"name": "NUMDIRECTREGISTSYSTEMACCOUNTS",
+						"titles": [
+							"NUM DIRECT REGIST SYSTEM ACCOUNTS"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "Number of individual securityholder DRS accounts as of December 31."
+					},
+						{
+						"name": "NUMBERFILED",
+						"titles": [
+							"NUMBER FILED"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "Number of quarterly reports regarding buy-ins filed."
+					},
+					{
+						"name": "FILEALL",
+						"titles": [
+							"FILE ALL"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string"	
+							"maxLength": 15
+						},
+						"dc:description": "Specification if all quarterly reports regarding buy-ins filed (Yes; No; Not Applicable)."
+					},
+					{
+						"name": "SECHOLDERADDITIONALINFO",
+						"titles": [
+							"SECHOLDERADDITIONALINFO"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 255
+						},
+						"dc:description": "Security Holder additional information."
+					},
+					{
+						"name": "ALWAYSCOMPLIANT",
+						"titles": [
+							"ALWAYS COMPLIANT"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 15
+						},
+						"dc:description": "Specification if filer is always compliant with turnaround time for routine items as set forth in Rule 17Ad-2 of the Act (Yes; No; Not Applicable)."
+					},
+					{
+						"name": "NUMBERMONTHSNOTCOMPLIANT",
+						"titles": [
+							"NUMBER MONTHS NOT COMPLIANT"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "For negative response to always compliant, provide the number of months the registrant was not compliant."
+					},
+					{
+						"name": "NUMBERNOTICENONCOMPLIANCEFILED",
+						"titles": [
+							"NUMBER NOTICE NON COMPLIANCE FILED"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "The number of written notices registrant filed with the SEC and ARA that reported noncompliance with turnaround time for routine items according to Rule 17Ad-2 of the Act."
+					},
+					{
+						"name": "TOTAL",
+						"titles": [
+							"TOTAL"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "Total number of transactions processed during the reporting period (open-end investment company securities purchases and redemptions; excluding dividend, interest, and distribution postings and address changes)."
+					},					
+					{
+						"name": "TOTALOTHERTHANRECEIPTORDERDATE",
+						"titles": [
+							"TOTAL OTHER THAN RECEIPT ORDER DATE"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "Number of transactions processed on a date other than date of receipt order (as ofs) during the reporting period (open-end investment company securities purchases and redemptions; excluding dividend, interest, and distribution postings and address changes)."
+					},
+					{
+						"name": "NUMLOSTACCTSREMITTEDTOSTATES",
+						"titles": [
+							"NUM LOST ACCTS REMITTED TO STATES"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "Number of lost securityholder accounts that have been remitted to the states during the reporting period."
+					}
+				]
+			}
+		},	
+		{
+			"url": "TA2_SECURITY_HOLDER_ACCOUNTS.tsv",
+			"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"primaryKey": [
+					"ACCESSION_NUMBER","ACCT_HOLDER_TYPE"
+				],
+				"foreignKey": [
+					"ACCESSION_NUMBER"
+				],
+				"columns": [
+					{
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "ACCT_HOLDER_TYPE",
+						"titles": [
+							"ACCT HOLDER TYPE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 50,
+							"maxLength": 50
+						},
+						"dc:description": "Type of account holder. Every filing will list all (9) types for each filing (securityHolderAccounts; transMaintainMasterSecHolder; transNotMaintMasterSecHolder; notTransMaintMasterSecHolder; dividendReinvDirectPurchasePlan; directRegistrationSystem; dividendAndInterest; priorAgent; currentAgent)."
+					},
+					{
+						"name": "EQUITYSECURITY",
+						"titles": [
+							"EQUITY SECURITY"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 16
+						},
+						"dc:description": "Number of Corporate Equity Securities acted in capacity."
+					},
+					{
+						"name": "DEBTSECURITY",
+						"titles": [
+							"DEBT SECURITY"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 16
+						},
+						"dc:description": "Number of Corporate Debt Securities acted in capacity."
+					},
+					{
+						"name": "OPENENDINVESTMENTCOMPANY",
+						"titles": [
+							"OPEN END INVESTMENT COMPANY"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 16
+						},
+						"dc:description": "Number of Open-end Investment Company Securities acted in capacity."
+					},
+					{
+						"name": "LIMITEDPARTNERSHIP",
+						"titles": [
+							"LIMITED PARTNERSHIP"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 16
+						},
+						"dc:description": "Number of Limited Partnership Securities acted in capacity."
+					},
+					{
+						"name": "MUNICIPALDEBT",
+						"titles": [
+							"MUNICIPAL DEBT"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 16
+						},
+						"dc:description": "Number of Municipal Debt Securities acted in capacity."
+					},
+					{
+						"name": "OTHER",
+						"titles": [
+							"OTHER"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 16
+						},
+						"dc:description": "Number of Other Securities acted in capacity."
+					},
+					{
+						"name": "NUMBERISSUES",
+						"titles": [
+							"NUMBER ISSUES"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 12
+						},
+						"dc:description": "Number of issues."
+					},
+					{
+						"name": "AMOUNTISSUES",
+						"titles": [
+							"AMOUNT ISSUES"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 14
+						},
+						"dc:description": "Amount of issues."
+					}
+				]
+			}
+		},
+		{
+			"url": "TA2_DB_SEARCH.tsv",
+			"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"primaryKey": [
+					"ACCESSION_NUMBER","DBSEARCH_ID"
+				],
+				"foreignKey": [
+					"ACCESSION_NUMBER"
+				],
+				"columns": [
+					{
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "DBSEARCH_ID",
+						"titles": [
+							"DB SEARCH ID"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "numeric"
+						},
+						"dc:description": "Database search index key "
+					},					
+					{
+						"name": "DATABASESEARCHDATE",
+						"titles": [
+							"DATABASE SEARCH DATE"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "date",
+							"format": "DD-MON-YYYY"
+						},
+						"dc:description": "Database search date."
+					},
+					{
+						"name": "NUMBERLOSTACCOUNTSSEARCHED",
+						"titles": [
+							"NUMBER LOST ACCOUNTS SEARCHED"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 11
+						},
+						"dc:description": "Number of lost securityholder accounts submitted for database search."
+					},
+					{
+						"name": "NUMBERADDRESSESFROMSEARCH",
+						"titles": [
+							"NUMBER ADDRESSES FROM SEARCH"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "numeric",
+							"maxLength": 11
+						},
+						"dc:description": "Number of addresses obtained from database search."
+					}
+				]
+			}	
+		},
+		{
+			"url": "TAW_FILING.tsv",
+			"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"foreignKey": [
+					"ACCESSION_NUMBER"
+				],
+				"columns": [
+					{
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "ENTITYNAME",
+						"titles": [
+							"ENTITY NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of an entity."
+					},
+					{
+						"name": "ACTIVITIESCONDUCTEDENTITYNAME",
+						"titles": [
+							"ACTIVITIES CONDUCTED ENTITY NAME"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name under which transfer agent activities are conducted, if different."
+					},
+					{
+						"name": "WITHDRAWALDESCRIPTION",
+						"titles": [
+							"WITHDRAWAL DESCRIPTION"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 300
+						},
+						"dc:description": "Registrant reason for withdrawal."
+					},
+					{
+						"name": "LASTACTIONDATE",
+						"titles": [
+							"LAST ACTION DATE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "date",
+							"format": "DD-MON-YYYY"
+						},
+						"dc:description": "Last date transfer agent function performed."
+					},
+					{
+						"name": "FUTURETRANSFERAGENTFUNCTIONS",
+						"titles": [
+							"FUTURE TRANSFER AGENT FUNCTIONS"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 1
+						},
+						"dc:description": "Flag (Yes/No). 'Y' indicating registrant intends to perform transfer agent functions in the future."
+					},
+					{
+						"name": "SUBJECTOFPROCEEDINGSINVOLVED",
+						"titles": [
+							"SUBJECT OF PROCEEDINGS INVOLVED"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 1
+						},
+						"dc:description": "Flag (Yes/No). 'Y' indicating registrant is directly involved in legal proceedings or aware of any potential claims against it in connection with its performance of transfer agent functions for any security."
+					},
+					{
+						"name": "UNSATISFIEDJUDGEMENTSORLIENINV",
+						"titles": [
+							"UNSATISFIEDJUDGEMENTSORLIENINV"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 1
+						},
+						"dc:description": "Flag (Yes/No). 'Y' indicating there are unsatisfied judgements or liens against registrant arising out its performance of transfer agent functions for any security."
+					},
+					{
+						"name": "SUCCESSORTRANSFERAGENTS",
+						"titles": [
+							"SUCCESSOR TRANSFER AGENTS"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 1
+						},
+						"dc:description": "Flag (Yes/No). 'Y' indicating there is a successor transfer agent."
+					}										
+				]
+			}
+		},
+		{
+			"url": "TAW_ENTITY.tsv",
+			"tableSchema": {
+				"aboutUrl": "ta_readme.html",
+				"primaryKey": [
+					"ACCESSION_NUMBER","ENTITY_TYPE","ENTITY_ID"
+				],
+				"foreignKey": [
+					"ACCESSION_NUMBER"
+				],
+				"columns": [
+					{
+						"name": "ACCESSION_NUMBER",
+						"titles": [
+							"ACCESSION NUMBER"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"minLength": 20,
+							"maxLength": 20
+						},
+						"dc:description": "The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "ENTITY_TYPE",
+						"titles": [
+							"ENTITY TYPE"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "Entity Type (tawLocations, tawCustodians, tawSuccessors, tawRegistrant)."
+					},
+					{
+						"name": "ENTITY_ID",
+						"titles": [
+							"ENTITY ID"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "numeric"
+						},
+						"dc:description": "Entity index key."
+					},
+					{
+						"name": "ENTITYNAME",
+						"titles": [
+							"ENTITY NAME"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of an entity."
+					},
+					{
+						"name": "SUCCESSORREGISTERED",
+						"titles": [
+							"SUCCESSOR REGISTERED"
+						],
+						"required": "false",
+						"datatype": {
+							"base": "string",
+							"maxLength": 1
+						},
+						"dc:description": "Flag (Yes/No). 'Y' if Successor is registered."
+					},
+					{
+						"name": "ADDRESS",
+						"titles": [
+							"ADDRESS"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 170
+						},
+						"dc:description": "Street, City, State, Postal code, or Country code of a filer."
+					}					
+				]
+			}
+		}
+		
+				]
+			}
+	]	
+}

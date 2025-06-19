@@ -1,0 +1,9 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENTITY_ID	ENTITYNAME	SUCCESSORREGISTERED	ADDRESS
+0001094768-11-000007	tawCustodians	1	PayPal, Inc. (on behalf of PayPal Asset Management, Inc.)		2211 N. First St.  San Jose  95131
+0001094768-11-000007	tawRegistrant	1	PayPal Asset Management, Inc.		2211 N. First St.  San Jose  95131
+0000828403-11-000008	tawRegistrant	1	Van Kampen Investor Services Inc		11 greenway plaza ste 2500  houston  77046
+0000828403-11-000008	tawSuccessors	1	Invesco Investment Services Inc.	Y	11 Greenway Plaza Ste 2500  Houston  77046
+0000828403-11-000008	tawCustodians	1	Invesco Investment Services, Inc.		11 Greenway Plaza Suite 2500 Houston  77046
+0000848005-11-000002	tawRegistrant	1	Morgan Keegan & Company, Inc.		50 North Front Street 21st Floor Memphis  38103
+0000848005-11-000002	tawCustodians	1	Morgan Keegan & Company, Inc.		50 North Front Street 21st Floor Memphis  38103
+0000848005-11-000002	tawSuccessors	1	Pioneer Investment Management Shareholder Services, Inc.	Y	P.O. Box 55014  Boston  02205-5014

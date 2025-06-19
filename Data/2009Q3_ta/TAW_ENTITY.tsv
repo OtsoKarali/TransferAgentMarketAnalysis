@@ -1,0 +1,69 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENTITY_ID	ENTITYNAME	SUCCESSORREGISTERED	ADDRESS
+0001090198-09-000008	tawRegistrant	1	Activa Asset Management LLC		2905 Lucerne SE Suite 200  Grand Rapids  49546
+0001090198-09-000008	tawCustodians	1	Allan D. Engel		2905 Lucerne SE Suite 200  Grand Rapids  49546
+0000950123-09-040052	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-040052	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-040052	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-040052	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-040052	tawRegistrant	1	SELIGMAN CAPITAL FUND INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-040052	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-040045	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-040045	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-040045	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-040045	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-040045	tawRegistrant	1	SELIGMAN VALUE FUND SERIES INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-040045	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-036548	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036548	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-036548	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-036548	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036548	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-036548	tawRegistrant	1	SELIGMAN MUNICIPAL FUND SERIES INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036544	tawRegistrant	1	SELIGMAN ASSET ALLOCATION SERIES, INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036544	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-036544	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036544	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036544	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-036544	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-036543	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036543	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-036543	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-036543	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-036543	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036543	tawRegistrant	1	SELIGMAN LASALLE REAL ESTATE FUND SERIES INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036540	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-036540	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-036540	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-036540	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036540	tawRegistrant	1	SELIGMAN MUNICIPAL SERIES TRUST		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036540	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036539	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-036539	tawRegistrant	1	SELIGMAN INCOME & GROWTH FUND INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036539	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036539	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036539	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-036539	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-036535	tawRegistrant	1	SELIGMAN GLOBAL FUND SERIES INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036535	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036535	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-036535	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-036535	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-036535	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0001088910-09-000005	tawRegistrant	1	Viking Fund Management, LLC		116 1st St SW Suite C  Minot  58701
+0001088910-09-000005	tawSuccessors	1	Integrity Fund Services, Inc.	Y	#1 Main Street North  Minot  58701
+0001088910-09-000005	tawCustodians	1	Integrity Fund Services, Inc.		#1 Main Street North  Minot  58703
+0000950123-09-031299	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-031299	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-031299	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-031299	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-031299	tawRegistrant	1	SELIGMAN TARGETHORIZON ETF PORTFOLIOS INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-031299	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-031287	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-031287	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-031287	tawRegistrant	1	SELIGMAN COMMUNICATIONS & INFORMATION FUND INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-031287	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-031287	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-031287	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-023877	tawRegistrant	1	Bob Evans Farms, Inc.		3776 S. High Street  Columbus  43207
+0000950123-09-023877	tawSuccessors	1	American Stock Transfer & Trust Company, LLC	Y	6201 15th Street  Brooklyn  11219
+0000950123-09-023877	tawCustodians	1	Bob Evans Farms, Inc.		3776 S. High Street  Columbus  43207

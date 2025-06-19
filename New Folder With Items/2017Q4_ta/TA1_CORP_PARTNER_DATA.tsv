@@ -1,0 +1,425 @@
+ACCESSION_NUMBER	CORP_PARTNER_TYPE	CORP_PARTNER_ID	ENTITYNAME	RELATIONSHIPSTARTDATE	TITLEORSTATUS	OWNERSHIPCODE	CONTROLPERSON	AUTHORITYDESCRIPTION	RELATIONSHIPENDDATE
+0001654954-17-011897	corporationPartnership	1	Issuer Direct Corp.	02-OCT-2017	Parent Company	E	true		
+0001654954-17-011894	corporationPartnership	1	Issuer Direct Corporation	01-OCT-2008	Direct Owner	E	true		
+0001133702-17-000008	corporationPartnership	11	Rodger Lawson	04-OCT-2007	Director	NA	true		31-MAR-2010
+0001133702-17-000008	corporationPartnership	10	Karen Saperstein	01-AUG-2003	Secretary & General Counsel	NA			14-SEP-2008
+0001133702-17-000008	corporationPartnership	13	Charles Goldman	01-APR-2009	Director & CEO	NA	true		01-FEB-2010
+0001133702-17-000008	corporationPartnership	14	Sanjiv Mirchandani	01-APR-2009	Director & President	NA	true		
+0001133702-17-000008	corporationPartnership	15	Paul Guaneri	01-JUN-2009	CFO	NA			31-MAR-2010
+0001133702-17-000008	corporationPartnership	16	Mark Katzelnick	01-FEB-2010	COO	NA			
+0001133702-17-000008	corporationPartnership	17	Harris Komishane	31-MAR-2010	CFO	NA			01-JUL-2017
+0001133702-17-000008	corporationPartnership	18	Anmarie Ciccolo	10-OCT-2013	Transfer Agent CCO	NA			01-JUL-2017
+0001133702-17-000008	corporationPartnership	19	Robert J. Biemer, Jr	30-OCT-2017	Chief Compliance Officer Transfer Agent	NA			
+0001133702-17-000008	corporationPartnership	1	Fidelity Global Brokerage Group, Inc	01-AUG-2000	Parent	E	true		
+0001133702-17-000008	corporationPartnership	2	Robert Adams	01-MAY-2004	Executive Vice President	NA	true		
+0001133702-17-000008	corporationPartnership	3	Thomas Lux	01-SEP-2006	CFO	NA			01-JUN-2009
+0001133702-17-000008	corporationPartnership	4	Norman Malo	01-AUG-2000	Director & CEO	NA	true		01-APR-2009
+0001133702-17-000008	corporationPartnership	8	Richard OBrien	01-AUG-2002	Chief Compliance Officer	NA			
+0001133702-17-000008	corporationPartnership	5	Ellyn McColgan	01-APR-2003	Director	NA	true		15-AUG-2007
+0001133702-17-000008	corporationPartnership	6	Gerard McGraw	01-APR-2003	Director & CEO	NA	true		
+0001133702-17-000008	corporationPartnership	7	Christine Selmi	01-JUL-2017	Treasuer	NA	true		
+0001133702-17-000008	corporationPartnership	9	Tami Rash	01-JUN-2005	Assistant Treasurer	NA	true		
+0001133702-17-000008	corporationPartnership	12	Karen Crupi	15-SEP-2008	Secretary & Chief Legal Officer	NA			
+0001146230-17-000010	corporationPartnership	1	Stephen Cesso	09-NOV-2001	U.S. General Counsel and Asst. Secretary	NA	true		
+0001146230-17-000010	corporationPartnership	22	Sheila M. Frierson	01-JUL-2016	President, US Plan Managers	NA	true		
+0001146230-17-000010	corporationPartnership	3	Computershare Limited	27-JUN-2005	Indirect Owner	E	true		
+0001146230-17-000010	corporationPartnership	4	Nancy R. Greer	27-JUN-2005	EVP, Human Resources North America	NA	true		
+0001146230-17-000010	corporationPartnership	5	Richard L. Johnson, Jr.	09-NOV-2001	Chief Compliance Officer	NA	true		
+0001146230-17-000010	corporationPartnership	6	Computershare US Services Inc.	14-MAR-2007	Indirect Owner	E	true		
+0001146230-17-000010	corporationPartnership	7	Steven R. Rothbloom	04-OCT-2007	Chief Executive Officer and Director	NA	true		
+0001146230-17-000010	corporationPartnership	8	Computershare Finance Company Pty Ltd	19-MAY-2010	Indirect Owner	B	true		
+0001146230-17-000010	corporationPartnership	9	ACN 081 035 752 Pty Ltd	19-MAY-2010	Indirect Owner	E	true		
+0001146230-17-000010	corporationPartnership	10	Computershare Investments (UK)(No. 8) Limited	01-JAN-2012	Direct Owner	E	true		
+0001146230-17-000010	corporationPartnership	11	Computershare Holdings Inc.	01-JAN-2012	Indirect Owner	E	true		
+0001146230-17-000010	corporationPartnership	12	William D. Zeller	17-JUL-2012	Chief Legal Officer - Computershare US	NA	true		
+0001146230-17-000010	corporationPartnership	13	Frank A. Madonna	12-NOV-2012	President and Head of Operations	NA	true		
+0001146230-17-000010	corporationPartnership	14	Kevin M. Brennan	01-JUL-2013	Head of Equity Sales + Strategic Clients	NA	true		
+0001146230-17-000010	corporationPartnership	15	Abbe R. Tiger	14-OCT-2013	Head of Compliance - Computershare US	NA	true		
+0001146230-17-000010	corporationPartnership	16	Jeffery G. Chasse	23-SEP-2013	Controller	NA	true		
+0001146230-17-000010	corporationPartnership	17	Nicholas S. R. Oldfield	01-JUL-2014	CFO, Treasurer, and Director	NA	true		
+0001146230-17-000010	corporationPartnership	18	Mark L. McDougall	01-JUL-2014	Global Chief Information Officer	NA	true		
+0001146230-17-000010	corporationPartnership	19	Computershare Holdings LLC	31-DEC-2014	Direct Owner	A	true		
+0001146230-17-000010	corporationPartnership	20	Carlos R. Leira	14-SEP-2015	Chief Information Officer	NA	true		
+0001146230-17-000010	corporationPartnership	21	Robert M. Fromberg	01-FEB-2016	Secretary	NA	true		
+0001146230-17-000010	corporationPartnership	2	Computershare US	27-JUN-2005	Indirect Owner	E	true		
+0001387131-17-005884	corporationPartnership	1	Equiniti (US) LLC	11-DEC-2017	Owner	E	false		
+0001387131-17-005884	corporationPartnership	2	Equiniti (US) Holdings Inc.	11-DEC-2017	Owner	NA	false		
+0001387131-17-005884	corporationPartnership	5	Equiniti (US) Services, LLC	11-DEC-2017	Affiliate	NA	false		
+0001387131-17-005884	corporationPartnership	4	Equiniti Group PLC	11-DEC-2017	Owner	NA	false		
+0001387131-17-005884	corporationPartnership	3	Equiniti Holdings Ltd	11-DEC-2017	Owner	NA	false		
+0000862124-17-000018	corporationPartnership	1	Fidelity Global Brokerage Group, Inc	01-AUG-2000	Parent	E	true		
+0000862124-17-000018	corporationPartnership	19	Robert J. Biemer, Jr	30-OCT-2017	Chief Compliance Officer	NA			
+0000862124-17-000018	corporationPartnership	3	Thomas Lux	01-SEP-2006	CFO	NA			01-JUN-2009
+0000862124-17-000018	corporationPartnership	4	Norman Malo	01-AUG-2000	Director & CEO	NA	true		01-APR-2009
+0000862124-17-000018	corporationPartnership	5	Ellyn McColgan	01-APR-2003	Director	NA	true		15-AUG-2007
+0000862124-17-000018	corporationPartnership	6	Gerard McGraw	01-APR-2003	Director & CEO	NA	true		
+0000862124-17-000018	corporationPartnership	7	Christine Selmi	01-JUL-2017	Treasuer	NA	true		
+0000862124-17-000018	corporationPartnership	8	Richard OBrien	01-AUG-2002	Chief Compliance Officer	NA			
+0000862124-17-000018	corporationPartnership	9	Tami Rash	01-JUN-2005	Assistant Treasurer	NA	true		
+0000862124-17-000018	corporationPartnership	10	Karen Saperstein	01-AUG-2003	Secretary & General Counsel	NA			14-SEP-2008
+0000862124-17-000018	corporationPartnership	11	Rodger Lawson	04-OCT-2007	Director	NA	true		31-MAR-2010
+0000862124-17-000018	corporationPartnership	12	Karen Crupi	15-SEP-2008	Secretary & Chief Legal Officer	NA			
+0000862124-17-000018	corporationPartnership	13	Charles Goldman	01-APR-2009	Director & CEO	NA	true		01-FEB-2010
+0000862124-17-000018	corporationPartnership	14	Sanjiv Mirchandani	01-APR-2009	Director & President	NA	true		
+0000862124-17-000018	corporationPartnership	15	Paul Guaneri	01-JUN-2009	CFO	NA			31-MAR-2010
+0000862124-17-000018	corporationPartnership	16	Mark Katzelnick	01-FEB-2010	COO	NA			
+0000862124-17-000018	corporationPartnership	17	Harris Komishane	31-MAR-2010	CFO	NA			01-JUL-2017
+0000862124-17-000018	corporationPartnership	18	Anmarie Ciccolo	10-OCT-2013	Transfer Agent CCO	NA			01-JUL-2017
+0000862124-17-000018	corporationPartnership	2	Robert Adams	01-MAY-2004	Executive Vice President	NA	true		
+0000862124-17-000017	corporationPartnership	1	FMR Corp	01-JUL-1978	Shareholder	E	true		30-SEP-2007
+0000862124-17-000017	corporationPartnership	2	Susan Sturdy	28-JUN-2006	Secretary	NA			01-AUG-2008
+0000862124-17-000017	corporationPartnership	3	Timothy F. Hayes	28-JUN-2006	President & Director	NA	true		14-JUN-2007
+0000862124-17-000017	corporationPartnership	4	Jeffrey Carney	28-JUN-2006	Executive Vice President	NA	true		14-JUN-2007
+0000862124-17-000017	corporationPartnership	5	Laura B. Cronin	28-JUN-2006	Executive Operating Officer	NA			03-OCT-2007
+0000862124-17-000017	corporationPartnership	6	Robert A. Dwight	03-JUL-2003	Executive Operating Officer	NA	true		30-JUN-2013
+0000862124-17-000017	corporationPartnership	7	Joseph P. LoRusso	03-JUL-2003	Director	NA	true		14-JUN-2007
+0000862124-17-000017	corporationPartnership	8	Stephen E. Tibbets	01-AUG-1994	Treasurer	NA			14-JUN-2007
+0000862124-17-000017	corporationPartnership	9	J. Gregory Wass	28-JUN-2006	Assitant Treasurer	NA			31-JUL-2011
+0000862124-17-000017	corporationPartnership	10	John J. Hitt	28-JUN-2006	Assistant Secretary	NA			01-AUG-2008
+0000862124-17-000017	corporationPartnership	11	Richard Siegelman	14-JUN-2007	Chief Compliance Officer	NA			01-MAY-2009
+0000862124-17-000017	corporationPartnership	12	Anmarie Ciccolo	14-JUN-2007	Chief Compliance Officer	NA			01-JUL-2017
+0000862124-17-000017	corporationPartnership	13	Joseph Hollis	14-JUN-2007	Executive Operating Officer	NA	true		01-AUG-2008
+0000862124-17-000017	corporationPartnership	14	Terence Sanz	14-JUN-2007	Treasurer	NA			01-DEC-2008
+0000862124-17-000017	corporationPartnership	15	FMR LLC	01-OCT-2007	Shareholder	E	true		30-SEP-2010
+0000862124-17-000017	corporationPartnership	16	Robert Donelan	14-JUN-2007	President & Director	NA	true		26-JUL-2010
+0000862124-17-000017	corporationPartnership	17	Raymond Marcinowski	14-JUN-2007	President & Director	NA	true		29-FEB-2008
+0000862124-17-000017	corporationPartnership	18	Barbara March	11-FEB-2008	Executive Operating Officer	NA	true		01-FEB-2010
+0000862124-17-000017	corporationPartnership	19	Dub Nelson	15-SEP-2008	Executive Operating Officer	NA	true		01-DEC-2008
+0000862124-17-000017	corporationPartnership	20	Christine Reynolds	01-AUG-2008	Executive Operating Officer	NA	true		31-JUL-2014
+0000862124-17-000017	corporationPartnership	21	Mary Brady	01-AUG-2008	Secretary	NA			26-FEB-2010
+0000862124-17-000017	corporationPartnership	22	Peter D. Stahl	01-AUG-2008	Secretary	NA			
+0000862124-17-000017	corporationPartnership	23	Gerard McGraw	04-SEP-2007	Executive Operating Officer	NA	true		10-SEP-2009
+0000862124-17-000017	corporationPartnership	24	Marvin Adams	15-SEP-2008	Director	NA	true		20-AUG-2009
+0000862124-17-000017	corporationPartnership	25	Richard Dobbs	15-SEP-2008	Director	NA	true		09-OCT-2009
+0000862124-17-000017	corporationPartnership	26	Phillip Guarino	01-DEC-2008	Treasurer	NA			31-MAY-2010
+0000862124-17-000017	corporationPartnership	27	Robert J. Adams	10-SEP-2009	President Shareholder Division	NA	true		
+0000862124-17-000017	corporationPartnership	28	Timothy J. Barrett	20-AUG-2009	Asssitant Treasurer	NA			15-OCT-2010
+0000862124-17-000017	corporationPartnership	29	Michael Doorley	01-OCT-2009	Director	NA	true		01-APR-2010
+0000862124-17-000017	corporationPartnership	30	Sharon Brovelli	01-FEB-2010	Executive Operating Officer	NA	true		26-JUL-2010
+0000862124-17-000017	corporationPartnership	31	Robert Biemer	11-FEB-2010	Chief Legal Officer	NA	true		30-OCT-2017
+0000862124-17-000017	corporationPartnership	32	Gerard McGraw	26-JUL-2010	Director	NA	true		27-OCT-2014
+0000862124-17-000017	corporationPartnership	33	James Michael MacDonald	26-JUL-2010	Director	NA	true		27-OCT-2014
+0000862124-17-000017	corporationPartnership	34	Michael Engber Wilens	26-JUL-2010	Director	NA	true		15-FEB-2011
+0000862124-17-000017	corporationPartnership	35	Scott Morgan Gygi	26-JUL-2010	Executive Operating Officer	NA	true		27-SEP-2013
+0000862124-17-000017	corporationPartnership	36	Christopher A. Hock	26-JUL-2010	President - Retirement Division	NA	true		
+0000862124-17-000017	corporationPartnership	37	Harris Gregg Komishane	26-JUL-2010	Treasurer	NA			27-OCT-2014
+0000862124-17-000017	corporationPartnership	38	Susan Sturdy	26-JUL-2010	Secretary	NA			18-JUN-2013
+0000862124-17-000017	corporationPartnership	39	Fidelity Workplace Services LLC	30-SEP-2010	Shareholder	E	true		
+0000862124-17-000017	corporationPartnership	40	Charles M. Morgan	01-AUG-2011	Assistant Treasurer	NA			31-JAN-2014
+0000862124-17-000017	corporationPartnership	41	Michael Bull	27-SEP-2013	Executive Operating Officer	NA	true		27-OCT-2014
+0000862124-17-000017	corporationPartnership	42	Michael J. Keamey	27-SEP-2013	Assistant Treasurer	NA	true		
+0000862124-17-000017	corporationPartnership	43	Thomas Restivo	27-SEP-2013	Sr. Vice President Shareholder Division	NA	true		
+0000862124-17-000017	corporationPartnership	44	Brian C. McLain	27-SEP-2013	Assistant Secretary	NA			
+0000862124-17-000017	corporationPartnership	45	Howard J. Galligan III	31-JUL-2014	Exec Vice President Shareholder Division	NA	true		
+0000862124-17-000017	corporationPartnership	53	Kevin M. Barry	01-JUL-2017	Director	NA	true		
+0000862124-17-000017	corporationPartnership	54	Ronald DePoalo	01-JUL-2017	Director	NA	true		
+0000862124-17-000017	corporationPartnership	55	Eric C. Green	01-JUL-2017	Assistant Treasurer	NA	true		
+0000862124-17-000017	corporationPartnership	56	Robert J. Biemer, Jr	30-OCT-2017	Chief Compliance Officer	NA			
+0000862124-17-000017	corporationPartnership	57	David Carter	30-OCT-2017	Chief Legal Officer Shareholder Division	NA			
+0000862124-17-000017	corporationPartnership	58	Michael O'Reilly	30-OCT-2017	Chief Risk Officer Shareholder Division	NA			
+0000862124-17-000017	corporationPartnership	46	Mark Katzelnick	27-OCT-2014	Director	NA	true		
+0000862124-17-000017	corporationPartnership	47	G. Michael Slovak	27-OCT-2014	Director	NA	true		01-JUL-2017
+0000862124-17-000017	corporationPartnership	48	Allyn Jones	27-OCT-2014	Sr. Vice President Shareholder Division	NA	true		
+0000862124-17-000017	corporationPartnership	49	Carlos PiSierra	27-OCT-2014	Treasurer Shareholder Division	NA			
+0000862124-17-000017	corporationPartnership	50	David Morse	27-OCT-2014	Chief Risk Officer	NA	true		30-OCT-2017
+0000862124-17-000017	corporationPartnership	51	Glenn Brack	27-OCT-2014	Treasurer Retirement Division	NA			
+0000862124-17-000017	corporationPartnership	52	Steven F. Schiffman	27-OCT-2014	Assistant Treasurer	NA			01-JUL-2017
+0001144204-17-064098	corporationPartnership	4	Mary Frances Knight	01-MAY-2014	CCO and Director of Administration	NA	false		
+0001144204-17-064098	corporationPartnership	3	Johanna Cronin	01-MAR-2014	Dir of Marketing, Services and Product	NA	false		
+0001144204-17-064098	corporationPartnership	2	Ronald Miller	01-MAY-2015	Chairman	B	true		
+0001144204-17-064098	corporationPartnership	1	Howard Marks	01-MAY-2015	CEO	C	true		
+0001261763-17-000008	corporationPartnership	5	Denis Jackson	13-DEC-2017	Director	NA	true		
+0001261763-17-000008	corporationPartnership	3	smith, Christopher	01-JUN-2010	Director	NA	true		
+0001261763-17-000008	corporationPartnership	4	O'Brien, Kevin T	14-JAN-2013	Chief Executive Officer	NA	true		
+0001261763-17-000008	corporationPartnership	2	Tischler, Warren L	12-MAY-2005	Director	NA	true		
+0001261763-17-000008	corporationPartnership	1	Cole, John William	11-SEP-2002	Director	NA	true		
+0001049169-17-000311	corporationPartnership	1	Edmond J. Burke	01-NOV-1991	Director	NA	true		
+0001049169-17-000311	corporationPartnership	14	Richard Noyes	01-JUL-2016	SVP, Director of Legal Administration	NA	true		
+0001049169-17-000311	corporationPartnership	13	Cory Gossard	01-MAR-2016	SVP, CCO, Director of Compliance	NA	true		
+0001049169-17-000311	corporationPartnership	12	Michael Wenger	06-MAR-2015	SVP, Director of Tax	NA	true		
+0001049169-17-000311	corporationPartnership	11	Troy A. Duran	05-AUG-2014	SVP, Chief Financial Officer	NA	true		
+0001049169-17-000311	corporationPartnership	2	Jeremy O. May	01-JUN-1995	President, Director	NA	true		
+0001049169-17-000311	corporationPartnership	3	Sean R. McLean	02-APR-2001	SVP, Director of Fund Accounting	NA	true		
+0001049169-17-000311	corporationPartnership	4	Robert J. Szydlowski	02-APR-2001	SVP, Chief Technology Officer	NA	true		
+0001049169-17-000311	corporationPartnership	5	Bradley J. Swenson	19-MAY-2004	SVP, Chief Operating Officer	NA	true		
+0001049169-17-000311	corporationPartnership	6	Kimberly R. Storms	31-DEC-2006	SVP, Director of Fund Administration	NA	true		
+0001049169-17-000311	corporationPartnership	7	Michael G. Procter	01-FEB-2007	SVP, Director of Business Development	NA	true		
+0001049169-17-000311	corporationPartnership	8	Paul M. Garvey	05-JUN-2008	SVP, Director of Hedge Fund Services	NA	true		
+0001049169-17-000311	corporationPartnership	9	Matthew W. Eischen	12-SEP-2008	SVP, Director of Transfer Agency	NA	true		
+0001049169-17-000311	corporationPartnership	10	Patricia P. Lobato	12-SEP-2008	SVP, Director of Creative Services	NA	true		
+0001387131-17-005784	corporationPartnership	3	Equiniti Holdings Ltd	11-DEC-2017	Owner	NA	false		
+0001387131-17-005784	corporationPartnership	4	Equiniti Group PLC	11-DEC-2017	Owner	NA	false		
+0001387131-17-005784	corporationPartnership	2	Equiniti (US) Holdings Inc.,	11-DEC-2017	Owner	NA	false		
+0001387131-17-005784	corporationPartnership	1	Equiniti (US) LLC,	11-DEC-2017	Owner	E	false		
+0001387131-17-005784	corporationPartnership	5	Equiniti (US) Services, LLC	11-DEC-2017	Affiliate	NA	false		
+0000842657-17-000029	corporationPartnership	22	Paul Blodgett	01-NOV-2017	Director and Vice President	NA	true		
+0000842657-17-000029	corporationPartnership	23	Paul Schubert	01-NOV-2017	Director and Vice President	NA	true		01-NOV-2017
+0000842657-17-000029	corporationPartnership	21	Michael Sharkey	01-NOV-2017	Director and President	NA	true		
+0000842657-17-000029	corporationPartnership	20	Deutsche Asset Management USA Corporation (DAM USA)	01-AUG-2017	100% owner of DeAM US Holding Corp.	E	true		
+0000842657-17-000029	corporationPartnership	19	Deutsche Asset Management US Holding Corporation (DeAM US Holding Corp.)	01-AUG-2017	100% owner of DIMA	E	true		
+0000842657-17-000029	corporationPartnership	18	DB U.S. Financial Markets Holding Corp. (DBUSH)	30-NOV-2016	Joint parent of DAM USA	A	true		
+0000842657-17-000029	corporationPartnership	1	John Dorogoff	01-MAY-2014	Director and President	NA	true		24-MAY-2016
+0000842657-17-000029	corporationPartnership	2	Kristine Lyons	22-SEP-2005	Director	NA	true		
+0000842657-17-000029	corporationPartnership	3	Michael Sharkey	08-AUG-2014	Director	NA	true		01-NOV-2017
+0000842657-17-000029	corporationPartnership	4	Nancy Tanzil	13-MAY-2014	Chief Financial Officer and Treasurer	NA	true		
+0000842657-17-000029	corporationPartnership	5	Fred Ill	13-MAR-2007	Vice President	NA	true		28-FEB-2015
+0000842657-17-000029	corporationPartnership	6	Caroline Pearson	22-JUN-2010	Secretary	NA	true		
+0000842657-17-000029	corporationPartnership	7	Anjie Larocca	11-JUL-2006	Assistant Secretary	NA	true		
+0000842657-17-000029	corporationPartnership	8	Deutsche Investment Management Americas Inc. (DIMA)	06-FEB-1998	100% owner of Registrant	E	true		
+0000842657-17-000029	corporationPartnership	9	Deutsche Bank AG	01-APR-2002	100% owner of DB USA Corporation	E	true		
+0000842657-17-000029	corporationPartnership	10	DB USA Corporation	01-APR-2002	100% owner of DB Americas Holding Corp.	E	true		
+0000842657-17-000029	corporationPartnership	11	Deutsche Bank Americas Holding Corporation (DBAHC)	01-APR-2001	100% owner of DIMA	E	true		30-NOV-2016
+0000842657-17-000029	corporationPartnership	12	Barbara Wizer	05-JAN-2005	Director and President	NA	true		01-MAY-2014
+0000842657-17-000029	corporationPartnership	13	Leah Mizer	10-OCT-2006	Director	NA	true		08-AUG-2014
+0000842657-17-000029	corporationPartnership	14	Michael Sharkey	13-MAR-2007	Vice President	NA	true		07-AUG-2014
+0000842657-17-000029	corporationPartnership	15	Brian Binder	25-MAY-2016	Director and President	NA	true		01-NOV-2017
+0000842657-17-000029	corporationPartnership	16	Deutsche Asset Management USA Corporation (DAM USA)	30-NOV-2016	100% owner of DIMA	E	true		01-AUG-2017
+0000842657-17-000029	corporationPartnership	17	Deutsche Bank Americas Holding Corporation (DBAHC)	30-NOV-2016	Joint parent of DAM USA	E	true		
+0001683168-17-003270	soleProprietorship	1	Rhonda Keaveney	08-NOV-2017	CEO and Member			CEO and Dir. Sole member of the company.	
+0000350751-17-000003	corporationPartnership	1	Broadridge Financial Solutions, Inc.	08-MAR-2010	Owner	E	true		
+0000350751-17-000003	corporationPartnership	2	Adam D. Amsterdam	08-MAR-2010	Director and President	NA	true		
+0000350751-17-000003	corporationPartnership	3	Steven Rosenthal	28-SEP-2012	Director and Treasurer	NA	true		
+0000350751-17-000003	corporationPartnership	4	James Young	28-JUL-2014	Director, Vice President and CFO	NA	true		
+0000350751-17-000003	corporationPartnership	5	Dorothy Flynn	09-JAN-2017	General Manager	NA	true		
+0000950123-17-011135	corporationPartnership	1	Philip J. Sanders	01-AUG-2016	Director	NA	true		
+0000950123-17-011135	corporationPartnership	2	Brent Kyle Bloss	01-FEB-2004	Director, Senior VP, Treasurer, Chairman	NA	true		
+0000950123-17-011135	corporationPartnership	3	Wendy Jacqueline Hills	01-FEB-2004	General Counsel	NA			
+0000950123-17-011135	corporationPartnership	8	Waddell & Reed Financial, Inc.	01-JUL-1987	Beneficial Owner	E	true		
+0000950123-17-011135	corporationPartnership	5	Richard Stanley Starks II	01-JAN-1997	President, Director	NA	true		
+0000950123-17-011135	corporationPartnership	6	Waddell & Reed, Inc.	01-DEC-1981	Direct Owner	E	true		
+0000950123-17-011135	corporationPartnership	7	Waddell & Reed Financial Services, Inc.	01-MAY-1993	Beneficial Owner	E	true		
+0000950123-17-011135	corporationPartnership	4	James D. Hughes	18-FEB-2015	Secretary	NA	true		
+0001261763-17-000007	corporationPartnership	4	O'Brien, Kevin T	14-JAN-2013	Chief Executive Officer	NA	true		
+0001261763-17-000007	corporationPartnership	3	smith, Christopher	01-JUN-2010	Director	NA	true		
+0001261763-17-000007	corporationPartnership	2	Tischler, Warren L	12-MAY-2005	Director	NA	true		
+0001261763-17-000007	corporationPartnership	1	Cole, John William	11-SEP-2002	Director	NA	true		
+0001261763-17-000007	corporationPartnership	5	Adams, Michael	01-SEP-2016	Director	NA	true		23-OCT-2017
+0001721868-17-000110	corporationPartnership	5	William D. Miller	14-JAN-2016	PSG Director of Bus. Development	NA	true		
+0001721868-17-000110	corporationPartnership	4	Jessica K. Burleson	01-JUN-2016	Director PSG, Ltd.	NA	true		
+0001721868-17-000110	corporationPartnership	3	Pacific Services Group, Ltd.	28-JAN-2014	Owner Parent	E	true		
+0001721868-17-000110	corporationPartnership	2	Jacqueline Anne Bogle Meuse	09-NOV-2011	Director, PSG,Ltd. TTEE, PSG Voting TRU	NA	true		
+0001721868-17-000110	corporationPartnership	1	Kevin J. Kopaunik	02-JUN-2017	CEO, Pacific Services Group, Ltd.	NA	true		
+0001721868-17-000110	corporationPartnership	6	Sarah Morrison	14-AUG-2017	Managing Director	NA	true		
+0001007444-17-000025	soleProprietorship	22	Kathy VanNoy-Pineda	21-MAY-2009	EVP			Chief Compliance Officer, Brokerage	01-JAN-2014
+0001007444-17-000025	soleProprietorship	21	Christopher F. Feeney	28-JAN-2008	Managing Director			Chief Information Officer	31-DEC-2012
+0001007444-17-000025	soleProprietorship	24	Abdiel Alan Valenzuela	21-MAY-2009	VP - Advisory			Chief Compliance Officer, Advisory	01-MAY-2011
+0001007444-17-000025	soleProprietorship	25	Derek Bruton	01-MAR-2010	Managing Director			National Sales	04-APR-2014
+0001007444-17-000025	soleProprietorship	26	Becky Shulman	06-JUN-2011	Managing Director			Deputy CFO	21-NOV-2011
+0001007444-17-000025	soleProprietorship	27	Mary Frances Schott	01-JUN-2014	Managing Director			Client Experience and Training	29-MAR-2016
+0001007444-17-000025	soleProprietorship	28	Ryan Christopher Parker	01-JUN-2014	Managing Director			Investment and Planning Solutions	03-JUN-2016
+0001007444-17-000025	soleProprietorship	29	Thomas Dominic Lux	16-MAR-2015	Executive Vice President			Chief Financial Officer	28-SEP-2015
+0001007444-17-000025	soleProprietorship	30	Thomas Andrew Gooley	10-JUL-2015	Managing Director			Service, Trading and Operations	
+0001007444-17-000025	soleProprietorship	31	Matthew Jon Audette	28-SEP-2015	Chief Financial Officer			Chief Financial Officer	
+0001007444-17-000025	soleProprietorship	32	Suzanne Elizabeth Auletta	18-SEP-2015	Executive Vice President			Chief Compliance Officer, Brokerage	
+0001007444-17-000025	soleProprietorship	33	Tracy Ellen Calder	25-JAN-2016	Managing Director			Deputy Chief Risk Officer	
+0001007444-17-000025	soleProprietorship	34	Kurt Walker Lofgren	13-MAR-2017	Senior Vice President			Chief Compliance Officer, Advisory	
+0001007444-17-000025	soleProprietorship	35	Scott Alan Seese	10-JUL-2017	Managing Director			Chief Information Officer	
+0001007444-17-000025	soleProprietorship	3	Robert Joseph Moore	01-MAY-2012	President and Director			Advisor & Institution Solutions	16-MAR-2015
+0001007444-17-000025	soleProprietorship	1	LPL Holdings, Inc.	01-APR-1989	Managing Member			Parent Company	
+0001007444-17-000025	soleProprietorship	2	Mark Robert Helliker	01-AUG-2008	Managing Director			Client Support Services	01-AUG-2015
+0001007444-17-000025	soleProprietorship	4	Sharyn J. Handelsman	01-JAN-2014	Managing Director			Chief Compliance Officer, Brokerage	12-JUN-2015
+0001007444-17-000025	soleProprietorship	5	George Burton White	01-NOV-2007	Managing Director			Investor & Investment Solutions	
+0001007444-17-000025	soleProprietorship	6	Dan Hogan Arnold, Jr.	01-MAY-2012	President & Chief Executive Officer			President & Chief Executive Officer	
+0001007444-17-000025	soleProprietorship	7	David Paul Bergers	01-AUG-2013	Managing Director			Legal and Government Relations	09-JUN-2017
+0001007444-17-000025	soleProprietorship	8	Michelle Oroschakoff	01-SEP-2013	Managing Director			Chief Legal & Risk Officer	
+0001007444-17-000025	soleProprietorship	9	Paul Middlemiss	01-MAY-2011	Executive Vice President			Chief Compliance Officer, Advisory	21-NOV-2016
+0001007444-17-000025	soleProprietorship	10	John Andrew Kalbaugh	01-MAR-2010	Managing Director & Divisional President			National Sales & Consulting	
+0001007444-17-000025	soleProprietorship	11	Joan Dominy Khoury	01-MAY-2012	Managing Director			Chief Marketing Officer	01-JUN-2014
+0001007444-17-000025	soleProprietorship	12	Sallie Rebecca Larsen	01-MAY-2012	Managing Director			Chief Human Capital Officer	
+0001007444-17-000025	soleProprietorship	13	Victor Peter Fetter, III	01-DEC-2012	Managing Director			Chief Information Officer	23-JUN-2017
+0001007444-17-000025	soleProprietorship	14	Mark Stephen Casady	01-DEC-2005	Chairman of the Board and CEO			Chief Executive Officer	03-JAN-2017
+0001007444-17-000025	soleProprietorship	15	William P. Morrissey, Jr.	01-APR-2014	Managing Director & Divisional President			Business Development	
+0001007444-17-000025	soleProprietorship	16	Stephanie Leigh Brown	01-MAR-2004	Managing Director			General Counsel	19-AUG-2013
+0001007444-17-000025	soleProprietorship	17	Esther Marion Stearns	01-MAR-2007	Chief Operating Officer			President	01-MAY-2012
+0001007444-17-000025	soleProprietorship	18	William Edward Dwyer III	01-JAN-2004	Managing Director			National Sales	01-MAR-2013
+0001007444-17-000025	soleProprietorship	19	Denise Abood	01-JAN-2008	Managing Director			Human Capital	30-JUN-2012
+0001007444-17-000025	soleProprietorship	20	Jonathan Eaton	01-JAN-2008	Managing Director			Retirement Planning	30-JUN-2012
+0001007444-17-000025	soleProprietorship	23	John J. McDermott Jr.	27-JUL-2009	Managing Director			Chief Risk Officer	13-SEP-2013
+0000849542-17-000010	corporationPartnership	1	Michael DeNofrio	01-DEC-1999	Board Director, Managing Director	NA	true		
+0000849542-17-000010	corporationPartnership	15	Matthew A. Wells	29-SEP-2017	Managing Director	NA	true		
+0000849542-17-000010	corporationPartnership	3	BNY Mellon US Services Holdings LLC f/k/a BNYM GIS Funding	01-JUL-2010	Parent entity	E	true		
+0000849542-17-000010	corporationPartnership	4	The Bank of New York Mellon	01-JUL-2010	Owner of parent entity	E	true		
+0000849542-17-000010	corporationPartnership	5	The Bank of New York Mellon Corporation	01-JUL-2010	Ultimate parent entity	E	true		
+0000849542-17-000010	corporationPartnership	6	Joseph G. Bawiec	31-MAR-2009	Managing Director & CFO	NA	true		
+0000849542-17-000010	corporationPartnership	7	Stephen P. Farlese	11-OCT-2013	Managing Director	NA	true		
+0000849542-17-000010	corporationPartnership	8	Robert F. Mathisen, Jr.	16-JUN-2011	Managing Director	NA	true		
+0000849542-17-000010	corporationPartnership	9	Calvin G. Holmquist	01-JUN-2014	President & Board Chairman	NA	true		
+0000849542-17-000010	corporationPartnership	10	Daniel G. Kramer	21-APR-2015	Board Director	NA	true		29-SEP-2017
+0000849542-17-000010	corporationPartnership	11	Ann Fogarty	21-APR-2015	Board Director	NA	true		29-SEP-2017
+0000849542-17-000010	corporationPartnership	12	Brian Weber	29-SEP-2017	Compliance Officer	NA			
+0000849542-17-000010	corporationPartnership	13	David Cullmann	29-SEP-2017	Managing Director	NA	true		
+0000849542-17-000010	corporationPartnership	14	Christine Gill	29-SEP-2017	Managing Director	NA	true		
+0000849542-17-000010	corporationPartnership	2	Stephen F. Conlin	01-DEC-1999	Managing Director	NA	true		
+0001144204-17-057679	corporationPartnership	1	Howard Marks	01-MAY-2015	CEO	C	true		
+0001144204-17-057679	corporationPartnership	4	Mary Frances Knight	01-MAY-2014	CCO and Director of Administration	NA			
+0001144204-17-057679	corporationPartnership	3	Johanna Cronin	01-MAR-2014	Dir of Marketing, Services and Product	NA			
+0001144204-17-057679	corporationPartnership	2	Ronald Miller	01-MAY-2015	Chairman	B	true		
+0001458682-17-000004	soleProprietorship	1	Kara A. Kennedy	01-JUN-2009	Executive Director			Majority Owner, Certificate Signer	
+0001458682-17-000004	soleProprietorship	2	Juan Carlos Osorio	06-MAR-2009	Financial Controller			Certificate Signer	
+0001458682-17-000004	soleProprietorship	6	Mediha Kolar	01-JUN-2009	Operations Associate			Certificate Signer	01-SEP-2010
+0001458682-17-000004	soleProprietorship	4	Matthew Luginbuehl	01-AUG-2009	Operations Specialist			Certificate Signer	
+0001458682-17-000004	soleProprietorship	5	Piero Falcone	09-FEB-2015	Managing Director			Certificate Signer	
+0001458682-17-000004	soleProprietorship	3	Kyla D. Kennedy	01-JUN-2009	Corporate Governance Specialist			Certificate Signer	
+0000950123-17-009722	corporationPartnership	6	Diana Dominguez	06-MAR-2016	Senior Financial Officer and Treasurer	NA	true		
+0000950123-17-009722	corporationPartnership	7	Charles B. Massey	02-OCT-2017	Director and Assistant Vice President	NA	true		
+0000950123-17-009722	corporationPartnership	8	Brandon Carter	10-FEB-2017	Director	NA	true		
+0000950123-17-009722	corporationPartnership	9	Daniel J. Mavico	14-AUG-2017	Secretary	NA	true		20-OCT-2017
+0000950123-17-009722	corporationPartnership	10	Jon K. Hadfield	20-OCT-2017	Secretary	NA	true		
+0000950123-17-009722	corporationPartnership	4	Daniel McNamara	09-OCT-2009	Director, President, Chair of the Board	NA	true		
+0000950123-17-009722	corporationPartnership	1	United States Automobile Association	01-OCT-1992	Indirect Owner	NA	true		
+0000950123-17-009722	corporationPartnership	2	USAA Capital Corporation	01-OCT-1992	Indirect Owner	NA	true		
+0000950123-17-009722	corporationPartnership	3	USAA Investment Corporation	01-OCT-1992	Shareholder	NA	true		
+0000950123-17-009722	corporationPartnership	5	Brooks Englehardt	26-MAR-2015	Director	NA	true		
+0001511164-17-000648	soleProprietorship	1	Micah Eldred	29-SEP-2016	CEO			CEO / Owner	
+0001146230-17-000009	corporationPartnership	3	Computershare Limited	27-JUN-2005	Indirect Owner	E	true		
+0001146230-17-000009	corporationPartnership	4	Nancy R. Greer	27-JUN-2005	EVP, Human Resources North America	NA	true		
+0001146230-17-000009	corporationPartnership	5	Richard L. Johnson, Jr.	09-NOV-2001	Chief Compliance Officer	NA	true		
+0001146230-17-000009	corporationPartnership	6	Computershare US Services Inc.	14-MAR-2007	Indirect Owner	E	true		
+0001146230-17-000009	corporationPartnership	7	Martin J. McHale, Jr.	13-AUG-2007	President, US Equity Services	NA	true		20-OCT-2017
+0001146230-17-000009	corporationPartnership	8	Steven R. Rothbloom	04-OCT-2007	President and Director	NA	true		
+0001146230-17-000009	corporationPartnership	9	Computershare Finance Company Pty Ltd	19-MAY-2010	Indirect Owner	B	true		
+0001146230-17-000009	corporationPartnership	10	ACN 081 035 752 Pty Ltd	19-MAY-2010	Indirect Owner	E	true		
+0001146230-17-000009	corporationPartnership	11	Computershare Investments (UK)(No. 8) Limited	01-JAN-2012	Direct Owner	E	true		
+0001146230-17-000009	corporationPartnership	12	Computershare Holdings Inc.	01-JAN-2012	Indirect Owner	E	true		
+0001146230-17-000009	corporationPartnership	13	William D. Zeller	17-JUL-2012	Chief Legal Officer - Computershare US	NA	true		
+0001146230-17-000009	corporationPartnership	14	Frank A. Madonna	12-NOV-2012	Executive Vice President, Operations	NA	true		
+0001146230-17-000009	corporationPartnership	15	Kevin M. Brennan	01-JUL-2013	Head of Equity Sales + Strategic Clients	NA	true		
+0001146230-17-000009	corporationPartnership	16	Abbe R. Tiger	14-OCT-2013	Head of Compliance - Computershare US	NA	true		
+0001146230-17-000009	corporationPartnership	17	Jeffery G. Chasse	23-SEP-2013	Controller	NA	true		
+0001146230-17-000009	corporationPartnership	18	Nicholas S. R. Oldfield	01-JUL-2014	CFO, Treasurer, and Director	NA	true		
+0001146230-17-000009	corporationPartnership	19	Mark L. McDougall	01-JUL-2014	Global Chief Information Officer	NA	true		
+0001146230-17-000009	corporationPartnership	20	Computershare Holdings LLC	31-DEC-2014	Direct Owner	A	true		
+0001146230-17-000009	corporationPartnership	21	Carlos R. Leira	14-SEP-2015	Chief Information Officer	NA	true		
+0001146230-17-000009	corporationPartnership	22	Robert M. Fromberg	01-FEB-2016	Secretary	NA	true		
+0001146230-17-000009	corporationPartnership	23	Sheila M. Frierson	01-JUL-2016	President, US Plan Managers	NA	true		
+0001146230-17-000009	corporationPartnership	1	Stephen Cesso	09-NOV-2001	U.S. General Counsel and Asst. Secretary	NA	true		
+0001146230-17-000009	corporationPartnership	2	Computershare US	27-JUN-2005	Indirect Owner	E	true		
+0000842657-17-000027	corporationPartnership	1	John Dorogoff	01-MAY-2014	Director and President	NA	true		24-MAY-2016
+0000842657-17-000027	corporationPartnership	20	Deutsche Asset Management USA Corporation (DAM USA)	01-AUG-2017	100% owner of DeAM US Holding Corp.	E	true		
+0000842657-17-000027	corporationPartnership	3	Michael Sharkey	08-AUG-2014	Director	NA	true		
+0000842657-17-000027	corporationPartnership	4	Nancy Tanzil	13-MAY-2014	Chief Financial Officer and Treasurer	NA	true		
+0000842657-17-000027	corporationPartnership	5	Fred Ill	13-MAR-2007	Vice President	NA	true		28-FEB-2015
+0000842657-17-000027	corporationPartnership	6	Caroline Pearson	22-JUN-2010	Secretary	NA	true		
+0000842657-17-000027	corporationPartnership	7	Anjie Larocca	11-JUL-2006	Assistant Secretary	NA	true		
+0000842657-17-000027	corporationPartnership	8	Deutsche Investment Management Americas Inc. (DIMA)	06-FEB-1998	100% owner of Registrant	E	true		
+0000842657-17-000027	corporationPartnership	9	Deutsche Bank AG	01-APR-2002	100% owner of DB USA Corporation	E	true		
+0000842657-17-000027	corporationPartnership	10	DB USA Corporation	01-APR-2002	100% owner of DB Americas Holding Corp.	E	true		
+0000842657-17-000027	corporationPartnership	11	Deutsche Bank Americas Holding Corporation (DBAHC)	01-APR-2001	100% owner of DIMA	E	true		30-NOV-2016
+0000842657-17-000027	corporationPartnership	12	Barbara Wizer	05-JAN-2005	Director and President	NA	true		01-MAY-2014
+0000842657-17-000027	corporationPartnership	13	Leah Mizer	10-OCT-2006	Director	NA	true		08-AUG-2014
+0000842657-17-000027	corporationPartnership	14	Michael Sharkey	13-MAR-2007	Vice President	NA	true		07-AUG-2014
+0000842657-17-000027	corporationPartnership	15	Brian Binder	25-MAY-2016	Director and President	NA	true		
+0000842657-17-000027	corporationPartnership	16	Deutsche Asset Management USA Corporation (DAM USA)	30-NOV-2016	100% owner of DIMA	E	true		01-AUG-2017
+0000842657-17-000027	corporationPartnership	17	Deutsche Bank Americas Holding Corporation (DBAHC)	30-NOV-2016	Joint parent of DAM USA	E	true		
+0000842657-17-000027	corporationPartnership	18	DB U.S. Financial Markets Holding Corp. (DBUSH)	30-NOV-2016	Joint parent of DAM USA	A	true		
+0000842657-17-000027	corporationPartnership	19	Deutsche Asset Management US Holding Corporation (DeAM US Holding Corp.)	01-AUG-2017	100% owner of DIMA	E	true		
+0000842657-17-000027	corporationPartnership	2	Kristine Lyons	22-SEP-2005	Director	NA	true		
+0001018490-17-000030	corporationPartnership	8	Alec Gurdeep Singh	05-AUG-2008	Director and President	NA	true		
+0001018490-17-000030	corporationPartnership	7	Deutsche Bank AG	04-JUN-1999	Owner of 100% DB USA Corporation	E			
+0001018490-17-000030	corporationPartnership	4	Deutsche Bank Holdings, Inc. (DBHold)	12-DEC-1991	Owner of 100% Registrant	E			
+0001018490-17-000030	corporationPartnership	3	Scott Allan Muirhead	05-FEB-2003	Director and President	NA	true		25-JUL-2008
+0001018490-17-000030	corporationPartnership	5	Deutsche Bank Trust Corporation (DBTC)	12-DEC-1991	Owner of 100% DBHold	E			
+0001018490-17-000030	corporationPartnership	1	Foy Benton Hester	01-JUL-1999	Director	NA	true		31-MAR-2015
+0001018490-17-000030	corporationPartnership	9	Martha Rebecca Elizabeth Robertson	14-MAY-2014	Director	NA	true		
+0001018490-17-000030	corporationPartnership	6	DB USA Corporation	01-JUL-2016	Owner of 100% of DBTC	E			
+0001018490-17-000030	corporationPartnership	2	Michael Seamus Moran	31-AUG-2004	Director	NA	true		31-JUL-2009
+0001511164-17-000617	corporationPartnership	1	Kimberly Whiteside	21-AUG-2017	Supervisor	NA	true		
+0001511164-17-000617	corporationPartnership	2	Jinlong Liu	21-AUG-2017	Supervisor	NA	true		
+0001511164-17-000617	corporationPartnership	3	David Lopez	21-AUG-2017	Compliance Officer	NA	true		
+0001716848-17-000002	soleProprietorship	1	MicroVentures Inc.	11-SEP-2017	Shareholder			Owner	
+0000071138-17-000003	corporationPartnership	1	Amanda Cardinalli	21-JUL-2003	President	D	true		21-JUL-2003
+0001432532-17-000005	soleProprietorship	9	Franklin Templeton Luxembourg S.A.	01-FEB-2017	100% Owner			10%% Ownership and Control	
+0001432532-17-000005	soleProprietorship	8	Michael Mee	27-OCT-2015	Director			Member of Board of Directors	
+0001432532-17-000005	soleProprietorship	7	Tiffany Hong	13-JUL-2015	Director			Member of Board of Directors	
+0001432532-17-000005	soleProprietorship	6	Gregory E. McGowan	04-JUL-1997	Director			Board of Directors	05-OCT-2016
+0001432532-17-000005	soleProprietorship	5	Dr. J. B. Mark Mobius	04-JUL-1997	Director			Member of Board of Directors	28-SEP-2017
+0001432532-17-000005	soleProprietorship	4	Alok Sethi	28-SEP-2007	Director			Member of Board of Directors	
+0001432532-17-000005	soleProprietorship	3	Jennifer M. Johnson (formerly Jenny J. Bolt)	28-SEP-2007	Director			Member of Board of Directors	27-OCT-2015
+0001432532-17-000005	soleProprietorship	2	Basil K. Fox, Jr.	28-SEP-2007	Director			Member of Board of Directors	
+0001432532-17-000005	soleProprietorship	1	Templeton Asset Management Ltd.	25-JUL-1997	100% Ownership			100% Sole ownership and control	01-FEB-2017
+0000071138-17-000003	corporationPartnership	2	Alexander H Walker III	21-JUL-2003	Owner	D	true		21-JUL-2003
+0000783027-17-000004	corporationPartnership	1	Henry Daniel Bell	16-APR-2006	Vice President	NA	true		
+0000783027-17-000004	corporationPartnership	2	Caitlyn Bell	19-OCT-2017	Vice President	NA	true		
+0001049169-17-000267	corporationPartnership	8	Michael G. Procter	01-FEB-2007	SVP, Director of Business Development	NA	true		
+0001049169-17-000267	corporationPartnership	9	Paul M. Garvey	05-JUN-2008	SVP, Director of Hedge Fund Services	NA	true		
+0001049169-17-000267	corporationPartnership	10	Matthew W. Eischen	12-SEP-2008	SVP, Director of Transfer Agency	NA	true		
+0001049169-17-000267	corporationPartnership	11	Patricia P. Lobato	12-SEP-2008	SVP, Director of Creative Services	NA	true		
+0001049169-17-000267	corporationPartnership	12	Troy A. Duran	05-AUG-2014	SVP, Chief Financial Officer	NA	true		
+0001049169-17-000267	corporationPartnership	13	Michael Wenger	06-MAR-2015	SVP, Director of Tax	NA	true		
+0001049169-17-000267	corporationPartnership	14	Cory Gossard	01-MAR-2016	SVP, CCO, Director of Compliance	NA	true		
+0001049169-17-000267	corporationPartnership	15	Richard Noyes	01-JUL-2016	SVP, Director of Legal Administration	NA	true		
+0001049169-17-000267	corporationPartnership	1	Edmond J. Burke	01-NOV-1991	Director	NA	true		
+0001049169-17-000267	corporationPartnership	2	Thomas A. Carter	10-OCT-1994	Executive Vice President, Director	NA	true		
+0001049169-17-000267	corporationPartnership	3	Jeremy O. May	01-JUN-1995	President, Director	NA	true		
+0001049169-17-000267	corporationPartnership	4	Sean R. McLean	02-APR-2001	SVP, Director of Fund Accounting	NA	true		
+0001049169-17-000267	corporationPartnership	5	Robert J. Szydlowski	02-APR-2001	SVP, Chief Technology Officer	NA	true		
+0001049169-17-000267	corporationPartnership	6	Bradley J. Swenson	19-MAY-2004	SVP, Chief Operating Officer	NA	true		
+0001049169-17-000267	corporationPartnership	7	Kimberly R. Storms	31-DEC-2006	SVP, Director of Fund Administration	NA	true		
+0001295361-17-000008	corporationPartnership	1	Kevin J. Kopaunik	02-JUN-2017	CEO, Pacific Services Group, Ltd.	NA	true		
+0001295361-17-000008	corporationPartnership	2	Jacqueline Anne Bogle Meuse	09-NOV-2011	Director, PSG,Ltd. TTEE, PSG Voting TRU	NA	true		
+0001295361-17-000008	corporationPartnership	6	Sarah Morrison	14-AUG-2017	Managing Director	NA	true		
+0001295361-17-000008	corporationPartnership	4	Jessica K. Burleson	01-JUN-2016	Director PSG, Ltd.	NA	true		
+0001295361-17-000008	corporationPartnership	5	William D. Miller	14-JAN-2016	PSG Director of Bus. Development	NA	true		
+0001295361-17-000008	corporationPartnership	3	Pacific Services Group, Ltd.	28-JAN-2014	Owner Parent	E	true		
+0001718015-17-000002	corporationPartnership	9	Lisa Scotland	19-SEP-2017	Chief Compliance Officer	NA	true		
+0001718015-17-000002	corporationPartnership	8	Daniel Sander	19-SEP-2017	EVP, Corporate Trust	NA	true		
+0001718015-17-000002	corporationPartnership	7	Dianna Reimer	19-SEP-2017	EVP, Operations	NA	true		
+0001718015-17-000002	corporationPartnership	6	Sadiq Lalani	19-SEP-2017	Director	NA	true		
+0001718015-17-000002	corporationPartnership	10	Dan Eisner	29-SEP-2017	Director	NA	true		
+0001718015-17-000002	corporationPartnership	4	Randy Gregory	19-SEP-2017	Director and Chairman	NA	true		
+0001718015-17-000002	corporationPartnership	3	Scott Saxberg	19-SEP-2017	Director	B	true		
+0001718015-17-000002	corporationPartnership	2	John Campbell	19-SEP-2017	President	NA	true		
+0001718015-17-000002	corporationPartnership	1	Jenna Kaye	19-SEP-2017	CEO & Director	B	true		
+0001718015-17-000002	corporationPartnership	5	Nicholas Johnson	19-SEP-2017	Director	A	true		
+0000950123-17-008918	corporationPartnership	10	Daniel J. Mavico	14-AUG-2017	Secretary	NA	true		
+0000950123-17-008918	corporationPartnership	9	Brandon Carter	10-FEB-2017	Director	NA	true		
+0000950123-17-008918	corporationPartnership	8	Charles B. Massey	02-OCT-2017	Director and Assistant Vice President	NA	true		
+0000950123-17-008918	corporationPartnership	7	Diana Dominguez	06-MAR-2016	Senior Financial Officer and Treasurer	NA	true		
+0000950123-17-008918	corporationPartnership	6	Brooks Englehardt	26-MAR-2015	Director	NA	true		
+0000950123-17-008918	corporationPartnership	5	Charles K. Craft	24-JUN-2010	Director and Vice President	NA	true		02-OCT-2017
+0000950123-17-008918	corporationPartnership	4	Daniel McNamara	09-OCT-2009	Director, President, Chair of the Board	NA	true		
+0000950123-17-008918	corporationPartnership	3	USAA Investment Corporation	01-OCT-1992	Shareholder	NA	true		
+0000950123-17-008918	corporationPartnership	1	United States Automobile Association	01-OCT-1992	Indirect Owner	NA	true		
+0000950123-17-008918	corporationPartnership	2	USAA Capital Corporation	01-OCT-1992	Indirect Owner	NA	true		
+0001139578-17-000007	corporationPartnership	1	Harbor Capital Advisors, Inc.	02-APR-2001	Sole Shareholder	E	true		
+0001139578-17-000007	corporationPartnership	2	David G. Van Hooser	02-APR-2001	Director	NA	true		25-SEP-2017
+0001139578-17-000007	corporationPartnership	3	Charles F. McCain	23-MAY-2007	Director	NA	true		
+0001139578-17-000007	corporationPartnership	8	Erik D. Ojala	01-OCT-2017	Director	NA	true		
+0001139578-17-000007	corporationPartnership	5	Anmarie S. Kolinski	01-OCT-2007	Chief Financial Officer	NA	true		
+0001139578-17-000007	corporationPartnership	6	Jodie L. Crotteau	01-JUN-2017	Chief Compliance Officer	NA	true		
+0001139578-17-000007	corporationPartnership	7	Gregg M. Boland	27-JUN-2007	Senior Vice President	NA			
+0001139578-17-000007	corporationPartnership	4	Charles P. Ragusa	24-MAY-2007	President	NA	true		
+0001140361-17-037652	corporationPartnership	1	Donald Keith Campbell	01-JAN-1974	Chairman of the Board	NA	true		
+0001140361-17-037652	corporationPartnership	18	Jeri R. Hawthorne	14-AUG-2017	Director of Human Resources	NA	true		
+0001140361-17-037652	corporationPartnership	3	Michael S. Harris	17-JUL-2000	President	NA	true		
+0001140361-17-037652	corporationPartnership	4	Thomas P. Lloyd	19-SEP-2005	General Counsel	NA	true		
+0001140361-17-037652	corporationPartnership	5	Gregory T. Donovan	26-OCT-2006	Chief Financial Officer	NA	true		
+0001140361-17-037652	corporationPartnership	6	Xiaohua Hu	04-APR-1994	Co-Chairman of Investment Committee	NA			29-SEP-2017
+0001140361-17-037652	corporationPartnership	7	Robert W. McBride	19-JAN-2004	Director of Research Technology	NA	true		
+0001140361-17-037652	corporationPartnership	8	Darvin W. Sterner	24-MAR-1999	Director of Private Wealth Distribution	NA	true		
+0001140361-17-037652	corporationPartnership	9	John R. Radle	20-JUN-2005	Global Head of Trading	NA	true		
+0001140361-17-037652	corporationPartnership	10	Heidi L. Kaiser	01-MAY-2006	Chief Compliance Officer	NA	true		
+0001140361-17-037652	corporationPartnership	11	Campbell & Company, LLC	01-JAN-2015	General Partner	NA	true		
+0001140361-17-037652	corporationPartnership	12	EC LLC	01-JAN-2015	Limited Partner	D	true		
+0001140361-17-037652	corporationPartnership	13	KC Holding, Inc.	01-JAN-2015	Limited Partner	C	true		
+0001140361-17-037652	corporationPartnership	14	Kevin D. Cole	22-MAR-2017	Chief Research Officer	NA	true		
+0001140361-17-037652	corporationPartnership	15	Joseph D. Kelly	22-MAR-2017	Managing Director, Global Head of Client	NA	true		
+0001140361-17-037652	corporationPartnership	16	Adam T. Tremper	22-MAR-2017	Director of Marketing & Investor Relatio	NA	true		
+0001140361-17-037652	corporationPartnership	17	Brian O. Nabet	22-MAR-2017	Director of Technology & Information Sec	NA	true		
+0001140361-17-037652	corporationPartnership	2	Geoffrey William Andrews	06-APR-1997	Chief Executive Officer	NA	true		
+0000849542-17-000009	corporationPartnership	3	Bradley Alan Stearns	01-DEC-1999	Compliance Officer	NA			12-MAY-2017
+0000849542-17-000009	corporationPartnership	16	Brian Weber	14-AUG-2017	Compliance Officer	NA			
+0000849542-17-000009	corporationPartnership	2	Stephen F. Conlin	01-DEC-1999	Managing Director	NA	true		
+0000849542-17-000009	corporationPartnership	4	BNYM GIS Funding III LLC	01-JUL-2010	Direct parent entity	E	true		16-FEB-2017
+0000849542-17-000009	corporationPartnership	5	BNYM GIS (UK) Funding II LLC	01-JUL-2010	Owner of parent entity	E	true		15-FEB-2017
+0000849542-17-000009	corporationPartnership	6	BNY Mellon US Services Holdings LLC f/k/a BNYM GIS Funding	01-JUL-2010	Parent entity	E	true		
+0000849542-17-000009	corporationPartnership	7	The Bank of New York Mellon	01-JUL-2010	Owner of parent entity	E	true		
+0000849542-17-000009	corporationPartnership	8	The Bank of New York Mellon Corporation	01-JUL-2010	Ultimate parent entity	E	true		
+0000849542-17-000009	corporationPartnership	9	Joseph G. Bawiec	31-MAR-2009	Managing Director & CFO	NA	true		
+0000849542-17-000009	corporationPartnership	10	Stephen P. Farlese	11-OCT-2013	Board Director	NA	true		
+0000849542-17-000009	corporationPartnership	11	Robert F. Mathisen, Jr.	16-JUN-2011	Board Director	NA	true		
+0000849542-17-000009	corporationPartnership	12	Calvin G. Holmquist	01-JUN-2014	President & Board Chairman	NA	true		
+0000849542-17-000009	corporationPartnership	13	Daniel G. Kramer	21-APR-2015	Board Director	NA	true		
+0000849542-17-000009	corporationPartnership	14	Ann Fogarty	21-APR-2015	Board Director	NA	true		
+0000849542-17-000009	corporationPartnership	15	Gerald J. DiStefano Jr.	12-MAY-2017	Compliance Officer	NA			28-AUG-2017
+0000849542-17-000009	corporationPartnership	1	Michael DeNofrio	01-DEC-1999	Board Director, Managing Director	NA	true		

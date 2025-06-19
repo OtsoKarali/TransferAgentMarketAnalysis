@@ -1,0 +1,11 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENTITY_ID	ENTITYNAME	SUCCESSORREGISTERED	ADDRESS
+0000950123-14-009554	tawSuccessors	1	Computershare Trust Company, NA	Y	250 Royall Street  Canton  02021
+0000950123-14-009554	tawCustodians	1	Computershare Trust Company, NA		250 Royall St.  Canton  02021
+0000950123-14-009554	tawRegistrant	1	The Procter & Gamble Company		One Procter & Gamble Plaza  Cincinnati  45202
+0001410578-14-000290	tawSuccessors	1	Wells Fargo Bank, National Association	Y	1110 Centre Pointe Curve Ste. 101  Mendota Heights  55118
+0001410578-14-000290	tawRegistrant	1	CMS Energy Corporation		One Energy Plaza  Jackson  49201
+0001410578-14-000290	tawCustodians	1	CMS Energy Corporation - Corporate Secretary Department		One Energy Plaza  Jackson  49201
+0000915794-14-000007	tawRegistrant	1	VP Distributors, LLC		101 Munson Street Suite 104 Greenfield  01301
+0000915794-14-000007	tawSuccessors	1	Virtus Fund Services, LLC	Y	101 Munson St Suite 104 Greenfield  01301
+0000915794-14-000007	tawLocations	1	Iron Mountain Inc		293 Ella Grasso Road  Windsor Locks  06096
+0000915794-14-000007	tawCustodians	1	Virtus Fund Services, LLC		101 Munson St Suite 104 Greenfield  01301

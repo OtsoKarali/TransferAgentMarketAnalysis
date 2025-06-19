@@ -1,0 +1,83 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENT_ID	ENTITYNAME	AGREEMENTDESCRIPTION
+0000733598-25-000002	otherControlManagement	1	AllianceBernstein Holding L.P. and Equitable Holdings, Inc.	AllianceBernstein Investor Services, Inc. is a wholly-owned subsidiary of AllianceBernstein L.P., which in turn is owned by AllianceBernstein Holding L.P. and Equitable Holdings, Inc.
+0001049169-25-000006	otherControlManagement	1	ALPS Holdings Inc.	ALPS Fund Services, Inc. is a wholly owned subsidiary of ALPS Holdings, Inc.
+0001049169-25-000006	otherControlManagement	2	SS&C GIDS, Inc.	ALPS Fund Services, Inc. is a wholly owned indirect subsidiary of SS&C GIDS, Inc.
+0001049169-25-000006	otherControlManagement	3	SS&C Technologies Holdings, Inc.	ALPS Fund Services, Inc. is a wholly owned indirect subsidiary of SS&C Technologies Holdings, Inc.
+0001550840-25-000005	otherControlManagement	1	SS&C Fund Administration Company	SS&C (Canada) Limited is a wholly owned subsidiary of SS&C Fund Administration Company
+0001550840-25-000005	otherControlManagement	2	SS&C Technologies Holdings, Inc.	SS&C (Canada) Limited is a wholly owned indirect subsidiary of SS&C Technologies Inc.
+0002056718-25-000002	otherControlFinance	2	Peter Pollak 2011 AP Irrevocable Trust	Owns 49% of Venture.Co Holdings, Inc., the holding company which owns 100% of Venture.co Fund Services, LLC.
+0002056718-25-000002	otherControlFinance	1	Venture.co Holdings, Inc.	Owns 100% of Venture.Co Fund Services, LLC
+0001557183-25-000004	otherControlManagement	4	MERCURY PARENT HOLDINGS, INC.	100% Shareholder of Mercury Intermediate I, Inc.
+0001557183-25-000004	otherControlManagement	2	MERCURY INTERMEDIATE II, INC.	100% Shareholder of Ascensus Group Holdings, Inc.
+0001557183-25-000004	otherControlManagement	1	Ascensus Holdings, Inc.	100% Shareholder of Ascensus, LLC
+0001557183-25-000004	otherControlManagement	3	MERCURY INTERMEDIATE I, INC.	100% Shareholder of Mercury Intermediate II, Inc.
+0001557183-25-000004	otherControlManagement	5	STONEPOINT CAPITAL INVESTORS - TRIDENT VIII, L.P.	SHAREHOLDER OF MERCURY PARENT HOLDINGS, INC.
+0001557183-25-000004	otherControlManagement	6	ASCENSUS GROUP HOLDINGS, INC.	100% SHAREHOLDER OF ASCENSUS HOLDINGS, INC.
+0001654954-25-003011	otherControlManagement	1	ACCESS Newswire Inc. (f/k/a Issuer Direct Corp)	Acquisition dated October 2, 2017.
+0001448300-25-000002	otherControlManagement	1	Templeton Worldwide, Inc., Legg Mason, Inc., Franklin Resources, Inc.	Putnam Investor Services, Inc., is a wholly-owned subsidiary of Putnam U.S. Holdings I, LLC, which is a wholly-owned subsidiary of Templeton Worldwide, Inc., which is a wholly-owned subsidiary of Legg Mason, Inc., which is a wholly-owned subsidiary of Franklin Resources, Inc.
+0002003426-25-000003	otherControlFinance	3	Index Origin II (Jersey), LP	Private Investor
+0002003426-25-000003	otherControlFinance	2	Spark Capital VII, LP	Private Investor
+0002003426-25-000003	otherControlFinance	1	Infinity VC Fund I, LP	Private Investor
+0001018490-25-000006	otherControlManagement	1	Various - See below.	DB Services Americas, Inc. (DBSA) was established as a servicing company to provide operational services to Deutsche Bank Trust Company Americas (DBTCA) and Deutsche Bank National Trust Company (DBNTC). DBSA does not have any third party client agreements. Rather, DBSA, as engaged by DBTCA and DBNTC provides technical and administrative support services including data processing, maintenance of appropriate records in accordance with existing standards, recordkeeping and accounting functions in connection with services provided to DBTCAs and DBNTCs clients. DBTCA and DBNTC have appointed DBSA as its agent to act on their behalf in connection with the transfer and servicing of securities. Accounts are maintained jointly by DBTCA, DBNTC and DBSA. DBSA in its transfer agent function provides services to DBTCA and DBNTC in a manner as if DBSA is an independent, dedicated contractor that works solely for DBTCA and DBNTC and no other transfer agent. There is a shared system of database for DBTCA, DBNTC and DBSA.
+0001018490-25-000006	otherControlFinance	1	Various - See below.	A Deutsche Bank AG holding company, Deutsche Bank Trust Corporation, provided the original, capital funding for the Registrant and for a time provided a line of credit for working capital. Working capital is now provided via service fees which originate from inter-company billings for the services rendered.
+0001493152-25-008964	otherControlFinance	1	Paradox Capital Partners, LLC	Agreement to maintain minimum capital requirements for NYSE regulatory purposes and payment for capital support.
+0001493152-25-008964	otherControlManagement	1	Paradox Capital Partners, LLC	Capital and Liquidity Maintenance Agreement
+0001920289-25-000001	otherControlManagement	1	Schuyler Laird	Head of Fidelity Stock Transfer Solutions
+0001419454-25-000001	otherControlFinance	1	FMR LLC	Directly and indirectly, through certain of its affiliated companies, FMR LLC wholly or partially may finance Fidelity Business Services India Private Limited
+0001419454-25-000001	otherControlManagement	1	FMR LLC	Through certain of its direct or indirect subsidiaries, FMR LLC is the ultimate parent company of Fidelity Business Services India Private Limited
+0001576747-25-000005	otherControlManagement	1	Community Bank Systems, Inc.	Community Bank Systems, Inc. owns 100% of the stock of Benefit Plans Administrative Services, Inc.
+0001557183-25-000003	otherControlManagement	5	STONEPOINT CAPITAL INVESTORS - TRIDENT VIII, L.P.	SHAREHOLDER OF MERCURY PARENT HOLDINGS, INC.
+0001557183-25-000003	otherControlManagement	3	MERCURY INTERMEDIATE I, INC.	100% Shareholder of Mercury Intermediate II, Inc.
+0001557183-25-000003	otherControlManagement	1	Ascensus Holdings, Inc.	100% Shareholder of Ascensus, LLC
+0001557183-25-000003	otherControlManagement	6	ASCENSUS GROUP HOLDINGS, INC.	100% SHAREHOLDER OF ASCENSUS HOLDINGS, INC.
+0001557183-25-000003	otherControlManagement	2	MERCURY INTERMEDIATE II, INC.	100% Shareholder of Ascensus Group Holdings, Inc.
+0001557183-25-000003	otherControlManagement	4	MERCURY PARENT HOLDINGS, INC.	100% Shareholder of Mercury Intermediate I, Inc.
+0002036103-25-000001	otherControlFinance	1	ExlService Holdings, Inc.	ExlService Philippines, Inc. is ultimately financed by ExlService Holdings, Inc.
+0002036103-25-000001	otherControlManagement	1	ExlService Holdings, Inc.	ExlService Philippines, Inc. is wholly owned by ExlService (UK) Limited, which is 92.2% owned by ExlService Holdings, Inc. ExlService Holdings, Inc. is a US public company.
+0001018490-25-000004	otherControlFinance	1	Various - See below.	A Deutsche Bank AG holding company, Deutsche Bank Trust Corporation, provided the original, capital funding for the Registrant and for a time provided a line of credit for working capital. Working capital is now provided via service fees which originate from inter-company billings for the services rendered.
+0001018490-25-000004	otherControlManagement	1	Various - See below.	DB Services Americas, Inc. (DBSA) was established as a servicing company to provide operational services to Deutsche Bank Trust Company Americas (DBTCA) and Deutsche Bank National Trust Company (DBNTC). DBSA does not have any third party client agreements. Rather, DBSA, as engaged by DBTCA and DBNTC provides technical and administrative support services including data processing, maintenance of appropriate records in accordance with existing standards, recordkeeping and accounting functions in connection with services provided to DBTCAs and DBNTCs clients. DBTCA and DBNTC have appointed DBSA as its agent to act on their behalf in connection with the transfer and servicing of securities. Accounts are maintained jointly by DBTCA, DBNTC and DBSA. DBSA in its transfer agent function provides services to DBTCA and DBNTC in a manner as if DBSA is an independent, dedicated contractor that works solely for DBTCA and DBNTC and no other transfer agent. There is a shared system of database for DBTCA, DBNTC and DBSA.
+0000810417-25-000001	otherControlManagement	9	David Barry Chubak	Head of U.S. Business Unit
+0000810417-25-000001	otherControlManagement	11	Lena Haas	Head of Wealth Management Advice and Solutions
+0000810417-25-000001	otherControlManagement	13	Hasan A Malik	Chief Strategy Officer
+0000810417-25-000001	otherControlManagement	15	Todd Judson Purdy	Head of Operations
+0000810417-25-000001	otherControlManagement	1	Penelope Pennington	Chief Executive Officer
+0000810417-25-000001	otherControlManagement	3	Kenneth Ray Cella Jr	Head of External Affairs and Community Engagement
+0000810417-25-000001	otherControlManagement	5	Tina Marie Hrevus	Chief of Staff to the Managing Partner
+0000810417-25-000001	otherControlManagement	7	Francis Thomas LaQuinta	Head of Digital, Data and Operations
+0000810417-25-000001	otherControlManagement	10	David Alexander Gunn	President of Edward Jones (an Ontario Limited Partnership)
+0000810417-25-000001	otherControlManagement	12	Suzan Leigh McDaniel	Chief Human Resources Officer
+0000810417-25-000001	otherControlManagement	14	Keir Devon Gumbs	Chief Legal Officer
+0000810417-25-000001	otherControlManagement	16	Jennifer A Grego	Chief Compliance Officer
+0000810417-25-000001	otherControlManagement	2	Andrew Timothy Miedler	Chief Financial Officer
+0000810417-25-000001	otherControlManagement	4	Lisa Marie Dolan	Head of Branch Operations and Shared Services
+0000810417-25-000001	otherControlManagement	6	Kristin Michele Johnson	Chief Transformation Officer
+0000810417-25-000001	otherControlManagement	8	Timothy Andrew Rea	Chief Experience, Brand and Marketing Officer
+0000913181-25-000001	otherControlManagement	4	MUFG Americas Holding Corporation	100% ownership stake in MUFG Fund Services (USA) LLC
+0000913181-25-000001	otherControlManagement	5	MUFG Bank, Ltd.	95.11% ownership stake in MUFG Americas Holding Corporation
+0000913181-25-000001	otherControlManagement	3	George Hall	Chief Risk Officer of MUFG Investor Services (US) LLC
+0000913181-25-000001	otherControlManagement	1	Kelly Dudley	Interim Chief Compliance Officer of MUFG Investor Services (US) LLC
+0000913181-25-000001	otherControlManagement	12	Jun Kawakubo	Board Manager of MUFG Investor Services (US) LLC
+0000913181-25-000001	otherControlManagement	10	Hiroshi Nakazawa	Chairman of the Board, MUFG Investor Services (US) LLC
+0000913181-25-000001	otherControlManagement	13	Dwayne Blanton	Chief Administrative Officer, MUFG Investor Services (US) LLC
+0000913181-25-000001	otherControlManagement	11	Michael Scalzi	President, MUFG Investor Services (US) LLC
+0000913181-25-000001	otherControlManagement	9	Young Kim	Chief Financial Officer, MUFG Investor Services (US) LLC
+0000913181-25-000001	otherControlManagement	2	James Fisher	Chief Executive Officer of MUFG Investor Services (US) LLC
+0000913181-25-000001	otherControlManagement	7	Mitsubishi UFJ Financial Group, Inc.	100% ownership stake in MUFG Bank, Ltd. and Mitsubishi UFJ Trust & Banking Corporation; 4.89% ownership stake in MUFG Americas Holding Corporation
+0000913181-25-000001	otherControlManagement	6	Mitsubishi UFJ Trust & Banking Corporation	Provides strategic planning for the Global MUFG Investor Services Division, including MUFG Investor Services (US) LLC
+0000913181-25-000001	otherControlManagement	8	Gregory Cohen	Head of Transfer Agent, MUFG Investor Services (US) LLC
+0001465533-25-000001	otherControlManagement	1	Corporation Service Company	Sole Shareholder of Delaware Trust Company
+0001202048-25-000001	otherControlManagement	1	Corebridge Financial, Inc., Corebridge Life Holdings, Inc., AGC Life Insurance Company, The Variable Annuity Life Insurance Company	VALIC Retirement Services Company is a wholly-owned subsidiary of The Variable Annuity Life Insurance Company and an indirect, wholly-owned subsidiary of Corebridge Financial, Inc., a publicly traded company.
+0002051609-25-000001	otherControlFinance	1	Prometheum, Inc.	Prometheum Coinery, LLC is a wholly owned subsidiary of Prometheum, Inc. Prometheum, Inc. will initially wholly finance the business of Prometheum Coinery, LLC.
+0002051609-25-000001	otherControlManagement	1	Prometheum, Inc.	Prometheum, Inc. is the sole member of Prometheum Coinery, LLC.
+0001018490-25-000002	otherControlManagement	1	Various - See below.	DB Services Americas, Inc. (DBSA) was established as a servicing company to provide operational services to Deutsche Bank Trust Company Americas (DBTCA) and Deutsche Bank National Trust Company (DBNTC). DBSA does not have any third party client agreements. Rather, DBSA, as engaged by DBTCA and DBNTC provides technical and administrative support services including data processing, maintenance of appropriate records in accordance with existing standards, recordkeeping and accounting functions in connection with services provided to DBTCAs and DBNTCs clients. DBTCA and DBNTC have appointed DBSA as its agent to act on their behalf in connection with the transfer and servicing of securities. Accounts are maintained jointly by DBTCA, DBNTC and DBSA. DBSA in its transfer agent function provides services to DBTCA and DBNTC in a manner as if DBSA is an independent, dedicated contractor that works solely for DBTCA and DBNTC and no other transfer agent. There is a shared system of database for DBTCA, DBNTC and DBSA.
+0001018490-25-000002	otherControlFinance	1	Various - See below.	A Deutsche Bank AG holding company, Deutsche Bank Trust Corporation, provided the original, capital funding for the Registrant and for a time provided a line of credit for working capital. Working capital is now provided via service fees which originate from inter-company billings for the services rendered.
+0001999371-25-000258	otherControlManagement	6	David L. Becker	Legal Counsel
+0001999371-25-000258	otherControlManagement	5	Andrew Peeler	Chief Financial Officer
+0001999371-25-000258	otherControlManagement	4	Karthikeyan Shankaran	Director
+0001999371-25-000258	otherControlManagement	3	Sreekech Cheriyathu	Director
+0001999371-25-000258	otherControlManagement	2	Anand Ramakrishnan	Managing Director
+0001999371-25-000258	otherControlManagement	1	Thera Prins	Chairperson of the Board
+0001458682-25-000001	otherControlFinance	4	Regina Diane Kennedy and David Kennedy	REMOVED. Became a member of LLC per Operating Agreement effective 3/1/10. Regina Diane Kennedy and David Kennedy are deceased and all membership units originally owned by them were transferred to Kara Kennedy effective 2/4/17.
+0001458682-25-000001	otherControlFinance	1	Robert Kennedy	Member of LLC per Operating Agreement effective 3/1/10.
+0001458682-25-000001	otherControlFinance	2	Pelle Ojasu	REMOVED. Became a member of LLC per Operating Agreement effective 6/1/09. Ceased to be a member effective 9/13/17.
+0001458682-25-000001	otherControlFinance	3	Ruth Makofske	REMOVED. Became a member of LLC per Operating Agreement effective 6/1/09. Ceased to be a member effective 12/8/11.

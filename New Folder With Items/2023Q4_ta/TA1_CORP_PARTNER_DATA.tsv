@@ -1,0 +1,515 @@
+ACCESSION_NUMBER	CORP_PARTNER_TYPE	CORP_PARTNER_ID	ENTITYNAME	RELATIONSHIPSTARTDATE	TITLEORSTATUS	OWNERSHIPCODE	CONTROLPERSON	AUTHORITYDESCRIPTION	RELATIONSHIPENDDATE
+0001202048-23-000005	corporationPartnership	1	The Variable Annuity Life Insurance Company (VALIC)	18-NOV-1996	Owner	E	true		
+0001202048-23-000005	corporationPartnership	2	Freda Lee	17-JUN-2021	Executive Vice President	NA	true		
+0001202048-23-000005	corporationPartnership	3	Todd McGrath	17-JUN-2021	President	NA	true		
+0001202048-23-000005	corporationPartnership	4	Kara R. Boling	28-JUN-2016	Executive Vice President & COO	NA	true		
+0001202048-23-000005	corporationPartnership	5	Barbara Rayll	30-NOV-2023	Vice President	NA			
+0000071138-23-000004	corporationPartnership	1	Amanda Cardinalli	21-JUL-2003	President	D	true		
+0000071138-23-000004	corporationPartnership	2	Alexander H Walker III	21-JUL-2003	Owner	D	true		
+0002001221-23-000003	corporationPartnership	1	Jacob Claver	24-JAN-2023	Director	E	true		
+0001146230-23-000011	corporationPartnership	14	Robert M. Fromberg	01-FEB-2016	Secretary	NA	true		
+0001146230-23-000011	corporationPartnership	15	Sheila M. Frierson	01-JUL-2016	President, US Plan Managers	NA	true		
+0001146230-23-000011	corporationPartnership	16	Marc J. Winters	06-DEC-2021	Head of Global Core Operations	NA	true		
+0001146230-23-000011	corporationPartnership	12	Nicholas S. R. Oldfield	01-JUL-2014	CFO, Treasurer, and Director	NA	true		
+0001146230-23-000011	corporationPartnership	11	Kevin M. Brennan	01-JUL-2013	Head of Equity Sales + Strategic Clients	NA	true		
+0001146230-23-000011	corporationPartnership	10	William D. Zeller	17-JUL-2012	Chief Legal Officer - Computershare US	NA	true		
+0001146230-23-000011	corporationPartnership	9	Computershare Holdings Inc.	01-JAN-2012	Indirect Owner	E	true		
+0001146230-23-000011	corporationPartnership	8	Computershare Investments (UK)(No. 8) Limited	01-JAN-2012	Direct Owner	E	true		
+0001146230-23-000011	corporationPartnership	13	Mark L. McDougall	01-JUL-2014	Global Chief Information Officer	NA	true		
+0001146230-23-000011	corporationPartnership	1	Stephen Cesso	09-NOV-2001	U.S. General Counsel and Asst. Secretary	NA	true		
+0001146230-23-000011	corporationPartnership	2	Computershare US Inc.	27-JUN-2005	Indirect Owner	E	true		
+0001146230-23-000011	corporationPartnership	3	Computershare Limited	27-JUN-2005	Indirect Owner	E	true		
+0001146230-23-000011	corporationPartnership	4	Richard L. Johnson, Jr.	09-NOV-2001	Chief Compliance Officer	NA	true		
+0001146230-23-000011	corporationPartnership	5	Computershare US Services Inc.	14-MAR-2007	Indirect Owner	E	true		
+0001146230-23-000011	corporationPartnership	17	Ann M. Bowering	11-JUL-2022	President and CEO, US Issuer Services	NA	true		
+0001146230-23-000011	corporationPartnership	7	ACN 081 035 752 Pty Ltd	19-MAY-2010	Indirect Owner	E	true		
+0001146230-23-000011	corporationPartnership	6	Steven R. Rothbloom	04-OCT-2007	Director	NA	true		
+0000896852-23-000009	corporationPartnership	13	Mark Giuliano	14-DEC-2023	Director	NA	true		
+0000896852-23-000009	corporationPartnership	12	Melanie Ringold	31-DEC-2022	Secretary	NA	true		
+0000896852-23-000009	corporationPartnership	10	Terry Gibson Vacheron	15-MAR-2022	Chief Financial Officer	NA	true		
+0000896852-23-000009	corporationPartnership	9	Rhonda Jo Dixon-Gunner	01-MAR-2022	Director, President	NA	true		
+0000896852-23-000009	corporationPartnership	8	Invesco Advisers, Inc.	31-DEC-2009	Sole Voting Shareholder	E	true		
+0000896852-23-000009	corporationPartnership	7	John Mark Zerr	30-MAY-2007	Director, Vice President	NA	true		
+0000896852-23-000009	corporationPartnership	6	Laura Slowensky Stanley	05-NOV-2019	Senior Vice President	NA	true		
+0000896852-23-000009	corporationPartnership	5	Debra Gene Kiemsteadt	05-NOV-2019	Senior Vice President	NA	true		
+0000896852-23-000009	corporationPartnership	4	Cheri Lynn Stone	05-NOV-2019	Senior Vice President	NA	true		01-NOV-2023
+0000896852-23-000009	corporationPartnership	3	Andrew Ryan Schlossberg	01-MAR-2019	Director, Chairman	NA	true		14-DEC-2023
+0000896852-23-000009	corporationPartnership	2	Trisha Bell Hancock	09-NOV-2018	Senior Vice President	NA	true		
+0000896852-23-000009	corporationPartnership	1	Crissie McMennamy Wisdom	01-APR-2013	Anti-Money Laundering Compliance Officer	NA	true		
+0000896852-23-000009	corporationPartnership	11	Jesse James Dean	15-MAR-2022	Senior Vice President	NA	true		
+0001718015-23-000015	corporationPartnership	15	Krista Lalonde	06-SEP-2022	COO	NA	true		
+0001718015-23-000015	corporationPartnership	17	Rose Mark	27-OCT-2023	Director	NA	true		
+0001718015-23-000015	corporationPartnership	13	Robyn Secord Ross	28-OCT-2021	Director	NA	true		
+0001718015-23-000015	corporationPartnership	16	Justin Sheehan	31-JUL-2023	CCO, CRO	NA	true		
+0001718015-23-000015	corporationPartnership	12	Shawn Stordy	12-OCT-2021	CFO	NA	true		
+0001718015-23-000015	corporationPartnership	11	Frank Kailik	29-MAR-2021	Managing Director, Special Operations	NA	true		30-NOV-2023
+0001718015-23-000015	corporationPartnership	10	Robert Lloyd Morton	30-OCT-2020	Director	NA	true		
+0001718015-23-000015	corporationPartnership	9	MARILOU HAZEL JUANTA	10-AUG-2020	RISK OFFICER	NA	true		30-JUN-2022
+0001718015-23-000015	corporationPartnership	8	Dan Eisner	19-SEP-2017	Director	NA	true		24-NOV-2023
+0001718015-23-000015	corporationPartnership	7	Daniel Sander	19-SEP-2017	President	NA	true		
+0001718015-23-000015	corporationPartnership	6	Dianna Reimer	19-SEP-2017	Chief Strategy Officer	NA	true		
+0001718015-23-000015	corporationPartnership	5	Sadiq Hajee Lalani	19-SEP-2017	Director	NA	true		
+0001718015-23-000015	corporationPartnership	4	Nicholas James Johnson	19-SEP-2017	Director	A	true		
+0001718015-23-000015	corporationPartnership	3	Randy Clifford Gregory	19-SEP-2017	Chairman & Director	NA	true		
+0001718015-23-000015	corporationPartnership	2	Scott Allen Saxberg	19-SEP-2017	DIRECTOR	B	true		
+0001718015-23-000015	corporationPartnership	1	JENNA MAY KAYE	09-SEP-2017	CEO	B	true		
+0001718015-23-000015	corporationPartnership	14	Rachel Wanchulak	01-JUL-2022	Vice President	NA	true		
+0000027048-23-000011	corporationPartnership	1	SS&C Technologies Holdings, Inc.	16-APR-2018	Indirect Owner	E	true		
+0000027048-23-000011	corporationPartnership	2	Adam Girard	16-APR-2018	Tax Officer	NA	true		
+0000027048-23-000011	corporationPartnership	6	Nick Wright	23-DEC-2021	President	NA	true		
+0000027048-23-000011	corporationPartnership	3	William C. Stone	16-APR-2018	Director	NA	true		
+0000027048-23-000011	corporationPartnership	4	Patrick Pedonti	16-APR-2018	Executive VP, Treasurer, Director	NA	true		04-DEC-2023
+0000027048-23-000011	corporationPartnership	5	SS&C Technologies, Inc.	16-APR-2018	Direct Owner	E	true		
+0000027048-23-000011	corporationPartnership	7	Nicole Greene	05-SEP-2022	Head of Global Investor & Dist. Solution	NA	true		
+0000027048-23-000011	corporationPartnership	8	Brian Schell	04-DEC-2023	Executive VP, Treasurer	NA	true		
+0001995558-23-000001	soleProprietorship	1	Alina Trombley	17-OCT-2023	President			Sole member and/or oversee compliance	
+0000737074-23-000002	corporationPartnership	3	Michael D. Policarpo	01-JUL-2019	Director	NA	true		
+0000737074-23-000002	corporationPartnership	1	Victory Capital Operating, LLC	24-DEC-2019	Owner	E	true		
+0000737074-23-000002	corporationPartnership	2	David C. Brown	01-JUL-2019	Director	NA	true		
+0000737074-23-000002	corporationPartnership	7	Scott A. Stahorsky	20-MAR-2023	Officer	NA	true		
+0000737074-23-000002	corporationPartnership	6	James De Vries	20-MAR-2023	Officer	NA	true		
+0000737074-23-000002	corporationPartnership	5	Christopher K. Dyer	01-JUL-2019	Officer	NA	true		03-NOV-2023
+0000737074-23-000002	corporationPartnership	4	Nina Gupta	01-JUL-2019	Director	NA	true		
+0001020337-23-000010	corporationPartnership	11	Kenneth McCullum	15-OCT-2020	Director	NA	true		
+0001020337-23-000010	corporationPartnership	10	Principal Financial Group, Inc.	01-JAN-2007	Parent of Principal Financial Services	E	true		
+0001020337-23-000010	corporationPartnership	9	Principal Financial Services, Inc	01-JAN-2007	Parent of PGI Holding Co (US), LLC	E	true		
+0001020337-23-000010	corporationPartnership	12	Mitch Nass	10-OCT-2023	Counsel & Secretary	NA			
+0001020337-23-000010	corporationPartnership	8	Principal Global Investors Holding Company (US), LLC	01-MAY-2017	Parent of Registrant	E	true		
+0001020337-23-000010	corporationPartnership	2	Kamal Bhatia	16-DEC-2019	Director	NA	true		17-OCT-2022
+0001020337-23-000010	corporationPartnership	3	Barbara Wenig	28-OCT-2022	Director	NA	true		
+0001020337-23-000010	corporationPartnership	4	Michael Scholten	11-SEP-2015	Chief Financial Officer	NA	true		
+0001020337-23-000010	corporationPartnership	5	Michael Hubbard	27-AUG-2019	Assistant Vice President	NA	true		
+0001020337-23-000010	corporationPartnership	6	Clint Woods	01-SEP-2021	VP, Assoc General Counsel & Secretary	NA			10-OCT-2023
+0001020337-23-000010	corporationPartnership	7	Diane Nelson	22-OCT-2015	Chief Compliance Officer & AML Officer	NA	true		
+0001020337-23-000010	corporationPartnership	1	Sharon Hoppel	30-JUN-2021	President and Director	NA	true		
+0001424912-23-000003	soleProprietorship	22	Carmen Hill	04-MAY-2018	Chief Privacy Officer			Officer	26-MAY-2023
+0001424912-23-000003	soleProprietorship	23	George Esposito	24-MAR-2022	VP, General Counsel and Secretary			Officer	
+0001424912-23-000003	soleProprietorship	24	John Zucco	07-MAR-2022	Vice President			Officer	27-JAN-2023
+0001424912-23-000003	soleProprietorship	25	Christopher Luisa	07-MAR-2022	Vice President			Officer	03-AUG-2022
+0001424912-23-000003	soleProprietorship	26	SE2 Asset Holdings, LLC	11-JUN-2021	Shareholder -- SE2 Holdings, LLC			Indirect Interest	
+0001424912-23-000003	soleProprietorship	27	Rob Frederick	16-MAY-2022	President and Chief Operating Officer			Officer	28-APR-2023
+0001424912-23-000003	soleProprietorship	28	Ian Jeffrey	15-JUN-2022	Head of People and Culture			Officer	
+0001424912-23-000003	soleProprietorship	29	Robin Alonso	01-NOV-2023	Chief Compliance Officer			Officer	
+0001424912-23-000003	soleProprietorship	30	Ashley Street	01-NOV-2023	Deputy General Counsel, Privacy Officer			Officer	
+0001424912-23-000003	soleProprietorship	31	Steve Halloran	26-MAY-2023	Head of TPA and Zinnia Digital			Officer	
+0001424912-23-000003	soleProprietorship	21	Milner Fenandoe	30-JUN-2021	Vice President			Officer	17-MAR-2023
+0001424912-23-000003	soleProprietorship	20	Michael Celi	15-MAR-2021	Vice President			Officer	
+0001424912-23-000003	soleProprietorship	19	Brad Medd	13-NOV-2020	CTO			Officer	
+0001424912-23-000003	soleProprietorship	18	John McConnell	28-JUL-2020	CFO			Officer	
+0001424912-23-000003	soleProprietorship	17	NANCY J. ROHN	25-AUG-2017	ASSISTANT SECRETARY			OFFICER	26-MAY-2023
+0001424912-23-000003	soleProprietorship	16	TODD L. BOEHLY	01-FEB-2017	MEMBER - NZC CAPITAL, LLC			INDIRECT INTEREST	
+0001424912-23-000003	soleProprietorship	15	NZC CAPITAL, LLC	01-FEB-2017	MEMBER - SBT INVESTORS, LLC			INDIRECT INTEREST	
+0001424912-23-000003	soleProprietorship	14	SBT INVESTORS, LLC	01-FEB-2017	MEMBER - ELDRIDGE INDUSTRIES, LLC			INDIRECT INTEREST	
+0001424912-23-000003	soleProprietorship	13	ELDRIDGE INDUSTRIES, LLC	01-FEB-2017	MEMBER - ELDRIDGE SBC HOLDINGS, LLC			INDIRECT INTEREST	
+0001424912-23-000003	soleProprietorship	12	ELDRIDGE SBC HOLDINGS, LLC	01-JUL-2010	SHAREHOLDER - SECURITY BENEFIT CORP			INDIRECT INTEREST	
+0001424912-23-000003	soleProprietorship	10	ZINNIA CORPORATE HOLDINGS, LLC	21-OCT-2013	SOLE MEMBER IN SE2, LLC			MEMBER	
+0001424912-23-000003	soleProprietorship	9	Security Benefit Corporation	14-FEB-2005	Sole Member se2 HoldCo, LLC			Sole Member	
+0001424912-23-000003	soleProprietorship	8	Janet Dulohery	02-MAY-2016	VP, Head of Human Resources			Officer	17-JUN-2022
+0001424912-23-000003	soleProprietorship	7	Deepa Nayini	01-JUN-2021	VP, General Counsel & Secretary			Officer	26-JAN-2022
+0001424912-23-000003	soleProprietorship	6	GREG L. HERRS	22-NOV-2016	SR. VICE PRESIDENT			OFFICER	26-MAY-2023
+0001424912-23-000003	soleProprietorship	5	BARRY G. WARD	22-NOV-2013	SR. VICE PRESIDENT & TREASURER			OFFICER	26-MAY-2023
+0001424912-23-000003	soleProprietorship	4	LISA M. YOUNG	30-SEP-2010	ASSISTANT TREASURER			OFFICER	26-MAY-2023
+0001424912-23-000003	soleProprietorship	3	THOMAS M. SPENCER	30-SEP-2010	SR. VICE PRESIDENT, BUSINESS DEVELOPMENT			OFFICER	
+0001424912-23-000003	soleProprietorship	2	MARY ANNE DURALL	05-JUN-2012	SR. VICE PRESIDENT			OFFICER	
+0001424912-23-000003	soleProprietorship	1	Mark Schultis	05-MAY-2020	CEO			OFFICER	01-MAY-2022
+0001424912-23-000003	soleProprietorship	11	SE2 HOLDCO, LLC	21-OCT-2013	Member SE2 ASSET HOLDINGS, LLC			INDIRECT INTEREST	
+0000810417-23-000006	corporationPartnership	1	EDJ Holding Company, Inc.	28-AUG-1987	General Partner	NA	true		
+0000810417-23-000006	corporationPartnership	2	The Jones Financial Companies, L.L.L.P.	28-AUG-1987	Limited Partner	E	true		
+0002003426-23-000001	corporationPartnership	3	Lisa Scotland	07-JUN-2023	Head of Operations	NA			
+0002003426-23-000001	corporationPartnership	2	Poornaprajna Venkatraj Udupi	20-FEB-2023	CTO	C	true		
+0002003426-23-000001	corporationPartnership	1	Robert Warren Schoder, Jr.	06-DEC-2022	CEO	C	true		
+0001451217-23-000006	corporationPartnership	7	Robert Muse	04-MAR-2009	President	NA			01-APR-2023
+0001451217-23-000006	corporationPartnership	19	John Alshefski	26-MAY-2023	Vice President	NA			
+0001451217-23-000006	corporationPartnership	18	Donald Duncan	26-MAY-2023	Anti-Money Laundering Officer	NA			
+0001451217-23-000006	corporationPartnership	17	Venita L Knight	12-MAY-2023	Secretary	NA			
+0001451217-23-000006	corporationPartnership	16	Alexander F Smith	26-MAY-2023	General Counsel & Asst Secretary	NA			
+0001451217-23-000006	corporationPartnership	15	Patrick DiLello	13-FEB-2023	Vice President & FATCA Responsible Off	NA			
+0001451217-23-000006	corporationPartnership	14	Kimberly Johnson	18-MAY-2022	Vice President	NA			03-MAR-2023
+0001451217-23-000006	corporationPartnership	1	Timothy Barto	12-AUG-2020	Vice President and Assistant Secretary	NA			26-MAY-2023
+0001451217-23-000006	corporationPartnership	2	Robert Silvestri	08-MAY-2008	Treasurer	NA			
+0001451217-23-000006	corporationPartnership	3	Dennis McGonigle	30-MAY-2008	Senior Vice President	NA	true		
+0001451217-23-000006	corporationPartnership	4	Jay Cipriano	30-MAY-2008	Vice President	NA			26-MAY-2023
+0001451217-23-000006	corporationPartnership	5	SEI Investments Management Corporation	30-MAY-2008	Direct Parent Company	E	true		
+0001451217-23-000006	corporationPartnership	6	SEI Investments Company	30-MAY-2008	Ultimate Parent Company	E	true		
+0001451217-23-000006	corporationPartnership	20	Shawn Hendricks	08-NOV-2023	Vice President	NA			
+0001451217-23-000006	corporationPartnership	8	Dave McCann	12-AUG-2020	General Counsel and Secretary	NA			26-MAY-2023
+0001451217-23-000006	corporationPartnership	9	Mark F. McManus	20-DEC-2010	Vice President	NA			08-NOV-2023
+0001451217-23-000006	corporationPartnership	10	Philip McCabe	03-OCT-2012	President	NA	true		
+0001451217-23-000006	corporationPartnership	11	Teresa Curley	24-MAY-2016	Vice President	NA			13-FEB-2023
+0001451217-23-000006	corporationPartnership	12	Michael Peterson	20-JUN-2018	Senior Vice President	NA	true		
+0001451217-23-000006	corporationPartnership	13	Bridget Sudall	05-JAN-2022	Chief Compliance Officer & Privacy Off	NA			
+0001458682-23-000006	soleProprietorship	7	Cassandra Brockway	11-MAY-2017	Operations Specialist			Certificate Signer effective 9/14/20	04-OCT-2023
+0001458682-23-000006	soleProprietorship	6	Mediha Kolar	01-JUN-2009	Operations Associate			Certificate Signer	01-SEP-2010
+0001458682-23-000006	soleProprietorship	5	Piero Falcone	09-FEB-2015	Managing Director			Certificate Signer	28-JUL-2019
+0001458682-23-000006	soleProprietorship	4	Matthew Luginbuehl	01-AUG-2009	Operations Specialist			Certificate Signer	
+0001458682-23-000006	soleProprietorship	3	Kyla D. Kennedy	01-JUN-2009	Compliance Officer			Certificate Signer	
+0001458682-23-000006	soleProprietorship	2	Juan Carlos Osorio	06-MAR-2009	Financial Controller			Certificate Signer	
+0001458682-23-000006	soleProprietorship	1	Kara A. Kennedy	01-JUN-2009	Executive Director			Majority Owner, Certificate Signer	
+0000862124-23-000004	corporationPartnership	55	Eric C. Green	01-JUL-2017	Assistant Treasurer	NA	true		01-DEC-2022
+0000862124-23-000004	corporationPartnership	56	Robert J. Biemer, Jr	30-OCT-2017	Chief Compliance Officer	NA			30-JUN-2021
+0000862124-23-000004	corporationPartnership	57	David Carter	30-OCT-2017	Chief Legal Officer Shareholder Division	NA			
+0000862124-23-000004	corporationPartnership	58	Michael O'Reilly	30-OCT-2017	Chief Risk Officer Shareholder Division	NA			31-JUL-2018
+0000862124-23-000004	corporationPartnership	59	Cliff Poirier	01-FEB-2018	Sr. Vice President Shareholder Division	NA	true		30-JUN-2021
+0000862124-23-000004	corporationPartnership	60	Sharon Brovelli	18-JUL-2018	President - Retirement Division	NA			
+0000862124-23-000004	corporationPartnership	61	Michael Bull	18-JUL-2018	Senior Vice President - Shareholder Divi	NA			30-SEP-2021
+0000862124-23-000004	corporationPartnership	62	Christine Selmi	18-JUL-2018	Senior Vice President - Shareholder Divi	NA			
+0000862124-23-000004	corporationPartnership	63	Matthew DePiero	18-JUL-2018	Treasurer - Shareholder Division	NA			
+0000862124-23-000004	corporationPartnership	64	Michael Doherty	18-JUL-2018	Treasurer - Retirement Division	NA			03-APR-2020
+0000862124-23-000004	corporationPartnership	65	John J. Burke	25-FEB-2019	Executive Vice President - Shareholder D	NA			
+0000862124-23-000004	corporationPartnership	66	Steven D'Agati	25-FEB-2019	Senior Vice President - Shareholder Divi	NA			30-APR-2020
+0000862124-23-000004	corporationPartnership	67	Eric Bocan	25-FEB-2019	Chief Risk Officer - Shareholder Divisio	NA			
+0000862124-23-000004	corporationPartnership	68	John J. Burke	01-JAN-2020	Director	NA	true		
+0000862124-23-000004	corporationPartnership	69	Lisa D. Krieser	01-JAN-2020	Secretary	NA			
+0000862124-23-000004	corporationPartnership	70	Kevin M. McLaughlin	03-APR-2020	Treasurer - Retirement Division	NA			01-DEC-2022
+0000862124-23-000004	corporationPartnership	71	Lisa Goulemas	20-MAY-2021	Sr Vice President - Shareholder Division	NA			
+0000862124-23-000004	corporationPartnership	72	Amy DeVasto	02-SEP-2021	Chief Compliance Officer	NA			
+0000862124-23-000004	corporationPartnership	73	Brian Field	02-SEP-2021	Vice President Shareholder Division	NA			
+0000862124-23-000004	corporationPartnership	74	Dennis Sullivan	02-SEP-2021	Vice President Shareholder Division	NA			
+0000862124-23-000004	corporationPartnership	75	Matthew DePiero	01-DEC-2022	Treasurer - Retirement Division	NA			
+0000862124-23-000004	corporationPartnership	76	Crystal Morrison	01-DEC-2022	Sr Vice President - Shareholder Division	NA			
+0000862124-23-000004	corporationPartnership	77	Michael Shulman	01-DEC-2022	Assistant Treasurer	NA			
+0000862124-23-000004	corporationPartnership	78	Amy Hansel	01-MAR-2023	Sr Vice President - Shareholder Division	NA			
+0000862124-23-000004	corporationPartnership	79	John Slyconish	10-OCT-2023	Assistant Treasurer	NA	true		
+0000862124-23-000004	corporationPartnership	1	FMR Corp	01-JUL-1978	Shareholder	E	true		30-SEP-2007
+0000862124-23-000004	corporationPartnership	2	Susan Sturdy	28-JUN-2006	Secretary	NA			01-AUG-2008
+0000862124-23-000004	corporationPartnership	3	Timothy F. Hayes	28-JUN-2006	President & Director	NA	true		14-JUN-2007
+0000862124-23-000004	corporationPartnership	4	Jeffrey Carney	28-JUN-2006	Executive Vice President	NA	true		14-JUN-2007
+0000862124-23-000004	corporationPartnership	5	Laura B. Cronin	28-JUN-2006	Executive Operating Officer	NA			03-OCT-2007
+0000862124-23-000004	corporationPartnership	6	Robert A. Dwight	03-JUL-2003	Executive Operating Officer	NA	true		30-JUN-2013
+0000862124-23-000004	corporationPartnership	7	Joseph P. LoRusso	03-JUL-2003	Director	NA	true		14-JUN-2007
+0000862124-23-000004	corporationPartnership	8	Stephen E. Tibbets	01-AUG-1994	Treasurer	NA			14-JUN-2007
+0000862124-23-000004	corporationPartnership	9	J. Gregory Wass	28-JUN-2006	Assitant Treasurer	NA			31-JUL-2011
+0000862124-23-000004	corporationPartnership	10	John J. Hitt	28-JUN-2006	Assistant Secretary	NA			01-AUG-2008
+0000862124-23-000004	corporationPartnership	11	Richard Siegelman	14-JUN-2007	Chief Compliance Officer	NA			01-MAY-2009
+0000862124-23-000004	corporationPartnership	12	Anmarie Ciccolo	14-JUN-2007	Chief Compliance Officer	NA			01-JUL-2017
+0000862124-23-000004	corporationPartnership	13	Joseph Hollis	14-JUN-2007	Executive Operating Officer	NA	true		01-AUG-2008
+0000862124-23-000004	corporationPartnership	14	Terence Sanz	14-JUN-2007	Treasurer	NA			01-DEC-2008
+0000862124-23-000004	corporationPartnership	15	FMR LLC	01-OCT-2007	Shareholder	E	true		30-SEP-2010
+0000862124-23-000004	corporationPartnership	16	Robert Donelan	14-JUN-2007	President & Director	NA	true		26-JUL-2010
+0000862124-23-000004	corporationPartnership	17	Raymond Marcinowski	14-JUN-2007	President & Director	NA	true		29-FEB-2008
+0000862124-23-000004	corporationPartnership	18	Barbara March	11-FEB-2008	Executive Operating Officer	NA	true		01-FEB-2010
+0000862124-23-000004	corporationPartnership	19	Dub Nelson	15-SEP-2008	Executive Operating Officer	NA	true		01-DEC-2008
+0000862124-23-000004	corporationPartnership	20	Christine Reynolds	01-AUG-2008	Executive Operating Officer	NA	true		31-JUL-2014
+0000862124-23-000004	corporationPartnership	21	Mary Brady	01-AUG-2008	Secretary	NA			26-FEB-2010
+0000862124-23-000004	corporationPartnership	22	Peter D. Stahl	01-AUG-2008	Secretary	NA			01-JAN-2020
+0000862124-23-000004	corporationPartnership	23	Gerard McGraw	04-SEP-2007	Executive Operating Officer	NA	true		10-SEP-2009
+0000862124-23-000004	corporationPartnership	24	Marvin Adams	15-SEP-2008	Director	NA	true		20-AUG-2009
+0000862124-23-000004	corporationPartnership	25	Richard Dobbs	15-SEP-2008	Director	NA	true		09-OCT-2009
+0000862124-23-000004	corporationPartnership	26	Phillip Guarino	01-DEC-2008	Treasurer	NA			31-MAY-2010
+0000862124-23-000004	corporationPartnership	27	Robert J. Adams	10-SEP-2009	President Shareholder Division	NA	true		
+0000862124-23-000004	corporationPartnership	28	Timothy J. Barrett	20-AUG-2009	Asssitant Treasurer	NA			15-OCT-2010
+0000862124-23-000004	corporationPartnership	29	Michael Doorley	01-OCT-2009	Director	NA	true		01-APR-2010
+0000862124-23-000004	corporationPartnership	30	Sharon Brovelli	01-FEB-2010	Executive Operating Officer	NA	true		26-JUL-2010
+0000862124-23-000004	corporationPartnership	31	Robert Biemer	11-FEB-2010	Chief Legal Officer	NA	true		30-OCT-2017
+0000862124-23-000004	corporationPartnership	32	Gerard McGraw	26-JUL-2010	Director	NA	true		27-OCT-2014
+0000862124-23-000004	corporationPartnership	33	James Michael MacDonald	26-JUL-2010	Director	NA	true		27-OCT-2014
+0000862124-23-000004	corporationPartnership	34	Michael Engber Wilens	26-JUL-2010	Director	NA	true		15-FEB-2011
+0000862124-23-000004	corporationPartnership	35	Scott Morgan Gygi	26-JUL-2010	Executive Operating Officer	NA	true		27-SEP-2013
+0000862124-23-000004	corporationPartnership	36	Christopher A. Hock	26-JUL-2010	President - Retirement Division	NA	true		18-JUL-2018
+0000862124-23-000004	corporationPartnership	37	Harris Gregg Komishane	26-JUL-2010	Treasurer	NA			27-OCT-2014
+0000862124-23-000004	corporationPartnership	38	Susan Sturdy	26-JUL-2010	Secretary	NA			18-JUN-2013
+0000862124-23-000004	corporationPartnership	39	Fidelity Workplace Services LLC	30-SEP-2010	Shareholder	E	true		
+0000862124-23-000004	corporationPartnership	40	Charles M. Morgan	01-AUG-2011	Assistant Treasurer	NA			31-JAN-2014
+0000862124-23-000004	corporationPartnership	41	Michael Bull	27-SEP-2013	Executive Operating Officer	NA	true		27-OCT-2014
+0000862124-23-000004	corporationPartnership	42	Michael J. Kearney	27-SEP-2013	Assistant Treasurer	NA	true		10-OCT-2023
+0000862124-23-000004	corporationPartnership	43	Thomas Restivo	27-SEP-2013	Sr. Vice President Shareholder Division	NA	true		31-DEC-2017
+0000862124-23-000004	corporationPartnership	44	Brian C. McLain	27-SEP-2013	Assistant Secretary	NA			
+0000862124-23-000004	corporationPartnership	45	Howard J. Galligan III	31-JUL-2014	Exec Vice President Shareholder Division	NA	true		31-JUL-2018
+0000862124-23-000004	corporationPartnership	46	Mark Katzelnick	27-OCT-2014	Director	NA	true		01-JAN-2020
+0000862124-23-000004	corporationPartnership	47	G. Michael Slovak	27-OCT-2014	Director	NA	true		01-JUL-2017
+0000862124-23-000004	corporationPartnership	48	Allyn Jones	27-OCT-2014	Sr. Vice President Shareholder Division	NA	true		01-MAR-2023
+0000862124-23-000004	corporationPartnership	49	Carlos PiSierra	27-OCT-2014	Treasurer Shareholder Division	NA	true		29-JAN-2018
+0000862124-23-000004	corporationPartnership	50	David Morse	27-OCT-2014	Chief Risk Officer	NA	true		30-OCT-2017
+0000862124-23-000004	corporationPartnership	51	Glenn Brack	27-OCT-2014	Treasurer Retirement Division	NA			18-JUL-2018
+0000862124-23-000004	corporationPartnership	52	Steven F. Schiffman	27-OCT-2014	Assistant Treasurer	NA			01-JUL-2017
+0000862124-23-000004	corporationPartnership	53	Kevin M. Barry	01-JUL-2017	Director	NA	true		
+0000862124-23-000004	corporationPartnership	54	Ronald DePoalo	01-JUL-2017	Director	NA	true		
+0000733598-23-000006	corporationPartnership	3	William R. Siemers	12-JUL-2004	SVP/Interim CFO	NA	true		
+0000733598-23-000006	corporationPartnership	6	Kyle DiGangi	04-FEB-2019	Global Head of Compliance	NA			
+0000733598-23-000006	corporationPartnership	5	Thomas Simeone	30-AUG-2004	Controller and Chief Accounting Officer	NA	true		
+0000733598-23-000006	corporationPartnership	4	AllianceBernstein L.P.	16-NOV-1983	Corporate Parent	E	true		
+0000733598-23-000006	corporationPartnership	2	Mark R. Manley	21-MAY-1984	SVP/General Counsel & Corporate Sec.	NA	true		
+0000733598-23-000006	corporationPartnership	1	Peter G. Callahan	09-MAR-1987	SVP/Hd of ABIS & Retail Infrastruct Svc	NA	true		
+0001140361-23-054167	soleProprietorship	5	Laura Matlin	01-JUL-2021	Manager, President, and Secretary			Manager, President, and Secretary	
+0001140361-23-054167	soleProprietorship	8	Adam Tamas	01-JAN-2023	Assistant Secretary			Assistant Secretary	
+0001140361-23-054167	soleProprietorship	6	Steven Glantz	01-JAN-2023	Assistant Secretary			Assistant Secretary	
+0001140361-23-054167	soleProprietorship	7	D. Andrew Spathakis	01-JAN-2023	Assistant Secretary			Assistant Secretary	
+0001140361-23-054167	soleProprietorship	4	Edmund Reese	30-NOV-2020	Manager, Vice President, and CFO			Manager, Vice President, and CFO	
+0001140361-23-054167	soleProprietorship	3	Dorothy Jane Flynn	09-JAN-2017	President, BCIS			President, BCIS	
+0001140361-23-054167	soleProprietorship	2	Steven Jay Rosenthal	28-SEP-2012	Manager and Treasurer			Manager and Treasurer	
+0001140361-23-054167	soleProprietorship	1	Broadridge Financial Solutions, Inc.	08-MAR-2010	Owner			Indirect controlling parent entity	
+0001559963-23-000006	corporationPartnership	18	Rajeev Bhatnagar	20-MAR-2023	Board Director	NA	true		
+0001559963-23-000006	corporationPartnership	17	Janet Menezes	06-JUN-2022	Board Director	NA	true		
+0001559963-23-000006	corporationPartnership	14	Francis Braeckevelt	13-MAR-2019	Board Director	NA			
+0001559963-23-000006	corporationPartnership	15	Joanne Cash	11-MAR-2021	Board Director	NA	true		
+0001559963-23-000006	corporationPartnership	16	Alexandra Waite Goodburn	11-MAR-2021	Managing Director - US TA	NA	true		
+0001559963-23-000006	corporationPartnership	13	Denise Sommerville	13-MAR-2019	Board Director	NA			08-MAY-2020
+0001559963-23-000006	corporationPartnership	12	Ann Fogarty	13-MAR-2019	Board Director	NA			17-JUN-2020
+0001559963-23-000006	corporationPartnership	11	Jasmin Ignatius	13-MAR-2019	Board Director	NA			05-MAY-2022
+0001559963-23-000006	corporationPartnership	10	Nitin Chandel	13-MAR-2019	Board Director	NA			15-SEP-2023
+0001559963-23-000006	corporationPartnership	9	Craig Bayer	30-MAY-2018	Director	NA	true		05-SEP-2023
+0001559963-23-000006	corporationPartnership	8	Shailendra Pandey	09-JUN-2017	Compliance Officer	NA			
+0001559963-23-000006	corporationPartnership	7	Sudish Panicker	27-JUN-2016	Board Director	NA	true		
+0001559963-23-000006	corporationPartnership	6	Michael DeNofrio	12-MAR-2013	Vice President- US TA	NA	true		31-DEC-2020
+0001559963-23-000006	corporationPartnership	5	The Bank of New York Mellon Corporation	09-JAN-2008	Ultimate parent entity	E	true		
+0001559963-23-000006	corporationPartnership	4	The Bank of New York Mellon	19-DEC-2016	Parent entity	E	true		
+0001559963-23-000006	corporationPartnership	3	BNY International Financing Corporation	19-DEC-2016	Owner of Shareholder entities	E	true		
+0001559963-23-000006	corporationPartnership	2	BNY Foreign Holdings, Inc.	19-DEC-2016	Shareholder entity	NA			
+0001559963-23-000006	corporationPartnership	1	BNY Mellon APAC Services Holdings f/k/a iNautix Technologies Mauritius	19-DEC-2016	Shareholder entity	E	true		
+0000027048-23-000010	corporationPartnership	7	Nicole Greene	05-SEP-2022	Head of Global Investor & Dist. Solution	NA	true		
+0000027048-23-000010	corporationPartnership	6	Nick Wright	23-DEC-2021	President	NA	true		
+0000027048-23-000010	corporationPartnership	5	SS&C Technologies, Inc.	16-APR-2018	Direct Owner	E	true		
+0000027048-23-000010	corporationPartnership	4	Patrick Pedonti	16-APR-2018	Executive VP, Treasurer, Director	NA	true		
+0000027048-23-000010	corporationPartnership	3	William C. Stone	16-APR-2018	Director	NA	true		
+0000027048-23-000010	corporationPartnership	2	Adam Girard	16-APR-2018	Tax Officer	NA	true		
+0000027048-23-000010	corporationPartnership	1	SS&C Technologies Holdings, Inc.	16-APR-2018	Indirect Owner	E	true		
+0001376474-23-000502	soleProprietorship	1	Fairmint Inc.	08-JUN-2021	Owner			Fair FP LLC is a 100% subsidiary	
+0001376474-23-000502	soleProprietorship	2	Favre Thibauld	08-JUN-2021	Co-CEO, Fairmint			Fair FP LLC is a 100% subsidiary	
+0002000978-23-000002	soleProprietorship	1	Edward Lee	03-NOV-2023	CEO			CEO	
+0000734700-23-000010	corporationPartnership	1	David Michael Solomon	15-APR-2017	Managing Director, Manager	NA	true		
+0000734700-23-000010	corporationPartnership	2	John Edward Waldron	15-DEC-2018	Managing Director, CEO, Manager	NA	true		
+0000734700-23-000010	corporationPartnership	3	Denis Patrick Coleman III	15-JAN-2022	Managing Director, Manager	NA	true		
+0000734700-23-000010	corporationPartnership	4	Ericka T Horan	15-FEB-2022	Managing Director, Manager	NA	true		
+0000734700-23-000010	corporationPartnership	5	The Goldman Sachs Group, Inc.	15-APR-2017	Class A Member	E	true		
+0001808525-23-000003	corporationPartnership	1	Saurabh Manoj Nanavati	08-SEP-2017	Director	NA	true		
+0001808525-23-000003	corporationPartnership	2	Jeremy Charles Simpson	18-JUN-2012	Director	NA	true		
+0001808525-23-000003	corporationPartnership	3	Yogesh Malhotra	20-JUN-2018	Officer, Director	NA	true		
+0001808525-23-000003	corporationPartnership	4	Donie Vinood Lochan	08-SEP-2017	Director	NA	true		
+0001808525-23-000003	corporationPartnership	5	Annette Janecka Lege	08-SEP-2017	Director	NA	true		15-MAR-2022
+0001808525-23-000003	corporationPartnership	6	Mark Francis Giuliano	15-OCT-2018	Director	NA	true		
+0001808525-23-000003	corporationPartnership	7	Michael Alexander Janiszewski	15-OCT-2018	Director	NA	true		01-MAR-2021
+0001808525-23-000003	corporationPartnership	8	Invesco Singapore Pte. Ltd	31-MAR-2016	Sole Voting Shareholder	E	true		
+0001808525-23-000003	corporationPartnership	9	Nishant Mohta	01-SEP-2017	Officer	NA	true		
+0001808525-23-000003	corporationPartnership	10	Carolyn Leigh Gibbs	20-AUG-2020	Director	NA	true		
+0001808525-23-000003	corporationPartnership	11	Ronald Alexander Robertson	08-MAR-2021	Director	NA	true		
+0001808525-23-000003	corporationPartnership	12	Terry Gibson Vacheron	30-JUN-2022	Director	NA	true		
+0001808525-23-000003	corporationPartnership	13	Pratyusha Sharma	15-SEP-2023	Director	NA	true		
+0000842657-23-000026	corporationPartnership	11	Hepsen Uzcan	25-JUN-2018	Director and Vice President	NA	true		
+0000842657-23-000026	corporationPartnership	10	DWS USA Corporation	01-MAY-2018	100% owner of DIMA	E	true		
+0000842657-23-000026	corporationPartnership	9	DB Beteiligungs - Holding GmbH	02-APR-2018	79.49% owner of DWS Group GmbH & Co KGaA	E	true		
+0000842657-23-000026	corporationPartnership	7	Deutsche Bank AG	02-APR-2018	owner of DB Beteiligungs - Holding GmbH	E	true		
+0000842657-23-000026	corporationPartnership	6	Anjie Larocca	14-JUN-2017	Secretary	NA	true		
+0000842657-23-000026	corporationPartnership	12	Nicole Grogan	26-JUL-2019	Director and Vice President	NA	true		
+0000842657-23-000026	corporationPartnership	8	DWS Group GmbH & Co KGaA	02-APR-2018	100% owner of DWS USA Corporation	E	true		
+0000842657-23-000026	corporationPartnership	4	Deutsche Asset Management US Holding Corporation (DeAM US Holding Corp.)	01-AUG-2017	100% owner of DIMA	E	true		01-MAY-2018
+0000842657-23-000026	corporationPartnership	3	DWS Investment Management Americas Inc.	06-FEB-1998	100% owner of Registrant	E	true		
+0000842657-23-000026	corporationPartnership	2	Nancy Tanzil	13-MAY-2014	Chief Financial Officer and Treasurer	NA			
+0000842657-23-000026	corporationPartnership	1	Kristine Lyons	22-SEP-2005	Director and Vice President	NA	true		
+0000842657-23-000026	corporationPartnership	5	Michael Sharkey	01-NOV-2017	Director and President	NA	true		
+0001018490-23-000033	corporationPartnership	1	Deutsche Bank Holdings, Inc. (DBHold)	12-DEC-1991	Owner of 100% Registrant	E			
+0001018490-23-000033	corporationPartnership	6	Edward McMahon	02-MAY-2019	Director	NA	true		
+0001018490-23-000033	corporationPartnership	5	Heiko Roessle	27-MAR-2019	Director	NA	true		
+0001018490-23-000033	corporationPartnership	4	Deutsche Bank AG	04-JUN-1999	Owner of 100% DB USA Corporation	E			
+0001018490-23-000033	corporationPartnership	3	DB USA Corporation	01-JUL-2016	Owner of 100% of DBTC	E			
+0001018490-23-000033	corporationPartnership	2	Deutsche Bank Trust Corporation (DBTC)	12-DEC-1991	Owner of 100% DBHold	E			
+0001718015-23-000011	corporationPartnership	5	Sadiq Lalani	19-SEP-2017	Director	NA	true		
+0001718015-23-000011	corporationPartnership	13	Robyn Ross	28-OCT-2021	Director	NA	true		
+0001718015-23-000011	corporationPartnership	3	Randy Gregory	19-SEP-2017	Chairman & Director	NA	true		
+0001718015-23-000011	corporationPartnership	2	Scott Saxberg	19-SEP-2017	DIRECTOR	B	true		
+0001718015-23-000011	corporationPartnership	1	JENNA KAYE	09-SEP-2017	CEO	B	true		
+0001718015-23-000011	corporationPartnership	11	Frank Kailik	29-MAR-2021	Managing Director, Special Operations	NA	true		
+0001718015-23-000011	corporationPartnership	10	Robert Morton	30-OCT-2020	Director	NA	true		
+0001718015-23-000011	corporationPartnership	9	MARILOU HAZEL JUANTA	10-AUG-2020	RISK OFFICER	NA	true		30-JUN-2022
+0001718015-23-000011	corporationPartnership	8	Dan Eisner	19-SEP-2017	Director	NA	true		
+0001718015-23-000011	corporationPartnership	7	Daniel Sander	19-SEP-2017	President	NA	true		
+0001718015-23-000011	corporationPartnership	6	Dianna Reimer	19-SEP-2017	Chief Strategy Officer	NA	true		
+0001718015-23-000011	corporationPartnership	12	Shawn Stordy	12-OCT-2021	CFO	NA	true		
+0001718015-23-000011	corporationPartnership	17	Rose Mark	27-OCT-2023	Director	NA	true		
+0001718015-23-000011	corporationPartnership	16	Justin Sheehan	31-JUL-2023	CCO, CRO	NA	true		
+0001718015-23-000011	corporationPartnership	15	Krista Lalonde	06-SEP-2022	COO	NA	true		
+0001718015-23-000011	corporationPartnership	14	Rachel Wanchulak	01-JUL-2022	Vice President	NA	true		
+0001718015-23-000011	corporationPartnership	4	Nicholas Johnson	19-SEP-2017	Director	A	true		
+0001718015-23-000010	corporationPartnership	9	Dan Eisner	19-SEP-2017	Director	NA	true		
+0001718015-23-000010	corporationPartnership	10	MARILOU HAZEL JUANTA	10-AUG-2020	RISK OFFICER	NA	true		30-JUN-2022
+0001718015-23-000010	corporationPartnership	11	Robert Morton	30-OCT-2020	Director	NA	true		
+0001718015-23-000010	corporationPartnership	12	Frank Kailik	29-MAR-2021	Managing Director, Special Operations	NA	true		
+0001718015-23-000010	corporationPartnership	13	Shawn Stordy	12-OCT-2021	CFO	NA	true		
+0001718015-23-000010	corporationPartnership	14	Robyn Ross	28-OCT-2021	Director	NA	true		
+0001718015-23-000010	corporationPartnership	15	Sarah Gilroy	26-MAY-2022	Vice President	NA	true		
+0001718015-23-000010	corporationPartnership	16	Rachel Wanchulak	01-JUL-2022	Vice President	NA	true		
+0001718015-23-000010	corporationPartnership	17	Krista Lalonde	06-SEP-2022	COO	NA	true		
+0001718015-23-000010	corporationPartnership	18	Justin Sheehan	31-JUL-2023	CCO, CRO	NA	true		
+0001718015-23-000010	corporationPartnership	19	Rose Mark	27-OCT-2023	Director	NA	true		
+0001718015-23-000010	corporationPartnership	1	JENNA KAYE	09-SEP-2017	CEO	B	true		
+0001718015-23-000010	corporationPartnership	2	John Campbell	19-SEP-2017	PRESIDENT	NA	true		01-DEC-2021
+0001718015-23-000010	corporationPartnership	3	Scott Saxberg	19-SEP-2017	DIRECTOR	B	true		
+0001718015-23-000010	corporationPartnership	4	Randy Gregory	19-SEP-2017	Chairman & Director	NA	true		
+0001718015-23-000010	corporationPartnership	5	Nicholas Johnson	19-SEP-2017	Director	A	true		
+0001718015-23-000010	corporationPartnership	6	Sadiq Lalani	19-SEP-2017	Director	NA	true		
+0001718015-23-000010	corporationPartnership	7	Dianna Reimer	19-SEP-2017	Chief Strategy Officer	NA	true		
+0001718015-23-000010	corporationPartnership	8	Daniel Sander	19-SEP-2017	President	NA	true		
+0001998958-23-000003	corporationPartnership	10	Kent Mitchell	06-NOV-2023	Director	NA	true		
+0001998958-23-000003	corporationPartnership	9	Michele Harris	06-NOV-2023	Director	NA	true		
+0001998958-23-000003	corporationPartnership	8	Todd May	06-NOV-2023	Director, Chair	NA	true		
+0001998958-23-000003	corporationPartnership	7	Caitlyn Van Valin	06-NOV-2023	Executive Vice President	NA	true		
+0001998958-23-000003	corporationPartnership	1	Odyssey Holding Corp.	06-NOV-2023	Other	E	true		
+0001998958-23-000003	corporationPartnership	5	Angela Ponte	06-NOV-2023	Vice President - CCO	NA	true		
+0001998958-23-000003	corporationPartnership	4	Andrea Severson	06-NOV-2023	Vice President - COO	NA	true		
+0001998958-23-000003	corporationPartnership	3	Rebecca Paulson	06-NOV-2023	Director, President	NA	true		
+0001998958-23-000003	corporationPartnership	2	Jenna Kaye	06-NOV-2023	Director, CEO	NA	true		
+0001998958-23-000003	corporationPartnership	6	Chris Ward	06-NOV-2023	Executive Vice President	NA	true		
+0000005076-23-000007	corporationPartnership	9	Joshua R. Diggs	01-NOV-2023	Secretary	NA			
+0000005076-23-000007	corporationPartnership	8	Ryan R. Rue	10-MAY-2023	President and Director	NA	true		
+0000005076-23-000007	corporationPartnership	1	Capital Research and Management Company	01-JUL-1985	Stockholder	E	true		
+0000005076-23-000007	corporationPartnership	2	Steven Guida	20-NOV-2019	Director & Senior VP	NA	true		
+0000005076-23-000007	corporationPartnership	3	Dana C. McCollum	20-NOV-2019	Director & Senior VP	NA	true		
+0000005076-23-000007	corporationPartnership	4	Canise M. Arredondo	20-NOV-2019	Director	NA	true		
+0000005076-23-000007	corporationPartnership	5	Timothy W. McHale	01-JUL-2022	Director & Chairman	NA	true		
+0000005076-23-000007	corporationPartnership	6	Stephanie D.S. McNeely	01-NOV-2022	Secretary	NA			01-NOV-2023
+0000005076-23-000007	corporationPartnership	7	Susi Michele Silverman	08-FEB-2023	Treasurer	NA			
+0001999670-23-000001	corporationPartnership	1	John Gibson Crossman Jr	12-OCT-2023	CEO	C	true		
+0001999670-23-000001	corporationPartnership	2	Ryan Samuel Singer	12-OCT-2023	Investor	C			
+0001452780-23-000008	corporationPartnership	7	Chris Benner	28-JUN-2019	Director	NA	true		
+0001452780-23-000008	corporationPartnership	8	Shankar Narayan Gawde	30-JUN-2020	Vice President	NA	true		
+0001452780-23-000008	corporationPartnership	6	David Fellows	25-MAR-2019	Director	NA	true		
+0001452780-23-000008	corporationPartnership	5	Kevin Lysaught	25-MAR-2019	Director	NA	true		
+0001452780-23-000008	corporationPartnership	4	Manjula Cherukuri	21-MAR-2005	Head of Finance, Director	NA	true		
+0001452780-23-000008	corporationPartnership	3	SS&C GIDS, Inc, (formerly DST Systems, Inc.)	30-APR-2005	Indirect Ownership	NA			
+0001452780-23-000008	corporationPartnership	2	DST HealthCare Holdings, Inc.	30-APR-2005	75.42% Owner	E			
+0001452780-23-000008	corporationPartnership	1	Pacific Ventures	02-MAY-2005	24.58% Owner	B			
+0001846640-23-000006	corporationPartnership	5	Bryan Edmiston	11-APR-2023	Chief Financial Officer and Treasurer	NA	true		
+0001846640-23-000006	corporationPartnership	1	WisdomTree, Inc.	11-APR-2023	Sole Shareholder	E	true		
+0001846640-23-000006	corporationPartnership	2	William Peck	11-APR-2023	Chief Executive Officer	NA	true		
+0001846640-23-000006	corporationPartnership	3	Francis (Chris) Ryder	12-DEC-2022	President	NA	true		
+0001846640-23-000006	corporationPartnership	9	Derek Ibsch	01-OCT-2023	Chief Compliance Officer	NA			
+0001846640-23-000006	corporationPartnership	6	Brian Moran	03-FEB-2022	Chief Compliance Officer	NA			30-SEP-2023
+0001846640-23-000006	corporationPartnership	7	Peter Ziemba	11-APR-2023	Director	NA	true		
+0001846640-23-000006	corporationPartnership	8	Stuart Bell	11-APR-2023	Director	NA	true		
+0001846640-23-000006	corporationPartnership	4	Ryan Louvar	11-APR-2023	Chief Legal Officer and Secretary	NA	true		
+0000734700-23-000009	corporationPartnership	1	David Michael Solomon	15-APR-2017	Managing Director, Manager	NA	true		
+0000734700-23-000009	corporationPartnership	2	John Edward Waldron	15-DEC-2018	Managing Director, CEO, Manager	NA	true		
+0000734700-23-000009	corporationPartnership	5	The Goldman Sachs Group, Inc.	15-APR-2017	Class A Member	E	true		
+0000734700-23-000009	corporationPartnership	4	Ericka T Horan	15-FEB-2022	Managing Director, Manager	NA	true		
+0000734700-23-000009	corporationPartnership	3	Denis Patrick Coleman III	15-JAN-2022	Managing Director, Manager	NA	true		
+0000810704-23-000006	corporationPartnership	12	Primerica Finance Corporation	20-DEC-1994	Parent Company	E	true		
+0000810704-23-000006	corporationPartnership	11	Gloria Tyree Pullard	01-MAY-2017	Assistant Secretary	NA			01-MAR-2018
+0000810704-23-000006	corporationPartnership	14	Stacey K. Geer	01-AUG-2012	Secretary	NA			
+0000810704-23-000006	corporationPartnership	15	Todd M. Cooperider	15-AUG-2013	Assistant Secretary	NA			
+0000810704-23-000006	corporationPartnership	16	Asa Behnia	01-JUN-2018	Assistant Secretary	NA			
+0000810704-23-000006	corporationPartnership	17	Estelle D. Faranda	16-JAN-2020	Director, CEO and President	NA	true		30-SEP-2023
+0000810704-23-000006	corporationPartnership	18	William Nemetz	01-FEB-2022	Director and Executive Vice President	NA	true		
+0000810704-23-000006	corporationPartnership	19	David Ian How	01-JUN-2018	Vice President	NA			
+0000810704-23-000006	corporationPartnership	20	Kurt J. Simmons	30-NOV-2009	Assistant Secretary	NA			
+0000810704-23-000006	corporationPartnership	21	James Alexander Taylor	16-MAY-2016	Assistant Secretary	NA			
+0000810704-23-000006	corporationPartnership	22	Brian S. Weigle	31-MAR-2023	Director	NA			
+0000810704-23-000006	corporationPartnership	23	Nicholas A. Jendusa	25-JUL-2023	EVP, Chief Financial Officer and FINOP	NA			
+0000810704-23-000006	corporationPartnership	24	Michael Wells	25-JUL-2023	Treasurer	NA			
+0000810704-23-000006	corporationPartnership	25	Paul Etienne Regard	01-OCT-2023	Director, CEO and President	NA	true		
+0000810704-23-000006	corporationPartnership	4	Alison S. Rand	31-DEC-1998	Executive Vice President	NA	true		24-JUL-2019
+0000810704-23-000006	corporationPartnership	1	William A. Kelly	21-JAN-1997	Executive Vice President	NA	true		28-AUG-2020
+0000810704-23-000006	corporationPartnership	2	Cynthia K. Mitchell	17-JAN-1995	Executive Vice President	NA	true		01-FEB-2022
+0000810704-23-000006	corporationPartnership	3	Melanie J. Mitchell	19-DEC-2008	Executive Vice President	NA	true		24-JUL-2019
+0000810704-23-000006	corporationPartnership	5	John S. Watts, III	01-JAN-2001	SVP and Chief Legal Counsel	NA			
+0000810704-23-000006	corporationPartnership	6	Jimmie B. Barnhill	01-SEP-2006	Vice President	NA			
+0000810704-23-000006	corporationPartnership	7	Janet Kelly	15-OCT-2014	Vice President and Assistant Secretary	NA			01-JUN-2018
+0000810704-23-000006	corporationPartnership	8	Daniel A. Woodring	01-SEP-2005	EVP and Chief Compliance Officer	NA			
+0000810704-23-000006	corporationPartnership	9	Sharon Grubenhoff	01-SEP-2011	SVP, Chief Financial Officer & Treasurer	NA			25-JUL-2023
+0000810704-23-000006	corporationPartnership	10	Judy R. Trollinger	01-JAN-1999	Assistant Secretary	NA			01-MAY-2017
+0000810704-23-000006	corporationPartnership	13	Primerica, Inc.	01-APR-2010	Indirect Parent Company	E	true		
+0001253179-23-000006	soleProprietorship	4	The Ultimus Group Intermediate, LLC (Intermediate)	01-FEB-2019	indirect owner			sole member of Midco	
+0001253179-23-000006	soleProprietorship	1	Ultimus Intermediary, LLC (Intermediary)	08-JUN-2012	holding company of registrant			sole member of registrant	
+0001253179-23-000006	soleProprietorship	2	Ultimus Holdings, LLC (Holdings)	08-JUN-2012	indirect owner			sole member of Intermediary	
+0001253179-23-000006	soleProprietorship	3	The Ultimus Group Midco, LLC (Midco)	01-FEB-2019	indirect owner			sole member of Holdings	
+0001253179-23-000006	soleProprietorship	5	The Ultimus Group, LLC (UG)	01-FEB-2019	indirect owner			sole member of Intermediate	
+0001253179-23-000006	soleProprietorship	6	GTCR Fund XII/B LP (Fund)	01-FEB-2019	indirect owner			majority owner of UG	
+0001253179-23-000006	soleProprietorship	14	Nicole Lynn Tichota	30-JUL-2021	Senior Vice President			daily management of registrant	
+0001253179-23-000006	soleProprietorship	8	GTCR Investment XII LLC	01-FEB-2019	indirect owner			general partner of Partners	
+0001253179-23-000006	soleProprietorship	9	Gary Richard Tenkman	19-MAY-2014	CEO and Managing Director			directs affairs of registrant	
+0001253179-23-000006	soleProprietorship	10	William Jacob Tomko	24-APR-2017	Executive Vice President			directs affairs of registrant	
+0001253179-23-000006	soleProprietorship	11	Kurt Bruno Krebs	09-MAY-2016	Vice President, CFO, and Treasurer			financial/management oversight	18-OCT-2019
+0001253179-23-000006	soleProprietorship	12	Jeffrey Daniel Moeller	18-AUG-2008	VP, Director of Transfer Agency Services			directs affairs of registrant	31-MAR-2020
+0001253179-23-000006	soleProprietorship	13	Ian Andrew Martin	01-MAR-2020	Chief Administrative Officer			direct affairs of registrant	
+0001253179-23-000006	soleProprietorship	7	GTCR Partners XII/B LP (Partners)	01-FEB-2019	indirect owner			general partner of Fund	
+0001170078-23-000006	soleProprietorship	1	David Kelley	01-APR-2019	Head of US Transfer Agency & President			No beneficial ownership	
+0001170078-23-000006	soleProprietorship	2	Brennan Hughes	01-APR-2019	Chief Accounting Officer & Treasurer			No beneficial ownership	
+0001170078-23-000006	soleProprietorship	3	Michelle Rosenberg	01-JUL-2018	General Counsel & Secretary			No beneficial ownership	
+0001170078-23-000006	soleProprietorship	4	Stephanie Grauerholz	28-JAN-2019	Head of Legal, North America			No beneficial ownership	
+0001170078-23-000006	soleProprietorship	9	Janus Henderson Investors US LLC (JHIUS)	01-APR-2002	Owner/managing member of JHSUS LLC			Owner/managing member of JHSUS LLC	
+0001170078-23-000006	soleProprietorship	6	Peter Falconer	18-NOV-2019	Assistant Secretary			No beneficial ownership	
+0001170078-23-000006	soleProprietorship	7	Karlene Lacy	01-APR-2019	Head of Global Tax			No beneficial ownership	
+0001170078-23-000006	soleProprietorship	8	Jesper Nergaard	01-APR-2019	Head of US Fund Administration			No beneficial ownership	
+0001170078-23-000006	soleProprietorship	5	Kristin Mariani	01-JUL-2020	Head of Compliance, North America			No beneficial ownership	
+0001448300-23-000004	corporationPartnership	1	Putnam U.S. Holdings I, LLC	30-DEC-2008	Parent of Registrant	E	true		
+0001448300-23-000004	corporationPartnership	2	Robert L. Reynolds	16-OCT-2008	Director	NA	true		
+0001448300-23-000004	corporationPartnership	3	Steven D. Krichmar	16-OCT-2008	Senior Managing Director	NA	true		19-NOV-2016
+0001448300-23-000004	corporationPartnership	4	Michael J. Woodall	16-DEC-2016	President, Putnam Investor Services, Inc	NA	true		
+0001448300-23-000004	corporationPartnership	9	Stephen J. Tate	01-JUL-2021	Director	NA	true		
+0001448300-23-000004	corporationPartnership	6	Andra S. Bolotin	01-JUN-2017	Chief Financial Officer and Director	NA	true		
+0001448300-23-000004	corporationPartnership	7	Robert T. Burns	13-MAY-2011	Director	NA	true		30-JUN-2021
+0001448300-23-000004	corporationPartnership	8	Aaron M. Cooper	01-FEB-2019	EVP and Chief Operating Officer	NA	true		
+0001448300-23-000004	corporationPartnership	5	Clare Richer	01-DEC-2008	Chief Financial Officer	NA	true		01-JUN-2017
+0001550840-23-000009	corporationPartnership	1	Patrick J. Pedonti	31-MAY-2018	Chief Financial Officer	NA	true		04-OCT-2023
+0001550840-23-000009	corporationPartnership	2	Adam Girard	31-MAY-2018	Tax Officer	NA	true		
+0001550840-23-000009	corporationPartnership	6	Brian N. Schell	04-OCT-2023	Chief Financial Officer	NA	true		
+0001550840-23-000009	corporationPartnership	4	Christopher Kundro	17-MAR-2023	President	NA	true		
+0001550840-23-000009	corporationPartnership	5	Rahul Kanwar	17-MAR-2023	Authorized Signatory	NA	true		
+0001550840-23-000009	corporationPartnership	3	Jason White	01-NOV-2021	Secretary	NA	true		
+0001493152-23-037221	soleProprietorship	1	Mohit Bhansali	11-NOV-2011	CEO			45% Owner	
+0001493152-23-037221	soleProprietorship	2	Nora Marckwordt	01-JAN-2015	Director of Operations			5% Owner	
+0001493152-23-037221	soleProprietorship	3	Renee Kesner	09-AUG-2023	Owner 50%			C - 25% up to 50%	
+0001493152-23-037221	soleProprietorship	4	AE Investment Holdings LLC	01-JAN-2015	Owner			50% Owner	09-AUG-2023
+0001794142-23-000002	soleProprietorship	1	INX Limited	01-JAN-2022	Owner			Sole Member of Registrant	
+0001794142-23-000002	soleProprietorship	2	Alan Silbert	01-JAN-2022	President			Control of Registrant	
+0001062993-23-019324	corporationPartnership	1	TMX Group Limited	08-FEB-2013	Parent Company (Public Company)	E	true		
+0001062993-23-019324	corporationPartnership	2	Elias Anastasopoulos	08-AUG-2013	Director	NA	true		
+0001062993-23-019324	corporationPartnership	8	Susan Evelyn Taves	17-MAY-2018	Director	NA	true		
+0001062993-23-019324	corporationPartnership	7	Thomas Stephen Monahan	17-MAY-2018	Director	NA	true		
+0001062993-23-019324	corporationPartnership	6	William Warwick Linton	22-DEC-2015	Director and Chair	NA	true		
+0001062993-23-019324	corporationPartnership	5	Claire Johnson	12-OCT-2018	President, CEO and Director	NA	true		29-SEP-2023
+0001062993-23-019324	corporationPartnership	10	Loui Anastasopoulos	29-SEP-2023	Interim President and CEO	NA	true		
+0001062993-23-019324	corporationPartnership	9	Stephanie Lachance	29-APR-2022	Director	NA	true		
+0001062993-23-019324	corporationPartnership	3	Michele J. Buchignani	31-JUL-2019	Director	NA	true		
+0001062993-23-019324	corporationPartnership	4	Cheryl Graden	14-AUG-2017	Director	NA	true		
+0001062993-23-019323	corporationPartnership	1	TMX Group Limited	31-AUG-2021	Parent Company (Public Company)	E	true		
+0001062993-23-019323	corporationPartnership	2	Cheryl Graden	31-AUG-2021	Director	NA	true		
+0001062993-23-019323	corporationPartnership	3	Claire Johnson	31-AUG-2021	Director	NA			29-SEP-2023
+0001062993-23-019323	corporationPartnership	4	Clarence Wong	12-SEP-2022	Director	NA	true		
+0001062993-23-019323	corporationPartnership	5	Loui Anastasopoulos	29-SEP-2023	Interim President and CEO	NA	true		
+0000950123-23-008817	corporationPartnership	2	Joshua Durham	30-MAR-2022	Director, President, CEO	NA	true		
+0000950123-23-008817	corporationPartnership	8	Transamerica Life Insurance Company	01-OCT-2020	Owner	C	true		
+0000950123-23-008817	corporationPartnership	7	AUSA Holding Company	31-DEC-2004	Owner	D	true		
+0000950123-23-008817	corporationPartnership	6	Dennis P. Gallagher	20-OCT-2021	Chief Legal Officer	NA	true		
+0000950123-23-008817	corporationPartnership	5	Francine Rosenberger	05-JUL-2022	Chief Compliance Officer/Vice President	NA	true		
+0000950123-23-008817	corporationPartnership	1	Marijn P. Smit	01-AUG-2014	Director, Chairman of the Board, EVP	NA	true		
+0000950123-23-008817	corporationPartnership	3	Vincent J. Toner	11-FEB-2021	Director, Senior Vice President	NA	true		
+0000950123-23-008817	corporationPartnership	4	Michael Madden	12-APR-2022	Treasurer	NA	true		
+0000810417-23-000005	corporationPartnership	2	The Jones Financial Companies, L.L.L.P.	28-AUG-1987	Limited Partner	E	true		
+0000810417-23-000005	corporationPartnership	1	EDJ Holding Company, Inc.	28-AUG-1987	General Partner	NA	true		
+0001049169-23-000013	corporationPartnership	3	Patrick J. Pedonti	16-APR-2018	VP, Treasurer and Asst. Secretary	NA	true		04-OCT-2023
+0001049169-23-000013	corporationPartnership	9	Neal Chansky	04-OCT-2023	Director, President	NA	true		
+0001049169-23-000013	corporationPartnership	5	Una Troy	26-JUN-2019	Director and President	NA	true		04-OCT-2023
+0001049169-23-000013	corporationPartnership	6	Stephen Kyllo	05-JUL-2020	Chief Compliance Officer	NA	true		
+0001049169-23-000013	corporationPartnership	7	Jason White	01-SEP-2021	Secretary	NA	true		
+0001049169-23-000013	corporationPartnership	8	Brian N. Schell	04-OCT-2023	VP, Treasurer	NA	true		
+0001049169-23-000013	corporationPartnership	2	Richard Noyes	01-JUL-2016	SVP, General Counsel and Asst. Secretary	NA	true		
+0001049169-23-000013	corporationPartnership	1	Patricia P. Lobato	12-SEP-2008	SVP, Director of Creative Services	NA	true		
+0001049169-23-000013	corporationPartnership	4	Eric T. Parsons	01-AUG-2012	VP, Controller and Asst. Treasurer	NA	true		
+0000005076-23-000006	corporationPartnership	8	Susi Michele Silverman	08-FEB-2023	Treasurer	NA			
+0000005076-23-000006	corporationPartnership	9	Ryan R. Rue	10-MAY-2023	President and Director	NA	true		
+0000005076-23-000006	corporationPartnership	4	Dana C. McCollum	20-NOV-2019	Director & Senior VP	NA	true		
+0000005076-23-000006	corporationPartnership	1	Capital Research and Management Company	01-JUL-1985	Stockholder	E	true		
+0000005076-23-000006	corporationPartnership	2	Richard P. Prior	20-NOV-2019	Director	NA	true		30-JUN-2023
+0000005076-23-000006	corporationPartnership	3	Steven Guida	20-NOV-2019	Director & Senior VP	NA	true		
+0000005076-23-000006	corporationPartnership	5	Canise M. Arredondo	20-NOV-2019	Director	NA	true		
+0000005076-23-000006	corporationPartnership	6	Timothy W. McHale	01-JUL-2022	Director & Chairman	NA	true		
+0000005076-23-000006	corporationPartnership	7	Stephanie D.S. McNeely	01-NOV-2022	Secretary	NA			
+0001559963-23-000005	corporationPartnership	1	BNY Mellon APAC Services Holdings f/k/a iNautix Technologies Mauritius	19-DEC-2016	Shareholder entity	E	true		
+0001559963-23-000005	corporationPartnership	18	Rajeev Bhatnagar	20-MAR-2023	Board Director	NA	true		
+0001559963-23-000005	corporationPartnership	2	BNY Foreign Holdings, Inc.	19-DEC-2016	Shareholder entity	NA			
+0001559963-23-000005	corporationPartnership	3	BNY International Financing Corporation	19-DEC-2016	Owner of Shareholder entities	E	true		
+0001559963-23-000005	corporationPartnership	4	The Bank of New York Mellon	19-DEC-2016	Parent entity	E	true		
+0001559963-23-000005	corporationPartnership	5	The Bank of New York Mellon Corporation	09-JAN-2008	Ultimate parent entity	E	true		
+0001559963-23-000005	corporationPartnership	6	Michael DeNofrio	12-MAR-2013	Vice President- US TA	NA	true		31-DEC-2020
+0001559963-23-000005	corporationPartnership	7	Sudish Panicker	27-JUN-2016	Board Director	NA	true		
+0001559963-23-000005	corporationPartnership	8	Shailendra Pandey	09-JUN-2017	Compliance Officer	NA			
+0001559963-23-000005	corporationPartnership	9	Craig Bayer	30-MAY-2018	Director	NA	true		05-SEP-2023
+0001559963-23-000005	corporationPartnership	10	Nitin Chandel	13-MAR-2019	Board Director	NA			15-SEP-2023
+0001559963-23-000005	corporationPartnership	11	Jasmin Ignatius	13-MAR-2019	Board Director	NA			05-MAY-2022
+0001559963-23-000005	corporationPartnership	12	Ann Fogarty	13-MAR-2019	Board Director	NA			17-JUN-2020
+0001559963-23-000005	corporationPartnership	13	Denise Sommerville	13-MAR-2019	Board Director	NA			08-MAY-2020
+0001559963-23-000005	corporationPartnership	14	Francis Braeckevelt	13-MAR-2019	Board Director	NA			
+0001559963-23-000005	corporationPartnership	15	Joanne Cash	11-MAR-2021	Board Director	NA	true		
+0001559963-23-000005	corporationPartnership	16	Alexandra Waite Goodburn	11-MAR-2021	Managing Director - US TA	NA	true		
+0001559963-23-000005	corporationPartnership	17	Janet Menezes	06-JUN-2022	Board Director	NA	true		
+0001995706-23-000001	soleProprietorship	1	Peter Lindborg	15-AUG-2023	Sole Member			Chief Executive Officer	
+0001568437-23-000003	corporationPartnership	1	Henry Ward	06-JUL-2012	CEO	B	true		

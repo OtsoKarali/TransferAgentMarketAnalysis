@@ -1,0 +1,39 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENT_ID	ENTITYNAME	AGREEMENTDESCRIPTION
+0001557183-20-000003	otherControlManagement	1	Ascensus Holdings, Inc.	100% Shareholder
+0001557183-20-000003	otherControlManagement	6	AqGen Island Holdings, Inc.	100% Shareholder
+0001557183-20-000003	otherControlManagement	2	AqGen Island Intermediate Holdings III, Inc.	100% Shareholder
+0001557183-20-000003	otherControlManagement	3	AqGen Ascensus, Inc.	100% Shareholder
+0001557183-20-000003	otherControlManagement	4	AqGen Island Intermediate Holdings II, Inc.	100% Shareholder
+0001557183-20-000003	otherControlManagement	5	Aqgen Island Intermediate Holdings I, Inc.	100% Shareholder
+0001007444-20-000008	otherControlManagement	1	LPL Financial Holdings Inc.	Sole stockholder of LPL Holdings, Inc.
+0000817712-20-000007	otherControlManagement	1	Thrivent Financial for Lutherans	TFL is the parent company of Thrivent Financial Holdings, Inc.
+0001548847-20-000001	otherControlManagement	2	DST Systems, Inc.	ALPS Fund Services, Inc. is a wholly owned indirect subsidiary of DST Systems, Inc.
+0001548847-20-000001	otherControlManagement	3	SS&C Technologies Holdings, Inc.	ALPS Fund Services, Inc. is a wholly owned indirect subsidiary of SS&C Technologies Holdings, Inc.
+0001548847-20-000001	otherControlManagement	1	ALPS Holdings Inc., a DST Systems, Inc. company	ALPS Fund Services, Inc. is a wholly owned subsidiary of ALPS Holdings, Inc., which is a subsidiary of DST Systems, Inc.
+0001019056-20-000345	otherControlManagement	1	Prometheum, Inc.	Prometheum, Inc. is developing an integrated network for issuances and secondary trading of blockchain protocol based crypto-securities. Spark Transfer Services, Inc. expects to develop its services to facilitate the use of the network by issuers and investors as may be requested by Prometheum, Inc.
+0000913181-20-000002	otherControlManagement	10	Young Kim	Chief Financial Officer, MUFG Investor Services (US) LLC
+0000913181-20-000002	otherControlManagement	11	Shinya Matsuzaki	Managing Director/Board Manager of MUFG Investor Services (US) LLC
+0000913181-20-000002	otherControlManagement	12	Michael Scalzi	Managing Director, MUFG Investor Services (US) LLC
+0000913181-20-000002	otherControlManagement	13	Akira Iwamoto	Board Manager of MUFG Investor Services (US) LLC
+0000913181-20-000002	otherControlManagement	3	Michael Rucci	Board Manager and CEO/President of MUFG Investor Services (US) LLC
+0000913181-20-000002	otherControlManagement	2	James Fisher	Managing Director/Chief Risk Officer of MUFG Investor Services (US) LLC
+0000913181-20-000002	otherControlManagement	1	Nicholas Sgammato	Managing Director/Chief Compliance Officer of MUFG Investor Services (US) LLC
+0000913181-20-000002	otherControlManagement	9	Gregory Cohen	Head of Transfer Agent, MUFG Investor Services (US) LLC
+0000913181-20-000002	otherControlManagement	8	Mitsubishi UFJ Financial Group, Inc.	100% ownership stake in MUFG Bank, Ltd. and Mitsubishi UFJ Trust & Banking Corporation; 4.89% ownership stake in MUFG Americas Holding Corporation
+0000913181-20-000002	otherControlManagement	7	Mitsubishi UFJ Trust & Banking Corporation	Provides strategic planning for the Global MUFG Investor Services Division, including MUFG Investor Services (US) LLC
+0000913181-20-000002	otherControlManagement	4	Joseph Arruda	Managing Director of MUFG Investor Services (US) LLC
+0000913181-20-000002	otherControlManagement	5	MUFG Americas Holding Corporation	100% ownership stake in MUFG Fund Services (USA) LLC
+0000913181-20-000002	otherControlManagement	6	MUFG Bank, Ltd.	95.11% ownership stake in MUFG Americas Holding Corporation
+0001007444-20-000006	otherControlManagement	1	LPL Financial Holdings Inc.	Sole stockholder of LPL Holdings, Inc.
+0001810222-20-000001	otherControlManagement	1	Wefunder Inc	Wefunder Inc is a crowdfunding platform that will facilitate the use of the applicant by issuers that use the platform. Applicant expects to tailor its services to the needs of these issuers and their investors, as those needs may be communicated to it by Wefunder Inc.
+0001465533-20-000005	otherControlManagement	1	Corporation Service Company	Sole Shareholder of Delaware Trust Company
+0001018490-20-000005	otherControlFinance	1	Various - See below.	A Deutsche Bank AG holding company, Deutsche Bank Trust Corporation, provided the original, capital funding for the Registrant and for a time provided a line of credit for working capital. Working capital is now provided via service fees which originate from inter-company billings for the services rendered.
+0001018490-20-000005	otherControlManagement	1	Various - See below.	DB Services Americas, Inc. (DBSA) was established as a servicing company to provide operational services to Deutsche Bank Trust Company Americas (DBTCA) and Deutsche Bank National Trust Company (DBNTC). DBSA does not have any third party client agreements. Rather, DBSA, as engaged by DBTCA and DBNTC provides technical and administrative support services including data processing, maintenance of appropriate records in accordance with existing standards, recordkeeping and accounting functions in connection with services provided to DBTCAs and DBNTCs clients. DBTCA and DBNTC have appointed DBSA as its agent to act on their behalf in connection with the transfer and servicing of securities. Accounts are maintained jointly by DBTCA, DBNTC and DBSA. DBSA in its transfer agent function provides services to DBTCA and DBNTC in a manner as if DBSA is an independent, dedicated contractor that works solely for DBTCA and DBNTC and no other transfer agent. There is a shared system of database for DBTCA, DBNTC and DBSA.
+0001557183-20-000001	otherControlManagement	5	Aqgen Island Intermediate Holdings I, Inc.	100% Shareholder
+0001557183-20-000001	otherControlManagement	4	AqGen Island Intermediate Holdings II, Inc.	100% Shareholder
+0001557183-20-000001	otherControlManagement	3	AqGen Ascensus, Inc.	100% Shareholder
+0001557183-20-000001	otherControlManagement	2	AqGen Island Intermediate Holdings III, Inc.	100% Shareholder
+0001557183-20-000001	otherControlManagement	1	Ascensus Holdings, Inc.	100% Shareholder
+0001557183-20-000001	otherControlManagement	6	AqGen Island Holdings, Inc.	100% Shareholder
+0001776770-20-000002	otherControlManagement	1	Imhotep El Bey Express Trust	"The Trust is Managed by the Trustee under agreement between the Grantor/Bailor and the Trustee shall be named in this agreement ""Transfer Agent"". The Trustee is functioning within the sole position of authority within the Trust Organization, the Trust Organization shall be described corporation within this scope."
+0001776770-20-000002	otherControlFinance	1	Donald Berresford Wilson Jr, Estate	"The Estate is a Foreign Agency and has one Executor who is Beneficial owner of 80%, that shall and does hold as a Fund, an amount expected to be disbursed to its Issuer, in order to procure finance to its borrower. The Borrower shall be called in this testimony ""corporation"", a Trust Organization as stated above and the Estate shall be its the Paying Agent, herein 'Surety'."

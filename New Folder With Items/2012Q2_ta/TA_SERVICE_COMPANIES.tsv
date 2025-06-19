@@ -1,0 +1,83 @@
+ACCESSION_NUMBER	COMPANY_TYPE	SVCCOMPANY_ID	ENTITYNAME	FILENUMBER	ADDRESS
+0001064418-12-000004	asServiceCompany	1	American Stock Transfer and Trust Co.	084-00416	6201 15th Avenue  Brooklyn  11219
+0001064418-12-000004	asServiceCompany	2	Fidelity Investments Institutional Operations Co.	084-01839	300 Puritan Way  Marlborough  01752
+0001064418-12-000004	asServiceCompany	3	Frank Russell Trust Co.	084-01626	909 A Street  Tacoma  98402
+0001018490-12-000004	asServiceCompany	1	Deutsche Bank Trust Company Americas	085-05212	60 Wall Street, Mail Stop NYC60-3220  New York  10005-2836
+0001413398-12-000004	serviceCompany	1	DST Systems Inc.	084-00448	210 W 10th Street  Kansas City  64105
+0000950123-12-009254	serviceCompany	1	DST Systems, Inc.	084-00448	210 W. 10th Street  Kansas City  64105
+0001253179-12-000010	serviceCompany	1	Rydex Fund Services, Inc.	084-05475	805 King Farm Blvd Suite 600 Rockville  20850
+0001545615-12-000006	serviceCompanyTransferAgent	1	Continental Stock Transfer and Trust Company	084-00034	    
+0001253179-12-000009	serviceCompany	1	Rydex Fund Services, Inc.	084-05475	805 King Farm Blvd Suite 600 Rockville  20850
+0000275143-12-000008	asServiceCompany	1	State Street Bank and Trust Company	085-05003	One Lincoln Street  Boston  02111-2900
+0000275143-12-000008	asServiceCompany	2	DST Systems, Inc.	084-00448	333 W. 11th Street  Kansas City  64105
+0000275143-12-000008	asServiceCompany	3	NYLIM Service Company LLC	084-05844	169 Lackwanna Avenue  Parsippany  07054
+0000275143-12-000008	asServiceCompany	4	Columbia Management Investment Services Corp.	084-05685	One Financial Center  Boston  02111
+0000275143-12-000008	asServiceCompany	5	Principal Shareholder Services, Inc.	084-05657	1100 Investment Boulevard Suite 200 El Dorado Hills  95762
+0000275143-12-000008	asServiceCompany	6	Pioneer Investment Management Shareholder Services, Inc.	084-01359	60 State Street  Boston  02109
+0000275143-12-000008	asServiceCompany	7	MFS Service Center, Inc.	084-01316	500 Boylston Street  Boston  02116
+0000275143-12-000008	asServiceCompany	8	Sentinel Administrative Services, Inc.	084-06175	One National Life Drive  Montpelier  05604
+0000275143-12-000008	serviceCompany	1	DST Systems, Inc.	084-00448	333 W. 11th Street  Kansas City  64105
+0000275143-12-000008	serviceCompany	2	National Financial Data Services, Inc.	084-01078	330 W. 9th Street  Kansas City  64105
+0001432531-12-000011	asServiceCompany	1	Franklin Templeton Investor Services, LLC	084-01036	3344 Quality Drive  Rancho Cordova  95670
+0000027048-12-000004	asServiceCompany	1	Thrivent Financial Investor Services Inc.	084-01547	4321 N Ballard Rd  Appleton  54919
+0000027048-12-000004	asServiceCompany	2	State Street Bank & Trust Company	085-05003	One Lincoln Street  Boston  02111-2900
+0000027048-12-000004	asServiceCompany	3	DWS Investments Service Company	084-01713	222 South Riverside Plaza  Chicago  60606
+0000027048-12-000004	asServiceCompany	4	State Farm Investment Management Corp	084-00839	Three State Farm Plaza  Bloomington  61709
+0000027048-12-000004	asServiceCompany	5	Transamerica Fund Services, Inc.	084-06130	AEGON Purchase Processing 570 Carillon Parkway St Petersburg  33716
+0000027048-12-000004	asServiceCompany	6	American Century Services, LLC	084-01406	4500 Main Street  Kansas City  64111
+0000027048-12-000004	asServiceCompany	7	Hartford Administrative Services Company	084-00353	500 Bielenberg Drive  Woodbury  55125
+0000027048-12-000004	asServiceCompany	8	Morgan Stanley Services Co Inc	084-06270	Harborside Financial Center Plaza Two, Third Floor Jersey City  07311
+0000027048-12-000004	asServiceCompany	9	Leaf Financial Corporation	084-05900	1845 Walnut St Ste 100 Philadelphia  19103
+0000027048-12-000004	serviceCompany	1	Boston Financial Data Services, Inc.	084-00896	2000 Crown Colony Drive  Quincy  02169
+0000027048-12-000004	serviceCompany	2	National Financial Data Services, Inc.	084-01078	330 west 9th Street  Kansas City  64105
+0000027048-12-000004	serviceCompany	3	DST Worldwide Services India Private Limited	084-06342	5th Floor, Block B, Q City Nanakramguda, Gachibowli Hyderabad  500032
+0001285911-12-000018	serviceCompany	1	BNY Mellon Investment Servicing (US) Inc.	084-01701	4400 Computer Drive  Westborough  01581
+0000849542-12-000004	asServiceCompany	1	Prudential Mutual Fund Services, LLC	084-05681	100 Mulberry Street Gateway Center III Newark  07102
+0000849542-12-000004	asServiceCompany	2	Banco Santander Puerto Rico	085-00818	207 Ponce De Leon Ave.  San Juan  00918
+0000849542-12-000004	asServiceCompany	3	Manning & Napier Advisors, LLC.	084-01344	290 Woodcliff Drive  Fairport  14450
+0000849542-12-000004	asServiceCompany	4	USAA Transfer Agency Company, dba USAA Shareholder Account Services	084-01197	9800 Fredericksburg Rd.  San Antonio  78288
+0000849542-12-000004	asServiceCompany	5	The Bank of New York Mellon	085-05006	101 Barclay Street  New York  10286
+0000849542-12-000004	asServiceCompany	6	Banco Popular de Puerto Rico	085-05510	209 Munoz Rivera Avenue  San Juan  00936
+0000849542-12-000004	asServiceCompany	7	VP Distributors, Inc.	084-05491	101 Munson Street, Ste 104  Greenfield  01301
+0000849542-12-000004	asServiceCompany	8	Delaware Service Company, Inc.	084-01640	2005 Market Street  Philadelphia  19103
+0000849542-12-000004	asServiceCompany	9	Dreyfus Transfer, Inc.	084-06102	144 Glenn Curtiss Boulevard  Uniondale  11556-0144
+0000849542-12-000004	serviceCompany	1	Eaton Vance Management	084-06041	255 State Street  Boston  02109
+0000849542-12-000004	serviceCompany	2	Computershare Shareowner Services LLC	084-05579	Newport Office Center VII 480 Washington Boulevard Jersey City  07310
+0001419454-12-000004	asServiceCompany	1	Fidelity Investments Institutional Operations Company, Inc.	084-01839	82 Devonshire Street OGU - Attn: Transfer Agent Compliance Boston  02109
+0001133702-12-000006	asServiceCompany	1	Fidelity Investments Institutional Operations Company, Inc.	084-01839	82 Devonshire Street OGU - Attn: Transfer Agent Compliance Boston  02109
+0000862124-12-000005	asServiceCompany	1	Citibank N.A.	085-10232	111 Wall Street  New York  10043
+0000862124-12-000005	serviceCompany	1	National Financial Services, LLC	084-05888	499 Washington BLVD  Jersey City  07310
+0000862124-12-000005	serviceCompany	2	Fidelity Business Services India Private Limited	084-06287	Embassy Golf Links Business Park Off Intermediate Ring Road Bangalore  560071
+0000883757-12-000006	asServiceCompany	1	Broadridge Corporate Issuer Solutions, Inc.	084-01007	1717 Arch Street Suite 1300 Philadelphia  19103
+0000950123-12-008309	serviceCompany	1	Xerox HR Solutions	084-06035	245 Park Avenue Floor 23 New York  10167
+0000950123-12-008309	serviceCompany	2	AST Capital Trust Company	084-00416	59 Maiden Lane  New York  10038
+0000950123-12-008309	serviceCompany	3	Boston Financial Data Services, Inc.	084-00896	2 Heritage Drive  North Quincy  02171
+0000950123-12-008309	serviceCompany	4	National Financial Services LLC	084-05888	100 Harborside Plaza 5  Jersey City  07311
+0000950123-12-008309	serviceCompany	5	Hewitt Associates LLC	084-01996	1000 HalfDay Road  Lincolnshire  60069
+0000950123-12-008309	serviceCompany	6	LPL Financial Corporation	084-05637	9785 Towne Center Drive  San Diego  92121
+0000950123-12-008309	serviceCompany	7	Vanguard Group, Inc.	084-00772	400 Devon Park Drive  Wayne  19087
+0000950123-12-008309	serviceCompany	8	BNY Mellon Investment Servicing (U.S.) Inc.	084-01761	4400 Computer Drive  Westborough  01851
+0000950123-12-008285	serviceCompany	1	DST Systems, Inc.	084-00448	210 W. 10th Street  Kansas City  64105
+0001073944-12-000004	asServiceCompany	1	SEI Investment Management Company	084-01318	1 Freedom Valley Drive  Oaks  19456
+0000950123-12-007841	serviceCompanyTransferAgent	1	ACS Securities Services, Inc.	084-05605	    
+0001451217-12-000009	serviceCompany	1	UMB Funds Services, Inc.	084-05792	803 West Michigan Street Ste A Milwaukee  53233
+0000275143-12-000006	asServiceCompany	1	State Street Bank and Trust Company	085-05003	One Lincoln Street  Boston  02111-2900
+0000275143-12-000006	asServiceCompany	2	DST Systems, Inc.	084-00448	333 W. 11th Street  Kansas City  64105
+0000275143-12-000006	asServiceCompany	3	NYLIM Service Company LLC	084-05844	169 Lackwanna Avenue  Parsippany  07054
+0000275143-12-000006	asServiceCompany	4	Dreyfus Transfer, Inc.	085-11312	1 American Express Plaza  Providence  02903
+0000275143-12-000006	asServiceCompany	5	Columbia Management Investment Services Corp.	084-05685	One Financial Center  Boston  02111
+0000275143-12-000006	asServiceCompany	6	Principal Shareholder Services, Inc.	084-05657	1100 Investment Boulevard Suite 200 El Dorado Hills  95762
+0000275143-12-000006	asServiceCompany	7	Pioneer Investment Management Shareholder Services, Inc.	084-01359	60 State Street  Boston  02109
+0000275143-12-000006	asServiceCompany	8	MFS Service Center, Inc.	084-01316	500 Boylston Street  Boston  02116
+0000275143-12-000006	asServiceCompany	9	Sentinel Administrative Services, Inc.	084-06175	One National Life Drive  Montpelier  05604
+0000275143-12-000006	serviceCompany	1	DST Systems, Inc.	084-00448	333 W. 11th Street  Kansas City  64105
+0000275143-12-000006	serviceCompany	2	National Financial Data Services, Inc.	084-01078	330 W. 9th Street  Kansas City  64105
+0001535872-12-000003	serviceCompany	1	Worldwide Stock Transfer, LLC.	084-06153	433 Hackensack Ave Level L Hackensack  07601
+0000737074-12-000005	serviceCompany	1	BNY Mellon Investment Servicing (US) Inc.	084-01761	4400 Computer Dr.  Westborough  01581
+0000950123-12-006005	asServiceCompany	1	Oppenheimer Funds Services	084-01562	3410 S. Galena Street  Denver  80231
+0001077455-12-000002	asServiceCompanyTransferAgent	1	American Funds	084-05504	    
+0000724935-12-000005	serviceCompanyTransferAgent	1	First American Stock Transfer	084-05795	    
+0001458682-12-000006	serviceCompanyTransferAgent	1	Illinois Stock Transfer Co	084-00115	    
+0001458682-12-000006	serviceCompanyTransferAgent	2	Worldwide Stock Transfer LLC	084-06153	    
+0001007444-12-000002	serviceCompanyTransferAgent	1	DST Systems, Inc.	084-00448	    
+0001283467-12-000002	serviceCompanyTransferAgent	1	Registrar and Transfer Company	084-00436	    

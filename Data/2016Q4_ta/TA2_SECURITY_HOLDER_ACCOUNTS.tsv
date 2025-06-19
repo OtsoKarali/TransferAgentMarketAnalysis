@@ -1,0 +1,19 @@
+ACCESSION_NUMBER	ACCT_HOLDER_TYPE	EQUITYSECURITY	DEBTSECURITY	OPENENDINVESTMENTCOMPANY	LIMITEDPARTNERSHIP	MUNICIPALDEBT	OTHER	NUMBERISSUES	AMOUNTISSUES
+0001492746-16-000015	transNotMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001492746-16-000015	transMaintainMasterSecHolder	0.0	0.0	0.0	194.0	0.0	122.0		
+0001492746-16-000015	securityHolderAccounts	0.0	0.0	0.0	59.0	0.0	41.0		
+0001492746-16-000015	priorAgent							0	0.0
+0001492746-16-000015	notTransMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001492746-16-000015	dividendAndInterest							7	1839729.13
+0001492746-16-000015	directRegistrationSystem							0	
+0001492746-16-000015	currentAgent							0	0.0
+0001492746-16-000015	dividendReinvDirectPurchasePlan							0	
+0000950123-16-021285	transNotMaintMasterSecHolder								
+0000950123-16-021285	transMaintainMasterSecHolder								
+0000950123-16-021285	securityHolderAccounts	83.65	0.0	0.0	0.0	16.35	0.0		
+0000950123-16-021285	priorAgent								
+0000950123-16-021285	notTransMaintMasterSecHolder								
+0000950123-16-021285	dividendReinvDirectPurchasePlan								
+0000950123-16-021285	dividendAndInterest								
+0000950123-16-021285	currentAgent								
+0000950123-16-021285	directRegistrationSystem								

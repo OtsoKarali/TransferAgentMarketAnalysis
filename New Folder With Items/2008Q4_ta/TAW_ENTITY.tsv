@@ -1,0 +1,16 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENTITY_ID	ENTITYNAME	SUCCESSORREGISTERED	ADDRESS
+0001049725-08-000005	tawSuccessors	1	American Stock Transfer & Trust Company, LLC	Y	59 Maiden Lane Plaza Level New York  10038
+0001049725-08-000005	tawRegistrant	1	FirstEnergy Securities Transfer Company		76 South Main Street  Akron  44308
+0001049725-08-000005	tawCustodians	1	FirstEnergy Corp.		76 South Main Street  Akron  44308
+0001319884-08-000011	tawRegistrant	1	Responsive Transfers, Inc.		9857 Sandringham Gate  Naples  34109
+0001269002-08-000008	tawLocations	1	Computershare Trust Company of Canada		510 Burrard Street 2nd Floor Vancouver  V6C 3B9
+0001269002-08-000008	tawRegistrant	1	Pacific Corporate Trust Company		510 Burrard Street 2nd Floor Vancouver  V6C 3B9
+0001269002-08-000008	tawSuccessors	1	Computershare Trust Company of Canada	Y	100 University Avenue 9th Floor Toronto  M5J 2Y1
+0001269002-08-000008	tawCustodians	1	Computershare Trust Company of Canada		100 University Avenue 9th Floor Toronto  M5J 2Y1
+0001162044-08-000567	tawSuccessors	1	Mutual Shareholder Services, LLC	Y	8000 Town Centre Dr Suite 400 Broadview Heights  44147
+0001162044-08-000567	tawRegistrant	1	Manor Investment Funds, Inc.		15 Chester Commons  Molvern  19355
+0001162044-08-000567	tawCustodians	1	Manor Investment Funds, Inc.		15 Chester Commons  Molvern  19355
+0000898745-08-000126	tawSuccessors	1	Principal Shareholder Services	Y	1100 Investment Blvd.  El Dorado Hills  95762
+0000898745-08-000126	tawCustodians	1	Principal Shareholder Services		1100 Investment Blvd.  El Dorado Hills  95762
+0000898745-08-000126	tawLocations	1	Principal Shareholder Services		680 - 8th Street  Des Moines  50392
+0000898745-08-000126	tawRegistrant	1	Principal Management Corp.		680 8th Street  Des Moines  50309

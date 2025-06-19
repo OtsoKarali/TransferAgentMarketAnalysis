@@ -1,0 +1,842 @@
+ACCESSION_NUMBER	CORP_PARTNER_TYPE	CORP_PARTNER_ID	ENTITYNAME	RELATIONSHIPSTARTDATE	TITLEORSTATUS	OWNERSHIPCODE	CONTROLPERSON	AUTHORITYDESCRIPTION	RELATIONSHIPENDDATE
+0000868275-09-000008	corporationPartnership	16	VERN CLEMENSON	01-SEP-1990	SHAREHOLDER	A	false		
+0000868275-09-000008	corporationPartnership	17	ROBERT F. KAISER II	01-NOV-2006	SHAREHOLDER	A	false		
+0000868275-09-000008	corporationPartnership	14	JANE K. CARTEN	28-JUL-2009	PRESIDENT/CEO	A	true		
+0000868275-09-000008	corporationPartnership	13	NICHOLAS F. KAISER	01-AUG-1989	PRESIDENT/CEO	C	true		28-JUL-2009
+0000868275-09-000008	corporationPartnership	12	JAMES S. GIBSON	24-JUN-2009	DIRECTOR	NA	true		
+0000868275-09-000008	corporationPartnership	11	JAMES D. WINSHIP	20-APR-2007	GENERAL COUNSEL/CHIEF LEGAL OFFICER	NA	true		
+0000868275-09-000008	corporationPartnership	10	JAMES S. GIBSON	17-APR-2007	CFO	NA	true		
+0000868275-09-000008	corporationPartnership	9	CHRISTOPHER R. FANKHAUSER	17-JAN-2006	DIRECTOR/COO	NA	true		
+0000868275-09-000008	corporationPartnership	8	MONEM A. SALAM	23-JUN-2005	DIRECTOR/VICE PRESIDENT	NA	true		
+0000868275-09-000008	corporationPartnership	7	MEREDITH L. ROSS	23-JUN-2005	DIRECTOR	NA	true		
+0000868275-09-000008	corporationPartnership	6	JAMES D. WINSHIP	29-JUL-2004	CCO/CHIEF LEGAL OFFICER	NA	true		
+0000868275-09-000008	corporationPartnership	5	MEREDITH L. ROSS	23-JUL-2003	TREASURER	NA	true		
+0000868275-09-000008	corporationPartnership	4	ETHEL BARTOLOME	01-MAR-2001	SECRETARY	NA	true		
+0000868275-09-000008	corporationPartnership	3	JANE K. CARTEN	14-FEB-2001	DIRECTOR	A	true		
+0000868275-09-000008	corporationPartnership	2	PHELPS S. MCILVAINE	16-AUG-1994	DIRECTOR/VICE PRESIDENT	A	true		
+0000868275-09-000008	corporationPartnership	1	NICHOLAS F. KAISER	01-AUG-1989	DIRECTOR	C	true		
+0000868275-09-000008	corporationPartnership	15	JAMES S. GIBSON	28-JUL-2009	ASSISTANT SECRETARY	NA	true		
+0000868275-09-000008	corporationPartnership	19	EMILY H. KAISER	01-NOV-2006	SHAREHOLDER	A	false		
+0000868275-09-000008	corporationPartnership	18	SARAH K. BRAND	01-NOV-2006	SHAREHOLDER	A	false		
+0000821007-09-000013	soleProprietorship	3	Wells Fargo & Company	31-DEC-2008	Shareholder			Indirect Controlling Entity	
+0000821007-09-000013	soleProprietorship	2	Evergreen Investment Company, Inc.	01-DEC-1996	Shareholder			Indirect Controlling Entity	
+0000821007-09-000013	soleProprietorship	1	Greg Depaola	28-SEP-2009	President			President	
+0000821007-09-000013	soleProprietorship	4	Wachovia Corporation	01-DEC-1996	Shareholder			Indirect Controlling Entity	
+0000821007-09-000013	soleProprietorship	5	Wachovia Bank N.A.	01-DEC-1996	Shareholder			Indirect Controlling Entity	
+0000821007-09-000013	soleProprietorship	6	EIMCO Trust	01-DEC-1996	Shareholder			Direct Controlling Entity	
+0001413398-09-000013	corporationPartnership	26	Mark Patten	16-JUN-2009	Managing Director and Treasurer	NA	true		
+0001413398-09-000013	corporationPartnership	24	Martha Slezak	15-DEC-2005	VP, Asst. Treasurer - Admin Division	NA	true		27-MAR-2009
+0001413398-09-000013	corporationPartnership	23	Bruce Sandberg	04-NOV-2003	ED - Admin Division	NA	true		
+0001413398-09-000013	corporationPartnership	21	Norman Jones	15-DEC-2005	ED - Admin Division	NA	true		
+0001413398-09-000013	corporationPartnership	20	Francis Smith	15-DEC-2005	ED, Asst. Treasurer - Admin Division	NA	true		
+0001413398-09-000013	corporationPartnership	19	Walter Rein	01-DEC-2004	MD, Director - Admin Division	NA	true		
+0001413398-09-000013	corporationPartnership	22	Eric Marmoll	01-DEC-2006	ED - Admin Division	NA	true		
+0001413398-09-000013	corporationPartnership	18	James Garrett	01-DEC-2006	MD, Director - Admin Division	NA	true		
+0001413398-09-000013	corporationPartnership	17	Mary Ann Fappiano	23-JAN-2006	MD, Asst Treasurer - Admin Division	NA	true		
+0001413398-09-000013	corporationPartnership	16	Stefanie Chang Yu	29-SEP-2003	MD, Secretary - Admin Division	NA	true		
+0001413398-09-000013	corporationPartnership	15	Kenneth Castiglia	15-DEC-2005	MD, Treasurer-Admin Division	NA	true		
+0001413398-09-000013	corporationPartnership	14	Amy R. Doberman	06-FEB-2006	MD, Secretary-Admin Division	NA	true		03-APR-2009
+0001413398-09-000013	corporationPartnership	13	Randy Takian	01-JUN-2008	President, CEO-Admin Division	NA	false		
+0001413398-09-000013	corporationPartnership	12	Mario A Furlan	01-JUN-2008	Executive Director	NA	true		
+0001413398-09-000013	corporationPartnership	11	Laurie Jones	01-JUN-2008	Executive Director - TA Division	NA	true		
+0001413398-09-000013	corporationPartnership	10	Brian Drummond	01-JUN-2008	Executive Director - TA Division	NA	true		
+0001413398-09-000013	corporationPartnership	9	Edward Meehan	28-SEP-2007	ED, Assistant Secretary - TA Div	NA	true		
+0001413398-09-000013	corporationPartnership	8	Keraya Sherie Jefferson	28-SEP-2007	VP, Compliance Officer-TA Div	NA	true		
+0001413398-09-000013	corporationPartnership	7	Lisa Lee Gray	17-OCT-2007	VP, Compliance Officer-TA Div	NA	true		
+0001413398-09-000013	corporationPartnership	6	Evan Andrew Gordon	17-OCT-2007	VP - Chief Compliance Officer - TA Div.	NA	true		
+0001413398-09-000013	corporationPartnership	5	Robert Henry Serafin	01-JUN-2008	ED, Head of Operations - TA Div.	NA	true		
+0001413398-09-000013	corporationPartnership	4	Gina Gallagher	01-JUN-2008	ED, AML Officer-TA Division	NA	true		
+0001413398-09-000013	corporationPartnership	3	Richard Charlino	01-JUN-2008	ED, Chief Technology Officer-TA Division	NA	false		
+0001413398-09-000013	corporationPartnership	2	Joseph Patrick Pollaro	01-JUN-2008	MD, President, COO- TA Division	NA	true		
+0001413398-09-000013	corporationPartnership	1	Matthew Paul Martin	01-JUN-2008	MD, CEO - TA Division	NA	true		
+0001413398-09-000013	corporationPartnership	25	Stuart Smith	15-DEC-2005	VP, Asst. Treasurer - Admin Division	NA	true		
+0001170078-09-000011	soleProprietorship	1	Robin C. Beery	01-SEP-2009	Head of Intermediary Distribution			Officer of Company	
+0001170078-09-000011	soleProprietorship	2	Dan P. Charles	01-SEP-2009	Head of Institutional and International			Officer of Company	
+0001214659-09-002312	soleProprietorship	1	Micah Eldred	01-JUN-2003	Manager			Manager	
+0001214659-09-002312	soleProprietorship	9	Toni Lizzano	01-JUN-2003	Vice President			Manager	01-MAY-2005
+0001214659-09-002312	soleProprietorship	8	Michael Ajzenman	01-JUN-2003	Investor			NA	01-JUL-2006
+0001214659-09-002312	soleProprietorship	7	Voltaire Gomez	01-APR-2008	Assistant Director of Compliance			Manager	01-MAR-2009
+0001214659-09-002312	soleProprietorship	6	Vanessa Verbosh	01-MAR-2009	Operations Supervisor			Operations Manager	
+0001214659-09-002312	soleProprietorship	5	Kara Kennedy	01-FEB-2005	Director of Operations			Operations Manager	01-MAR-2009
+0001214659-09-002312	soleProprietorship	4	David Lopez	01-FEB-2005	Compliance Officer			Compliance Manager	
+0001214659-09-002312	soleProprietorship	3	Endurance Cooperative Partners, LLC.	01-SEP-2009	Owner			Owner	
+0001214659-09-002312	soleProprietorship	10	Michael McManus	01-SEP-2004	Corporate Service			Manager	01-AUG-2005
+0001214659-09-002312	soleProprietorship	2	Carl Dilley	01-DEC-2003	President			President	
+0001018490-09-000013	corporationPartnership	8	Alec Gurdeep Singh	05-AUG-2008	Director and President	NA	true		
+0001018490-09-000013	corporationPartnership	7	Deutsche Bank AG	04-JUN-1999	Owner of 100% of Taunus	E	false		
+0001018490-09-000013	corporationPartnership	6	Taunus Corporation ('Taunus')	04-JUN-1999	Owner of 100% of DBTC	E	false		
+0001018490-09-000013	corporationPartnership	5	Deutsche Bank Trust Corporation ('DBTC')	31-MAR-1990	Owner of 100% of DBHold	E	false		
+0001018490-09-000013	corporationPartnership	4	Deutsche Bank Holdings, Inc. ('DBHold')	12-DEC-1991	Owner of 100% of Registrant	E	false		
+0001018490-09-000013	corporationPartnership	3	Scott Allan Muirhead	05-FEB-2003	Director and President	NA	true		25-JUL-2008
+0001018490-09-000013	corporationPartnership	2	Michael Seamus Moran	31-AUG-2004	Director	NA	true		31-JUL-2009
+0001018490-09-000013	corporationPartnership	1	Foy Benton Hester	01-JUL-1999	Director	NA	true		
+0001078782-09-001519	corporationPartnership	1	CARLOS ESPINOSA	13-APR-2009	PRESIDENT/TREASURER/SECRETARY/DIRECTOR	E	true		
+0001283467-09-000005	corporationPartnership	12	Alan M. Rowe	02-DEC-2004	Director	NA	false		
+0001283467-09-000005	corporationPartnership	13	Arnold J. Shell	02-DEC-2004	Director	NA	false		
+0001283467-09-000005	corporationPartnership	14	Adrian M. Baker	29-APR-2004	President	NA	false		
+0001283467-09-000005	corporationPartnership	15	J. Robert Morris	05-SEP-2006	Managing Director	NA	false		31-DEC-2007
+0001283467-09-000005	corporationPartnership	16	Matthew K. Colpitts	05-SEP-2006	General Manager	NA	false		
+0001283467-09-000005	corporationPartnership	17	Sandra A. Almond	04-JAN-2005	Compliance Officer	NA	false		31-AUG-2007
+0001283467-09-000005	corporationPartnership	18	Lisa S. Scotland	02-JUN-2008	Director, Compliance	NA	false		
+0001283467-09-000005	corporationPartnership	19	Dianna M. Reimer	18-SEP-2006	Managing Director, Operations	NA	false		
+0001283467-09-000005	corporationPartnership	20	Philip Menard	01-NOV-2003	Director, Client Relations	NA	false		
+0001283467-09-000005	corporationPartnership	21	Janet M. Brown	22-NOV-2004	Managing Director, Client Services	NA	false		
+0001283467-09-000005	corporationPartnership	22	Jeff Lunshof	04-FEB-2008	Director, Securities	NA	false		
+0001283467-09-000005	corporationPartnership	23	Raymond J. Protti	05-MAR-2009	Director	NA	false		
+0001283467-09-000005	corporationPartnership	1	Canadian Western Bank	29-APR-2004	Full Owner	E	true		
+0001283467-09-000005	corporationPartnership	2	Charles R. Allard	02-DEC-2004	Director	NA	false		18-JUN-2009
+0001283467-09-000005	corporationPartnership	3	Albrecht S. A. Bellstedt	02-DEC-2004	Director	NA	false		
+0001283467-09-000005	corporationPartnership	4	Jack C. Donald	02-DEC-2004	Director	NA	false		
+0001283467-09-000005	corporationPartnership	5	Allan W. Jackson	02-DEC-2004	Director	NA	false		
+0001283467-09-000005	corporationPartnership	6	Wendy Leaney	02-DEC-2004	Director	NA	false		
+0001283467-09-000005	corporationPartnership	7	Robert A. Manning	02-DEC-2004	Director	NA	false		
+0001283467-09-000005	corporationPartnership	8	Gerald A. B. McGavin	02-DEC-2004	Director	NA	false		
+0001283467-09-000005	corporationPartnership	9	Howard E. Pechet	02-DEC-2004	Director	NA	false		
+0001283467-09-000005	corporationPartnership	10	Robert L. Phillips	02-DEC-2004	Director	NA	false		
+0001283467-09-000005	corporationPartnership	11	Larry M. Pollock	29-APR-2004	Director	NA	false		
+0000849542-09-000005	corporationPartnership	1	PFPC Trust Company	01-DEC-1999	shareholder of Registrant	E	true		
+0000849542-09-000005	corporationPartnership	5	Timothy G. Shack	01-APR-2002	Chairman, Director	NA	true		
+0000849542-09-000005	corporationPartnership	11	John F. Fulgoney	01-FEB-2001	EVP & General Counsel	NA	true		
+0000849542-09-000005	corporationPartnership	10	James E. Rohr	01-FEB-2005	Director	NA	true		
+0000849542-09-000005	corporationPartnership	2	PNC Global Investment Servicing Inc. ('Global Investment Servicing')	01-DEC-1999	PFPC Trust Company shareholder	E	true		
+0000849542-09-000005	corporationPartnership	3	The PNC Financial Services Group, Inc.	01-DEC-1999	Global Investment Servicing shareholder	E	true		
+0000849542-09-000005	corporationPartnership	4	Michael Stephen Wynne	01-DEC-1999	CEO, Director	NA	true		
+0000849542-09-000005	corporationPartnership	12	Bradley Alan Stearns	01-DEC-1999	VP, Sr. Director of Compliance	NA	false		
+0000849542-09-000005	corporationPartnership	6	Nancy B. Wolcott	01-SEP-2002	President, Director	NA	true		
+0000849542-09-000005	corporationPartnership	7	Nicholas Michael Marsini	01-DEC-1999	CFO, EVP, Treasurer, Director	NA	true		
+0000849542-09-000005	corporationPartnership	8	Michael DeNofrio	01-DEC-1999	EVP, Senior Managing Director	NA	true		
+0000849542-09-000005	corporationPartnership	9	Stephen F. Conlin	01-DEC-1999	SVP	NA	true		
+0000049824-09-000003	corporationPartnership	3	Veronica F Gall	06-MAR-2007	Assistant Corporate Secretary	NA	true		31-JUL-2009
+0000049824-09-000003	corporationPartnership	2	Kimberlee A Koskiewicz	06-MAR-2007	Corporate Secretary	NA	true		
+0000049824-09-000003	corporationPartnership	1	Robert G Pearson	01-AUG-1990	President & CEO	E	true		
+0001108200-09-000006	corporationPartnership	1	Computershare (US)	27-JUN-2005	Indirect Owner	E	true		
+0001108200-09-000006	corporationPartnership	2	Computershare Limited	27-JUN-2005	Indirect Owner	E	true		
+0001108200-09-000006	corporationPartnership	3	Blanche O. Hurt	01-FEB-2001	General Counsel and Secretary	NA	true		
+0001108200-09-000006	corporationPartnership	7	Richard L. Johnson, Jr.	14-SEP-2009	Chief Compliance Officer	NA	true		
+0001108200-09-000006	corporationPartnership	5	Computershare US Services Inc.	14-MAR-2007	Shareowner (100%)	E	true		
+0001108200-09-000006	corporationPartnership	6	Steven R. Rothbloom	01-JUL-2000	President	NA	true		
+0001108200-09-000006	corporationPartnership	4	Sharon L. Sritong	02-OCT-2000	Chief Financial Officer	NA	true		
+0000027048-09-000012	corporationPartnership	1	Thomas A. McDonnell	01-FEB-1969	CEO	NA	true		
+0000027048-09-000012	corporationPartnership	22	Breeden Capital Management, LLC	17-FEB-2009	5% Owner	A	false		
+0000027048-09-000012	corporationPartnership	3	A. Edward Allinson	01-JAN-1977	Director	NA	true		
+0000027048-09-000012	corporationPartnership	4	Thomas A McCullough	01-APR-1987	Executive Vice President	NA	true		
+0000027048-09-000012	corporationPartnership	5	Kenneth V. Hager	01-APR-1988	Vice President/CFO/Treasurer	NA	true		
+0000027048-09-000012	corporationPartnership	6	Michael G. Fitt	01-SEP-1995	Director	NA	true		
+0000027048-09-000012	corporationPartnership	7	Jeannine M. Strandjord	01-JAN-1996	Director	NA	true		
+0000027048-09-000012	corporationPartnership	8	William C. Nelson	01-JAN-1996	Director	NA	true		
+0000027048-09-000012	corporationPartnership	9	George L. Argyros	01-DEC-1998	Director/Owner	B	true		
+0000027048-09-000012	corporationPartnership	10	Jonathan J. Boehm	01-MAR-1998	Group Vice President	NA	false		01-JUL-2009
+0000027048-09-000012	corporationPartnership	11	Robert L. Tritt	01-AUG-1995	Executive Vice President	NA	true		
+0000027048-09-000012	corporationPartnership	12	Randall D. Young	01-JUL-2002	Vice Presient/GC/Sec/CLO	NA	false		
+0000027048-09-000012	corporationPartnership	13	Travis E Reed	01-JUL-2002	Director	NA	true		
+0000027048-09-000012	corporationPartnership	14	Massachusetts Financial Services Company	01-FEB-2005	2.4% Owner	NA	false		07-FEB-2007
+0000027048-09-000012	corporationPartnership	15	Marshall & Ilsley Corp	01-DEC-2005	6.1% Owner	A	false		
+0000027048-09-000012	corporationPartnership	16	T. Rowe Price	01-FEB-2006	8% Owner	A	false		
+0000027048-09-000012	corporationPartnership	17	Iridian Asset Management, LLC	01-FEB-2007	8.4% Owner	A	false		
+0000027048-09-000012	corporationPartnership	18	Wellington Management Company, LLP	01-FEB-2007	3.85 % Owner	NA	false		17-FEB-2009
+0000027048-09-000012	corporationPartnership	19	OZ Management LP	25-JUN-2007	0% Owner	NA	false		03-FEB-2009
+0000027048-09-000012	corporationPartnership	20	Robert T. Jackson	17-JUL-2007	Director	NA	true		
+0000027048-09-000012	corporationPartnership	21	Stephen C Hooley	30-JUN-2009	President/COO	NA	true		
+0000027048-09-000012	corporationPartnership	2	Jules Moskowitz	01-APR-1986	Vice President/Counsel	NA	false		
+0000927395-09-000003	corporationPartnership	1	Wilfred N. Cooper, Sr.	01-MAY-1971	Chairman/Director	D	true		
+0000927395-09-000003	corporationPartnership	3	David N. Shafer	01-APR-1990	Executive Vice President/Director	NA	true		
+0000927395-09-000003	corporationPartnership	4	Thomas J. Riha	01-SEP-1994	CFO	NA	true		
+0000927395-09-000003	corporationPartnership	2	Wilfred N. Cooper, Jr.	01-DEC-1988	President/CEO/COO/Director	C	true		
+0001242588-09-000012	corporationPartnership	2	Douglas Paul Williams	30-JUL-1999	Senior Vice President	NA	true		
+0001242588-09-000012	corporationPartnership	1	Leo Fred Wells III	26-APR-1984	President	E	true		
+0001466955-09-000006	corporationPartnership	1	LOYAL3 Holdings, Inc.	12-JUN-2009	Owner	E	true		
+0001466955-09-000006	corporationPartnership	2	Blake Curtis Schneider	12-JUN-2009	Chief Financial Officer	NA	true		
+0001140361-09-020876	soleProprietorship	1	Leon Urbaitel	20-OCT-2008	CEO			NA - 0 to 5%	
+0001140361-09-020876	soleProprietorship	3	Starinvest Group, Inc.	20-OCT-2008	Direct Owner			75% to 100% of Starinvest Group, Inc.	
+0001140361-09-020876	soleProprietorship	2	Robert Cole	20-OCT-2008	Indirect Owner			75% to 100% of Starinvest Group, Inc.	
+0001352392-09-000184	corporationPartnership	1	Laurel Poffenroth	01-AUG-2009	President	C	true		
+0001352392-09-000184	corporationPartnership	2	Sandra L Sears	01-AUG-2009	Partner	C	false		
+0001352392-09-000184	corporationPartnership	3	Billy King	01-AUG-2009	Partner	C	false		
+0001146060-09-000003	soleProprietorship	1	FRANK GECSEDI	04-DEC-2006	CHIEF COMPLIANCE OFFICER			N/A	02-SEP-2008
+0001146060-09-000003	soleProprietorship	2	ROBERT OLLWERTHER	05-JUN-2006	CEO, PRESIDENT & COO			N/A	27-MAR-2008
+0001146060-09-000003	soleProprietorship	3	PAUL MORTON	27-MAR-2008	CEO, PRESIDENT, MANAGER			N/A	13-AUG-2009
+0001146060-09-000003	soleProprietorship	8	DEANN D. MORGAN	13-AUG-2009	MANAGER			N/A	
+0001146060-09-000003	soleProprietorship	5	MERRILL LYNCH INVESTMENT MANAGERS LP	14-AUG-2001	SOLE UNIT HOLDER, SOLE MEMBER			DIRECT OWNERSHIP INTEREST	
+0001146060-09-000003	soleProprietorship	6	BARBRA KOSCIS	29-SEP-2006	CHIEF FINANCIAL OFFICER			N/A	
+0001146060-09-000003	soleProprietorship	7	THOMAS W. LEE	16-AUG-2007	MANAGER			N/A	13-AUG-2009
+0001146060-09-000003	soleProprietorship	4	JUSTIN FERRI	13-AUG-2009	PRESIDENT, CEO AND MANAGER			N/A	
+0001452780-09-000006	corporationPartnership	5	Stephen Arthur Sabino	23-MAY-2007	Director	NA	true		01-AUG-2009
+0001452780-09-000006	corporationPartnership	1	Pacific Ventures	02-MAY-2005	33.6% Owner	C	false		
+0001452780-09-000006	corporationPartnership	2	DST Health Solutions Holdings, Inc.	30-APR-2005	66.4% Owner	D	false		
+0001452780-09-000006	corporationPartnership	3	Thomas Lee Hurley	13-DEC-2006	Director	NA	true		01-AUG-2009
+0001452780-09-000006	corporationPartnership	4	Gregg William Givens	23-MAY-2007	Director	NA	true		
+0001452780-09-000006	corporationPartnership	11	Mark C Prasifka	01-AUG-2009	Director	NA	true		
+0001452780-09-000006	corporationPartnership	6	DST Systems, Inc.	30-APR-2005	Indirect Ownership	NA	true		
+0001452780-09-000006	corporationPartnership	7	Manjula Cherukuri	21-MAR-2005	Head of Finance	NA	true		
+0001452780-09-000006	corporationPartnership	8	Giriraj Telikicherla	21-DEC-2006	Head of BPO Services	NA	true		
+0001452780-09-000006	corporationPartnership	9	Tilak Panjabi	24-JUN-2008	Country Head	NA	true		
+0001452780-09-000006	corporationPartnership	10	Krish V Krishnan	01-AUG-2009	Director	NA	true		
+0001144204-09-047853	soleProprietorship	1	Jennifer Elaine Hodges	24-AUG-2009	President, Manager			50% up to 75% unit holder	
+0001458682-09-000005	soleProprietorship	1	Juan Carlos Osorio	06-MAR-2009	Managing Member			Owner, Certificate Signer	
+0001458682-09-000005	soleProprietorship	2	Kara A. Kennedy	01-JUN-2009	Managing Member, Executive Director			Owner, Certificate Signer	
+0001458682-09-000005	soleProprietorship	5	Matthew Luginbuehl	01-AUG-2009	Head of Business Development			Certificate Signer	
+0001458682-09-000005	soleProprietorship	4	Mediha Kolar	15-JUN-2009	Operations Associate			Certificate Signer	
+0001458682-09-000005	soleProprietorship	3	Kyla D. Kennedy	01-JUN-2009	Operations Coordinator			Certificate Signer	
+0001007444-09-000014	corporationPartnership	1	Stephanie Leigh Brown	01-MAR-2004	General Counsel, Managing Director	NA	true		
+0001007444-09-000014	corporationPartnership	7	Joseph Paul Tuorto	01-JAN-2005	Managing Director - Compliance	NA	true		
+0001007444-09-000014	corporationPartnership	3	Esther Marion Stearns	01-MAR-2007	Chief Operating Officer, President	NA	true		
+0001007444-09-000014	corporationPartnership	4	Steven Mark Black	01-MAY-2006	Managing Director, Chief Risk Officer	NA	true		30-APR-2009
+0001007444-09-000014	corporationPartnership	5	William Edward Dwyer III	01-JAN-2004	Managing Director	NA	true		
+0001007444-09-000014	corporationPartnership	6	Donna Lynne Houston Nauss	01-JAN-2006	SVP, CCO - Advisory	NA	true		21-MAY-2009
+0001007444-09-000014	corporationPartnership	8	LPL Holdings, Inc.	01-APR-1989	Parent Company	E	true		
+0001007444-09-000014	corporationPartnership	9	Dan Hogan Arnold Jr.	01-AUG-2007	Managing Director	NA	true		
+0001007444-09-000014	corporationPartnership	13	Jonathan Eaton	01-JAN-2008	Managing Director	NA	true		
+0001007444-09-000014	corporationPartnership	10	George Burton White	01-NOV-2007	Managing Director, CIO	NA	true		
+0001007444-09-000014	corporationPartnership	11	Henry Sanchez Jr.	01-JUL-2007	CCO - Brokerage	NA	true		21-MAY-2009
+0001007444-09-000014	corporationPartnership	12	Denise Abood	01-JAN-2008	Managing Director	NA	true		
+0001007444-09-000014	corporationPartnership	14	Christopher F. Feeney	28-JAN-2008	Chief Information Officer	NA	true		
+0001007444-09-000014	corporationPartnership	15	Mark Helliker	04-AUG-2008	Managing Director	NA	true		
+0001007444-09-000014	corporationPartnership	16	Robert J. Moore	02-SEP-2008	Managing Director, CFO	NA	true		
+0001007444-09-000014	corporationPartnership	17	Kathy Vannoy-Pineda	21-MAY-2009	CCO - Brokerage	NA	true		
+0001007444-09-000014	corporationPartnership	18	John J. McDermott Jr.	27-JUL-2009	Managing Dir, Chief Enterprise Risk Ofcr	NA	true		
+0001007444-09-000014	corporationPartnership	19	Abdiel Alan Valenzuela	21-MAY-2009	VP, CCO - Advisory	NA	true		
+0001007444-09-000014	corporationPartnership	2	Mark Stephen Casady	01-DEC-2005	CEO, Chairman of the Board	NA	true		
+0001470814-09-000001	corporationPartnership	1	Marc H Veeneman	24-MAR-1984	Co-owner, President	C	false		
+0001470814-09-000001	corporationPartnership	2	Diane P Veeneman	24-MAR-1984	Co-owner, Vice President	C	false		
+0001470814-09-000001	corporationPartnership	5	Phyllis Adams	04-JUN-2007	Compliance Department Manager	NA	false		
+0001470814-09-000001	corporationPartnership	4	Paul Sterwerf	07-JUL-2008	Chief  Financial Officer	NA	false		
+0001470814-09-000001	corporationPartnership	3	Kathryn J Williams	01-SEP-2005	Chief Administrative Officer	NA	false		
+0000842657-09-000019	corporationPartnership	1	Barbara Wizer	03-JAN-2005	Director and President	NA	true		
+0000842657-09-000019	corporationPartnership	16	Michael Donohue	02-AUG-2007	Vice President	NA	true		
+0000842657-09-000019	corporationPartnership	3	Kristine Lyons	22-SEP-2005	Director and Vice President	NA	true		
+0000842657-09-000019	corporationPartnership	4	Michael Sharkey	13-MAR-2007	Vice President	NA	true		
+0000842657-09-000019	corporationPartnership	5	Michael Interrante	17-MAY-2005	Chief Financial Officer and Treasurer	NA	true		
+0000842657-09-000019	corporationPartnership	6	Oliver Poncet	01-MAR-2007	Vice President	NA	true		
+0000842657-09-000019	corporationPartnership	7	Fred Ill	13-MAR-2007	Vice President	NA	true		
+0000842657-09-000019	corporationPartnership	8	Christopher Jackson	08-DEC-2006	Secretary	NA	true		
+0000842657-09-000019	corporationPartnership	9	Anjie Larocca	11-JUL-2006	Assistant Secretary	NA	true		
+0000842657-09-000019	corporationPartnership	10	Deutsche Investment Management Americas Inc. (DIMA)	06-FEB-1998	50% owner of Registrant	D	true		
+0000842657-09-000019	corporationPartnership	11	Deutsche Capital Planning Corporation (DCPC)	06-FEB-1998	50% owner of Registrant	D	true		
+0000842657-09-000019	corporationPartnership	12	Deutsche Bank AG	01-APR-2002	100% owner of Taunus Corporation	E	true		
+0000842657-09-000019	corporationPartnership	13	Taunus Corporation	01-APR-2002	100% owner of DB Americas Holding Corp.	E	true		
+0000842657-09-000019	corporationPartnership	14	Deutsche Bank Americas Holding Corporation (DBAHC)	01-APR-2002	100% owner of DIMA	E	true		
+0000842657-09-000019	corporationPartnership	15	Deutsche Capital Stock Corporation	01-JAN-1996	50% owner of DCPC	D	true		
+0000842657-09-000019	corporationPartnership	2	Leah Mizer	10-OCT-2006	Director and Vice President	NA	true		
+0001418300-09-000007	corporationPartnership	1	Christine Fette	29-NOV-2007	President and CEO	E	true		
+0001030030-09-000003	soleProprietorship	3	The Nottingham Management Company	30-NOV-2007	Member			49% Direct Interest	
+0001030030-09-000003	soleProprietorship	2	Robert Jefferson Myers	15-JUN-2005	Member			25.5% Direct Interest	
+0001030030-09-000003	soleProprietorship	1	Joy Marcella Carawan	15-JUN-2005	Managing Member			25.5% Direct Interest	
+0001312813-09-000004	corporationPartnership	1	Kolt Curry	01-FEB-2005	President	E	false		
+0000772037-09-000011	corporationPartnership	8	Barry, Peter J.	15-MAY-2008	Assistant Treasurer	NA	true		
+0000772037-09-000011	corporationPartnership	28	Wiley, Christie	30-JUN-2004	Controller, Treasurer and SVP	NA	true		
+0000772037-09-000011	corporationPartnership	27	Welsh, Stephen T.	16-JUL-2004	President and Director	NA	true		
+0000772037-09-000011	corporationPartnership	26	Varma, Atul	27-JUL-2007	Chief Financial Officer	NA	true		
+0000772037-09-000011	corporationPartnership	25	Tai, Nina	27-JUL-2007	Assistant Secretary	NA	true		
+0000772037-09-000011	corporationPartnership	24	Smith, Robin G.	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000011	corporationPartnership	23	Smith, Connie B.	01-APR-2006	Assistant Secretary	NA	true		
+0000772037-09-000011	corporationPartnership	22	Schroeder, Luke F.	01-FEB-2007	Vice President	NA	true		
+0000772037-09-000011	corporationPartnership	21	Pryor, Elizabeth A.	30-APR-2005	Secretary	NA	true		
+0000772037-09-000011	corporationPartnership	20	Nutter, Teddy R.	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000011	corporationPartnership	19	Mroz, Gregory S.	01-APR-2006	Senior Vice President	NA	true		
+0000772037-09-000011	corporationPartnership	18	Moon, Leslie	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000011	corporationPartnership	17	McKinley, Katherine S.	01-APR-2006	Assistant Secretary	NA	true		
+0000772037-09-000011	corporationPartnership	16	Kane, Joanne M.	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000011	corporationPartnership	1	Bank of America Corporation	01-APR-2004	Indirect Owner	E	true		
+0000772037-09-000011	corporationPartnership	2	NB Holdings Corporation	01-OCT-2007	Indirect Owner	E	true		
+0000772037-09-000011	corporationPartnership	3	BAC North America Holding Corporation	01-MAY-2007	Indirect Owner	E	true		
+0000772037-09-000011	corporationPartnership	4	LaSalle Bank Corporation	17-OCT-2008	Indirect Owner	E	true		
+0000772037-09-000011	corporationPartnership	5	Bank of America National Association	01-JUN-2005	Indirect Owner	NA	true		
+0000772037-09-000011	corporationPartnership	6	Columbia Management Group	01-APR-2003	Direct Owner	E	true		
+0000772037-09-000011	corporationPartnership	7	Barnes, Maria S.	27-JUL-2007	Assistant Secretary	NA	true		
+0000772037-09-000011	corporationPartnership	29	Weidner, Donna	30-JUN-2005	Assistant Treasuer	NA	true		15-MAY-2008
+0000772037-09-000011	corporationPartnership	9	Beck, Janice L.	01-FEB-2007	Vice President	NA	true		
+0000772037-09-000011	corporationPartnership	10	Bednarz, Allen F.	27-JUL-2007	Assistant Treasurer	NA	true		
+0000772037-09-000011	corporationPartnership	11	Brantley, Thomas M.	30-APR-2005	Senior Vice President	NA	true		
+0000772037-09-000011	corporationPartnership	12	Coughlin, Kerri	01-FEB-2007	Vice President	NA	true		
+0000772037-09-000011	corporationPartnership	13	Davis, Walter Keith	30-APR-2005	Senior Vice President	NA	true		
+0000772037-09-000011	corporationPartnership	14	DeFao, Michael	01-APR-2006	Assistant Secretary	NA	true		
+0000772037-09-000011	corporationPartnership	15	Jones, Michael	01-NOV-2007	Director	NA	true		
+0001169232-09-003767	corporationPartnership	2	Efim Tkatchew	01-JAN-2006	COO	NA	true		01-OCT-2008
+0001169232-09-003767	corporationPartnership	1	Patrick J. Meehan	01-OCT-2008	COO	NA	true		
+0001141917-09-000012	soleProprietorship	12	Kenneth S. Solon	21-JUL-2008	Executive VP/Managing Committee Member			Control Person	
+0001141917-09-000012	soleProprietorship	11	Michele M. Booth	13-APR-2009	Senior Vice President			Control Person	
+0001141917-09-000012	soleProprietorship	10	Mary Sachse	13-JUL-2007	Vice President			Control Person	
+0001141917-09-000012	soleProprietorship	9	Kristin Hagan	13-JUL-2007	Vice President			Control Person	
+0001141917-09-000012	soleProprietorship	1	The Lincoln National Life Insurance Company	01-JUN-1905	N/A			Control Person	
+0001141917-09-000012	soleProprietorship	7	Westley V. Thompson	01-JUL-2006	Chief Executive Officer and President			Control Person	29-SEP-2008
+0001141917-09-000012	soleProprietorship	6	Michael S. Smith	01-DEC-2004	Managing Committee Member			Control Person	29-JUN-2009
+0001141917-09-000012	soleProprietorship	5	Dennis L. Schoff	01-JUL-2004	General Counsel			Control Person	
+0001141917-09-000012	soleProprietorship	4	Donald E. Keller	01-MAR-2001	Vice President			Control Person	
+0001141917-09-000012	soleProprietorship	3	Frederick J. Crawford	01-JUL-2006	Chief Financial Officer			Control Person	
+0001141917-09-000012	soleProprietorship	2	Kelly D. Clevenger	01-MAR-2001	Senior Vice President			Control Person	
+0001141917-09-000012	soleProprietorship	8	Boyd Minnix	13-JUL-2007	Senior Vice President			Control Person	29-JUN-2009
+0000810417-09-000046	soleProprietorship	1	James D. Weddle	01-JAN-2006	Chief Executive Officer			Less than 5% interest	
+0000810417-09-000046	soleProprietorship	2	Kevin D. Bastien	01-JAN-2009	Chief Financial Officer			Less than 5% interest	
+0000810417-09-000046	soleProprietorship	3	Brett A. Campbell	01-JAN-2006	Principal of Products, Svcs & Marketing			Less than 5% interest	
+0000810417-09-000046	soleProprietorship	4	Pamela K. Cavness	01-MAR-1997	Chief Compliance Officer			Less than 5% interest	
+0000810417-09-000046	soleProprietorship	10	Steven Novik	01-MAR-1995	Chief Financial Officer			Less than 5% interest	31-DEC-2008
+0000810417-09-000046	soleProprietorship	6	Timothy J. Kirley	01-JAN-2006	Principal of UK Operations			Less than 5% interest	
+0000810417-09-000046	soleProprietorship	7	Gary D. Reamey	01-JAN-2006	Principal of Canadian Operations			Less than 5% interest	
+0000810417-09-000046	soleProprietorship	8	James A. Tricarico, Jr.	01-JUL-2006	Chief Legal Counsel			Less than 5% interest	
+0000810417-09-000046	soleProprietorship	9	Daniel J. Timm	01-JAN-2009	Principal of Financial Advisor Training			Les than 5% interest	
+0000810417-09-000046	soleProprietorship	5	Norman L. Eaker	15-JAN-2005	Chief Operations Officer			Less than 5% interest	
+0001170078-09-000010	soleProprietorship	2	Kristin  B. Mariani	22-MAY-2009	Vice President			Officer of Company	
+0001170078-09-000010	soleProprietorship	1	Shannon E. Sissler	01-JAN-2008	Sr. Vice President of Human Resources			Officer of Company	17-AUG-2009
+0000849542-09-000003	corporationPartnership	1	PFPC Trust Company	01-DEC-1999	shareholder of Registrant	E	true		
+0000849542-09-000003	corporationPartnership	2	PNC Global Investment Servicing Inc. ('Global Investment Servicing')	01-DEC-1999	PFPC Trust Company shareholder	E	true		
+0000849542-09-000003	corporationPartnership	3	The PNC Financial Services Group, Inc.	01-DEC-1999	Global Investment Servicing shareholder	E	true		
+0000849542-09-000003	corporationPartnership	4	Michael Stephen Wynne	01-DEC-1999	CEO, Director	NA	true		
+0000849542-09-000003	corporationPartnership	5	Timothy G. Shack	01-APR-2002	Chairman, Director	NA	true		
+0000849542-09-000003	corporationPartnership	12	Bradley Alan Stearns	01-DEC-1999	VP, Sr. Director of Compliance	NA	false		
+0000849542-09-000003	corporationPartnership	7	Nicholas Michael Marsini	01-DEC-1999	CFO, EVP, Treasurer, Director	NA	true		
+0000849542-09-000003	corporationPartnership	8	Michael DeNofrio	01-DEC-1999	EVP, Senior Managing Director	NA	true		
+0000849542-09-000003	corporationPartnership	9	Stephen F. Conlin	01-DEC-1999	SVP	NA	true		
+0000849542-09-000003	corporationPartnership	10	James E. Rohr	01-FEB-2005	Director	NA	true		
+0000849542-09-000003	corporationPartnership	11	John F. Fulgoney	01-FEB-2001	EVP & General Counsel	NA	true		
+0000849542-09-000003	corporationPartnership	6	Nancy B. Wolcott	01-SEP-2002	President, Director	NA	true		
+0000950123-09-035316	soleProprietorship	4	Maureen Maloney	13-AUG-2009	Chief Compliance Officer			Officer	
+0000950123-09-035316	soleProprietorship	1	Talle Voorhies	13-AUG-2009	President			Officer	
+0000950123-09-035316	soleProprietorship	2	Michael Rispoli	13-AUG-2009	Chief Financial Officer			Officer	
+0000950123-09-035316	soleProprietorship	3	Andrea Biller	13-AUG-2009	Secretary			Officer	
+0000870156-09-000067	corporationPartnership	1	West Bancorpation	30-DEC-2005	Owner	E	true		
+0000870156-09-000067	corporationPartnership	2	Stanberry Thomas Edwin	01-JUL-2006	Director, Chairman	NA	true		15-JUL-2009
+0000870156-09-000067	corporationPartnership	3	Gulling Douglas Ray	01-JAN-2006	Director, CEO	NA	true		
+0000870156-09-000067	corporationPartnership	4	Winterbottom Brad Lee	01-JUL-2006	Director	NA	true		
+0000870156-09-000067	corporationPartnership	5	Mitchell Amy Marie	01-OCT-2006	Secretary, Director	NA	true		
+0000870156-09-000067	corporationPartnership	12	Croft Kevin Wesley	21-JAN-2009	Director	NA	true		07-JUL-2009
+0000870156-09-000067	corporationPartnership	7	Lichtenberger Vera B.	01-SEP-2004	CCO	NA	true		
+0000870156-09-000067	corporationPartnership	8	Eltjes Scott Dean	01-JUL-2006	CEO, Director	NA	false		06-JAN-2009
+0000870156-09-000067	corporationPartnership	9	Augustine Jon Kent	21-JAN-2009	Director	NA	true		
+0000870156-09-000067	corporationPartnership	10	Myers Thomas Eugene	21-JAN-2009	Director	NA	true		
+0000870156-09-000067	corporationPartnership	11	Cook Christopher Calvin	21-JAN-2009	Director	NA	true		
+0000870156-09-000067	corporationPartnership	6	Lorenzen Jeffrey David	01-MAY-2005	President, CIO, Director	NA	false		14-JAN-2009
+0000788603-09-000008	corporationPartnership	1	Boston Financial Data Services, Inc.	12-MAY-1982	Shareholder	E	true		
+0000788603-09-000008	corporationPartnership	19	Alison A. Quirk	01-JUL-2009	Director	NA	true		
+0000788603-09-000008	corporationPartnership	3	Terrence Lester Metzger	01-JAN-2004	President and Chief Executive Officer	NA	true		
+0000788603-09-000008	corporationPartnership	4	James Scott Phalen	11-MAR-2005	Director	NA	true		
+0000788603-09-000008	corporationPartnership	5	Joseph Cesidio Antonellis	11-JAN-2005	Director	NA	true		
+0000788603-09-000008	corporationPartnership	6	Thomas Austin McCullough	01-JUN-1987	Director	NA	true		
+0000788603-09-000008	corporationPartnership	7	Jonathan Jay Boehm	01-JAN-2004	Director	NA	false		01-JUL-2009
+0000788603-09-000008	corporationPartnership	8	Alan Davis Greene	01-JAN-2004	Director	NA	true		
+0000788603-09-000008	corporationPartnership	9	Robert Kaplan	14-JAN-2009	Director	NA	true		
+0000788603-09-000008	corporationPartnership	10	Joseph Lawrence Hooley	01-OCT-1990	Director	NA	true		
+0000788603-09-000008	corporationPartnership	11	Albert Edward Allinson	01-MAR-1990	Director	NA	true		
+0000788603-09-000008	corporationPartnership	12	David Mark Scovell	01-SEP-1992	Senior Vice President and COO	NA	true		
+0000788603-09-000008	corporationPartnership	13	Steven Jeffery Towle	13-DEC-2000	Director	NA	true		
+0000788603-09-000008	corporationPartnership	14	Jay Alan Shuman	01-APR-2001	Treasurer and Chief Financial Officer	NA	true		
+0000788603-09-000008	corporationPartnership	15	Sharon Leigh James	01-JUL-2001	Chief Legal Officer / DVP/ Secretary	NA	false		
+0000788603-09-000008	corporationPartnership	16	Joan Marie Dowd	01-MAY-1988	Chief Compliance Officer	NA	false		
+0000788603-09-000008	corporationPartnership	17	Thomas Abbott McDonnell	06-JUL-1990	Director	NA	true		
+0000788603-09-000008	corporationPartnership	18	Robert L. Tritt	01-JUL-2009	Director	NA	true		
+0000788603-09-000008	corporationPartnership	2	Stephen Clifford Hooley	01-JAN-2004	Chairman and Director	NA	true		
+0000275143-09-000007	corporationPartnership	1	State Street Corporation	05-SEP-1973	Co-shareholder	D	true		
+0000275143-09-000007	corporationPartnership	19	Alison A. Quirk	01-JUL-2009	Director	NA	true		
+0000275143-09-000007	corporationPartnership	3	Stephen Clifford Hooley	01-JAN-2004	Chairman and Director	NA	true		
+0000275143-09-000007	corporationPartnership	4	Terrence Lester Metzger	01-JAN-2004	President and CEO	NA	true		
+0000275143-09-000007	corporationPartnership	5	James Scott Phalen	11-MAR-2005	Director	NA	true		
+0000275143-09-000007	corporationPartnership	6	Joseph Cesidio Antonellis	11-JAN-2005	Director	NA	true		
+0000275143-09-000007	corporationPartnership	7	Thomas Austin McCullough	01-JUN-1987	Director	NA	true		
+0000275143-09-000007	corporationPartnership	8	Jonathan Jay Boehm	01-JAN-2004	Director	NA	false		01-JUL-2009
+0000275143-09-000007	corporationPartnership	9	Alan Davis Greene	01-JAN-2004	Director	NA	true		
+0000275143-09-000007	corporationPartnership	10	Jay Alan Shuman	01-APR-2001	Treasurer and Chief Financial Officer	NA	true		
+0000275143-09-000007	corporationPartnership	11	Sharon Leigh James	01-JUL-2001	Chief Legal Officer / DVP /Secretary	NA	false		
+0000275143-09-000007	corporationPartnership	12	Joan Marie Dowd	01-MAY-1988	Chief Compliance Officer	NA	false		
+0000275143-09-000007	corporationPartnership	13	Steven Jeffery Towle	13-DEC-2000	Director	NA	true		
+0000275143-09-000007	corporationPartnership	14	Thomas Abbott McDonnell	01-JAN-1974	Director	NA	true		
+0000275143-09-000007	corporationPartnership	15	Joseph Lawrence Hooley	01-SEP-1992	Director	NA	true		
+0000275143-09-000007	corporationPartnership	16	Albert Edward Allinson	13-AUG-1973	Director	NA	true		
+0000275143-09-000007	corporationPartnership	17	Robert Kaplan	14-JAN-2009	Director	NA	true		
+0000275143-09-000007	corporationPartnership	18	Robert L. Tritt	01-JUL-2009	Director	NA	true		
+0000275143-09-000007	corporationPartnership	2	DST Systems, Inc.	05-SEP-1973	Co-shareholder	D	true		
+0000868275-09-000005	corporationPartnership	1	NICHOLAS F. KAISER	01-AUG-1989	DIRECTOR	C	true		
+0000868275-09-000005	corporationPartnership	19	EMILY H. KAISER	01-NOV-2006	SHAREHOLDER	A	false		
+0000868275-09-000005	corporationPartnership	3	JANE K. CARTEN	14-FEB-2001	DIRECTOR	A	true		
+0000868275-09-000005	corporationPartnership	4	ETHEL BARTOLOME	01-MAR-2001	SECRETARY	NA	true		
+0000868275-09-000005	corporationPartnership	5	MEREDITH L. ROSS	23-JUL-2003	TREASURER	NA	true		
+0000868275-09-000005	corporationPartnership	6	JAMES D. WINSHIP	29-JUL-2004	CCO/CHIEF LEGAL OFFICER	NA	true		
+0000868275-09-000005	corporationPartnership	7	MEREDITH L. ROSS	23-JUN-2005	DIRECTOR	NA	true		
+0000868275-09-000005	corporationPartnership	8	MONEM A. SALAM	23-JUN-2005	DIRECTOR/VICE PRESIDENT	NA	true		
+0000868275-09-000005	corporationPartnership	9	CHRISTOPHER R. FANKHAUSER	17-JAN-2006	DIRECTOR/COO	NA	true		
+0000868275-09-000005	corporationPartnership	10	JAMES S. GIBSON	17-APR-2007	CFO	NA	true		
+0000868275-09-000005	corporationPartnership	11	JAMES D. WINSHIP	20-APR-2007	GENERAL COUNSEL/CHIEF LEGAL OFFICER	NA	true		
+0000868275-09-000005	corporationPartnership	12	JAMES S. GIBSON	24-JUN-2009	DIRECTOR	NA	true		
+0000868275-09-000005	corporationPartnership	13	NICHOLAS F. KAISER	01-AUG-1989	PRESIDENT/CEO	C	true		28-JUL-2009
+0000868275-09-000005	corporationPartnership	14	JANE K. CARTEN	28-JUL-2009	PRESIDENT/CEO	A	true		
+0000868275-09-000005	corporationPartnership	15	JAMES S. GIBSON	28-JUL-2009	ASSISTANT SECRETARY	NA	true		
+0000868275-09-000005	corporationPartnership	16	VERN CLEMENSON	01-SEP-1990	SHAREHOLDER	A	false		
+0000868275-09-000005	corporationPartnership	17	ROBERT F. KAISER II	01-NOV-2006	SHAREHOLDER	A	false		
+0000868275-09-000005	corporationPartnership	18	SARAH K. BRAND	01-NOV-2006	SHAREHOLDER	A	false		
+0000868275-09-000005	corporationPartnership	2	PHELPS S. MCILVAINE	16-AUG-1994	DIRECTOR/VICE PRESIDENT	A	true		
+0000889231-09-000015	corporationPartnership	9	Caisse Nationale des Caisses d'Epargne ('CNCE')	17-NOV-2006	Shareholder of Natixis	C	true		31-JUL-2009
+0000889231-09-000015	corporationPartnership	8	CDC Holding Finance	01-JAN-2002	Shareholder of CNCE	C	true		29-JAN-2007
+0000889231-09-000015	corporationPartnership	11	Natixis	17-NOV-2006	Shareholder of Natixis Participations 1	E	true		
+0000889231-09-000015	corporationPartnership	12	NATIXIS Global Asset Management	17-AUG-2004	Shareholder: NATIXIS GAM Participations1	E	true		
+0000889231-09-000015	corporationPartnership	13	NATIXIS Global Asset Management Participations 1	01-JUN-2005	Shareholder: NATIXIS GAM Corp	E	true		
+0000889231-09-000015	corporationPartnership	14	NATIXIS Global Asset Management Participations 1	14-SEP-2006	Shareholder: NATIXIS GAM, Corp.	E	true		05-JUN-2009
+0000889231-09-000015	corporationPartnership	15	NATIXIS Global Asset Managment Corporation	01-OCT-2000	Limited Partner of NATIXIS GAM, L.P.	E	true		
+0000889231-09-000015	corporationPartnership	16	NATIXIS Global Asset Managment Corporation	01-OCT-2000	Member of NATIXIS GAM, LLC	E	true		
+0000889231-09-000015	corporationPartnership	17	NATIXIS Global Asset Management LLC	01-OCT-2000	General Partner of NATIXIS GAM, L.P.	NA	true		
+0000889231-09-000015	corporationPartnership	18	NATIXIS Global Asset Managment L.P.	01-AUG-1994	Shareholder of RTAM, LLC	E	true		
+0000889231-09-000015	corporationPartnership	19	Reich & Tang Asset Managment, LLC ('RTAM, LLC')	31-MAR-2006	Parent Company of Applicant	E	true		
+0000889231-09-000015	corporationPartnership	20	Natixis Participations 1	01-JUN-2007	Shareholder of Natixis Global Asset Man.	E	true		
+0000889231-09-000015	corporationPartnership	21	Michael Lydon	26-MAR-2008	President & Chief Executive Officer	NA	true		
+0000889231-09-000015	corporationPartnership	22	Joseph Jerkovich	26-MAR-2008	Senior Vice President & CFO	NA	false		
+0000889231-09-000015	corporationPartnership	23	Christopher J. Brancazio	04-SEP-2007	Senior Vice President, CCO & AML Officer	NA	true		
+0000889231-09-000015	corporationPartnership	24	Christopher Gill	26-MAR-2008	Director & Senior Vice President	NA	true		
+0000889231-09-000015	corporationPartnership	1	G. Neal Ryland	01-DEC-1997	Director	NA	true		05-DEC-2007
+0000889231-09-000015	corporationPartnership	2	Richard E. Smith III	01-DEC-1997	President	NA	true		31-JAN-2008
+0000889231-09-000015	corporationPartnership	3	Steven W. Duff	01-DEC-1997	Director	NA	true		
+0000889231-09-000015	corporationPartnership	4	Richard I. Weiner	01-DEC-1997	Vice President	NA	true		31-DEC-2006
+0000889231-09-000015	corporationPartnership	5	Richard DeSanctis	01-DEC-1997	Director, EVP & Chief Operating Officer	NA	true		
+0000889231-09-000015	corporationPartnership	6	Jeffrey Dunbar Plunkett	04-SEP-2004	Director	NA	true		01-MAR-2007
+0000889231-09-000015	corporationPartnership	7	Caisse des Depots et Consignations ('CDC')	01-JAN-2002	Shareholder of CDC Holding Finance	C	true		29-JAN-2007
+0000889231-09-000015	corporationPartnership	10	BPCE	31-JUL-2009	Shareholder of Natixis	D	true		
+0001432532-09-000010	soleProprietorship	6	Jimmy D. Gambill	28-SEP-2007	Director			Member of the Board of Directors	22-JAN-2009
+0001432532-09-000010	soleProprietorship	5	Gregory E. McGowan	04-JUL-1997	Director			Member of the Board of Directors	
+0001432532-09-000010	soleProprietorship	3	Jennifer J. Bolt	28-SEP-2007	Director			Member of the Board of Directors	
+0001432532-09-000010	soleProprietorship	2	Mark J. Mobius	04-JUL-1997	Director			Member of the Board of Directors	
+0001432532-09-000010	soleProprietorship	1	Templeton Asset Management Ltd.	25-JUL-1997	100% ownership			Sole ownership and control	
+0001432532-09-000010	soleProprietorship	4	Basil K. Fox, Jr.	28-SEP-2007	Director			Member of the Board of Directors	
+0001432532-09-000010	soleProprietorship	7	Alok Sethi	28-SEP-2007	Director			Member of the Board of Directors	
+0001432531-09-000007	soleProprietorship	8	Alok Sethi	30-NOV-2004	Director			Member of the Board of Directors	
+0001432531-09-000007	soleProprietorship	7	Vivek Kudva	07-JUL-2006	Director			Member of the Board of Directors	
+0001432531-09-000007	soleProprietorship	6	Jimmy D. Gambill	12-JAN-2004	Director			Member of the Board of Directors	22-JAN-2009
+0001432531-09-000007	soleProprietorship	5	Basil K. Fox, Jr.	12-JAN-2004	Director			Member of the Board of Directors	
+0001432531-09-000007	soleProprietorship	4	Paul Elmlinger	12-OCT-2006	Director			Member of the Board of Directors	
+0001432531-09-000007	soleProprietorship	3	Jennifer J. Bolt	12-JAN-2004	Director			Member of the Board of Directors	
+0001432531-09-000007	soleProprietorship	1	Franklin Templeton Holding Limited	02-JAN-2002	100% ownership			Sole ownership and control	
+0001432531-09-000007	soleProprietorship	2	Vijay C. Advani	02-JAN-2002	Director			Member of the Board of Directors	
+0000772037-09-000010	corporationPartnership	15	Jones, Michael	01-NOV-2007	Director	NA	true		
+0000772037-09-000010	corporationPartnership	14	DeFao, Michael	01-APR-2006	Assistant Secretary	NA	true		
+0000772037-09-000010	corporationPartnership	17	McKinley, Katherine S.	01-APR-2006	Assistant Secretary	NA	true		
+0000772037-09-000010	corporationPartnership	18	Moon, Leslie	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000010	corporationPartnership	19	Mroz, Gregory S.	01-APR-2006	Senior Vice President	NA	true		
+0000772037-09-000010	corporationPartnership	23	Smith, Connie B.	01-APR-2006	Assistant Secretary	NA	true		
+0000772037-09-000010	corporationPartnership	20	Nutter, Teddy R.	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000010	corporationPartnership	21	Pryor, Elizabeth A.	30-APR-2005	Secretary	NA	true		
+0000772037-09-000010	corporationPartnership	22	Schroeder, Luke F.	01-FEB-2007	Vice President	NA	true		
+0000772037-09-000010	corporationPartnership	24	Smith, Robin G.	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000010	corporationPartnership	25	Tai, Nina	27-JUL-2007	Assistant Secretary	NA	true		
+0000772037-09-000010	corporationPartnership	26	Varma, Atul	27-JUL-2007	Chief Financial Officer	NA	true		
+0000772037-09-000010	corporationPartnership	27	Welsh, Stephen T.	16-JUL-2004	President and Director	NA	true		
+0000772037-09-000010	corporationPartnership	28	Wiley, Christie	30-JUN-2004	Controller, Treasurer and SVP	NA	true		
+0000772037-09-000010	corporationPartnership	29	Weidner, Donna	30-JUN-2005	Assistant Treasuer	NA	true		15-MAY-2008
+0000772037-09-000010	corporationPartnership	3	BAC North America Holding Corporation	01-MAY-2007	Indirect Owner	E	true		
+0000772037-09-000010	corporationPartnership	1	Bank of America Corporation	01-APR-2004	Indirect Owner	E	true		
+0000772037-09-000010	corporationPartnership	2	NB Holdings Corporation	01-OCT-2007	Indirect Owner	E	true		
+0000772037-09-000010	corporationPartnership	4	LaSalle Bank Corporation	17-OCT-2008	Indirect Owner	E	true		
+0000772037-09-000010	corporationPartnership	5	Bank of America National Association	01-JUN-2005	Indirect Owner	NA	true		
+0000772037-09-000010	corporationPartnership	6	Columbia Management Group	01-APR-2003	Direct Owner	E	true		
+0000772037-09-000010	corporationPartnership	7	Barnes, Maria S.	27-JUL-2007	Assistant Secretary	NA	true		
+0000772037-09-000010	corporationPartnership	8	Barry, Peter J.	15-MAY-2008	Assistant Treasurer	NA	true		
+0000772037-09-000010	corporationPartnership	9	Beck, Janice L.	01-FEB-2007	Vice President	NA	true		
+0000772037-09-000010	corporationPartnership	10	Bednarz, Allen F.	27-JUL-2007	Assistant Treasurer	NA	true		
+0000772037-09-000010	corporationPartnership	11	Brantley, Thomas M.	30-APR-2005	Senior Vice President	NA	true		
+0000772037-09-000010	corporationPartnership	12	Coughlin, Kerri	01-FEB-2007	Vice President	NA	true		
+0000772037-09-000010	corporationPartnership	13	Davis, Walter Keith	30-APR-2005	Senior Vice President	NA	true		
+0000772037-09-000010	corporationPartnership	16	Kane, Joanne M.	01-FEB-2007	Senior Vice President	NA	true		
+0001078782-09-001094	corporationPartnership	1	CARLOS ESPINOSA	13-APR-2009	PRESIDENT/TREASURER/SECRETARY/DIRECTOR	E	true		
+0000944496-09-000008	soleProprietorship	1	Gretchen Marie Mohen	30-MAR-2005	President and Chief Executive Officer			NA	24-FEB-2009
+0000944496-09-000008	soleProprietorship	20	Peter James Duggan	01-JUL-2009	Managing Director			NA	
+0000944496-09-000008	soleProprietorship	3	David Leigh Becker	08-AUG-2005	Chief Compliance Officer			NA	
+0000944496-09-000008	soleProprietorship	4	Robert Michael Carney, Sr.	28-APR-1980	Managing Director			NA	
+0000944496-09-000008	soleProprietorship	5	Declan Peter Thomas Denehan	07-NOV-1991	Managing Director			NA	31-DEC-2008
+0000944496-09-000008	soleProprietorship	6	Stephen Joseph Dolmatch	14-AUG-1995	Senior Managing Counsel			NA	30-JAN-2009
+0000944496-09-000008	soleProprietorship	7	Barton Hill	07-APR-2003	Managing Director			NA	01-JUL-2007
+0000944496-09-000008	soleProprietorship	8	John Barry Power	29-SEP-2005	Chief Administrative Officer			NA	04-JUL-2007
+0000944496-09-000008	soleProprietorship	9	John Thomas Scagnelli	11-OCT-1999	SVP, Client Relationship			NA	04-JUL-2007
+0000944496-09-000008	soleProprietorship	10	Kevin Michael Brennan	01-JUL-2007	Managing Director			NA	
+0000944496-09-000008	soleProprietorship	11	Kyle Cochran Kerbawy	01-JUL-2007	Managing Director			NA	19-DEC-2008
+0000944496-09-000008	soleProprietorship	12	Mario Passudetti	01-JUL-2007	Managing Director			NA	16-JUL-2008
+0000944496-09-000008	soleProprietorship	13	Jeffrey Edward Cohen	01-JUL-2007	Managing Director			NA	
+0000944496-09-000008	soleProprietorship	14	Peter Anthony Ward	01-JUL-2007	Managing Director			NA	
+0000944496-09-000008	soleProprietorship	15	Marc Lawrence Librizzi	01-JUL-2007	Managing Director			NA	
+0000944496-09-000008	soleProprietorship	16	Frank Anthony Madonna	14-JUN-1999	Managing Director			NA	
+0000944496-09-000008	soleProprietorship	17	William Anthony Harris	10-FEB-1999	Senior Counsel			NA	
+0000944496-09-000008	soleProprietorship	18	Samir Mohan Pandiri	24-FEB-2009	Chief Executive Officer			NA	
+0000944496-09-000008	soleProprietorship	19	Elizabeth DaSilva	01-JUL-2009	Managing Director			NA	
+0000944496-09-000008	soleProprietorship	2	James Matthew Balsan	03-APR-1989	Managing Director			NA	01-JUL-2007
+0000027048-09-000010	corporationPartnership	1	Thomas A. McDonnell	01-FEB-1969	CEO	NA	true		
+0000027048-09-000010	corporationPartnership	22	Breeden Capital Management, LLC	17-FEB-2009	5% Owner	A	false		
+0000027048-09-000010	corporationPartnership	3	A. Edward Allinson	01-JAN-1977	Director	NA	true		
+0000027048-09-000010	corporationPartnership	4	Thomas A McCullough	01-APR-1987	Executive Vice President	NA	true		
+0000027048-09-000010	corporationPartnership	5	Kenneth V. Hager	01-APR-1988	Vice President/CFO/Treasurer	NA	true		
+0000027048-09-000010	corporationPartnership	6	Michael G. Fitt	01-SEP-1995	Director	NA	true		
+0000027048-09-000010	corporationPartnership	7	Jeannine M. Strandjord	01-JAN-1996	Director	NA	true		
+0000027048-09-000010	corporationPartnership	8	William C. Nelson	01-JAN-1996	Director	NA	true		
+0000027048-09-000010	corporationPartnership	2	Jules Moskowitz	01-APR-1986	Vice President/Counsel	NA	false		
+0000027048-09-000010	corporationPartnership	21	Stephen C Hooley	30-JUN-2009	President/COO	NA	true		
+0000027048-09-000010	corporationPartnership	20	Robert T. Jackson	17-JUL-2007	Director	NA	true		
+0000027048-09-000010	corporationPartnership	19	OZ Management LP	25-JUN-2007	0% Owner	NA	false		03-FEB-2009
+0000027048-09-000010	corporationPartnership	18	Wellington Management Company, LLP	01-FEB-2007	3.85 % Owner	NA	false		17-FEB-2009
+0000027048-09-000010	corporationPartnership	17	Iridian Asset Management, LLC	01-FEB-2007	8.4% Owner	A	false		
+0000027048-09-000010	corporationPartnership	16	T. Rowe Price	01-FEB-2006	8% Owner	A	false		
+0000027048-09-000010	corporationPartnership	15	Marshall & Ilsley Corp	01-DEC-2005	6.1% Owner	A	false		
+0000027048-09-000010	corporationPartnership	14	Massachusetts Financial Services Company	01-FEB-2005	2.4% Owner	NA	false		07-FEB-2007
+0000027048-09-000010	corporationPartnership	13	Travis E Reed	01-JUL-2002	Director	NA	true		
+0000027048-09-000010	corporationPartnership	12	Randall D. Young	01-JUL-2002	Vice Presient/GC/Sec/CLO	NA	false		
+0000027048-09-000010	corporationPartnership	11	Robert L. Tritt	01-AUG-1995	Executive Vice President	NA	true		
+0000027048-09-000010	corporationPartnership	10	Jonathan J. Boehm	01-MAR-1998	Group Vice President	NA	false		01-JUL-2009
+0000027048-09-000010	corporationPartnership	9	George L. Argyros	01-DEC-1998	Director/Owner	B	true		
+0000842657-09-000017	corporationPartnership	15	Deutsche Capital Stock Corporation	01-JAN-1996	50% owner of DCPC	D	true		
+0000842657-09-000017	corporationPartnership	1	Barbara Wizer	03-JAN-2005	Director and President	NA	true		
+0000842657-09-000017	corporationPartnership	14	Deutsche Bank Americas Holding Corporation (DBAHC)	01-APR-2002	100% owner of DIMA	E	true		
+0000842657-09-000017	corporationPartnership	13	Taunus Corporation	01-APR-2002	100% owner of DB Americas Holding Corp.	E	true		
+0000842657-09-000017	corporationPartnership	12	Deutsche Bank AG	01-APR-2002	100% owner of Taunus Corporation	E	true		
+0000842657-09-000017	corporationPartnership	11	Deutsche Capital Planning Corporation (DCPC)	06-FEB-1998	50% owner of Registrant	D	true		
+0000842657-09-000017	corporationPartnership	10	Deutsche Investment Management Americas Inc. (DIMA)	06-FEB-1998	50% owner of Registrant	D	true		
+0000842657-09-000017	corporationPartnership	9	Anjie Larocca	11-JUL-2006	Assistant Secretary	NA	true		
+0000842657-09-000017	corporationPartnership	8	Christopher Jackson	08-DEC-2006	Secretary	NA	true		
+0000842657-09-000017	corporationPartnership	7	Fred Ill	13-MAR-2007	Vice President	NA	true		
+0000842657-09-000017	corporationPartnership	6	Oliver Poncet	01-MAR-2007	Vice President	NA	true		
+0000842657-09-000017	corporationPartnership	5	Michael Interrante	17-MAY-2005	Chief Financial Officer and Treasurer	NA	true		
+0000842657-09-000017	corporationPartnership	4	Michael Sharkey	13-MAR-2007	Vice President	NA	true		
+0000842657-09-000017	corporationPartnership	3	Kristine Lyons	22-SEP-2005	Director and Vice President	NA	true		
+0000842657-09-000017	corporationPartnership	2	Leah Mizer	10-OCT-2006	Director and Vice President	NA	true		
+0000842657-09-000017	corporationPartnership	16	Michael Donohue	02-AUG-2007	Vice President	NA	true		
+0001105607-09-000139	corporationPartnership	4	Daniel Charles Schulte	01-JAN-2000	Senior Vice President, General Counsel	NA	true		
+0001105607-09-000139	corporationPartnership	1	Henry John Herrmann	01-FEB-2002	Director	NA	true		
+0001105607-09-000139	corporationPartnership	2	Brent Kyle Bloss	01-FEB-2004	Treasurer	NA	true		
+0001105607-09-000139	corporationPartnership	3	Wendy Jacqueline Hills	01-FEB-2004	Secretary	NA	false		
+0001105607-09-000139	corporationPartnership	10	Waddell & Reed Financial, Inc.	01-JUL-1987	Beneficial Owner	E	true		
+0001105607-09-000139	corporationPartnership	6	Michael Durwood Strohm	01-JAN-1997	Chm. of the Board, President, Director	NA	true		
+0001105607-09-000139	corporationPartnership	7	Daniel Paul Connealy	16-MAY-2007	Director	NA	true		
+0001105607-09-000139	corporationPartnership	8	Waddell & Reed, Inc.	01-DEC-1981	Director Owner	E	true		
+0001105607-09-000139	corporationPartnership	9	Waddell & Reed Financial Services, Inc.	01-MAY-1993	Beneficial Owner	E	true		
+0001105607-09-000139	corporationPartnership	5	Richard Stanley Starks II	01-JAN-1997	Senior Vice President, Director	NA	true		
+0000772037-09-000009	corporationPartnership	14	DeFao, Michael	01-APR-2006	Assistant Secretary	NA	true		
+0000772037-09-000009	corporationPartnership	28	Wiley, Christie	30-JUN-2004	Controller, Treasurer and SVP	NA	true		
+0000772037-09-000009	corporationPartnership	1	Bank of America Corporation	01-APR-2004	Indirect Owner	E	true		
+0000772037-09-000009	corporationPartnership	2	NB Holdings Corporation	01-OCT-2007	Indirect Owner	E	true		
+0000772037-09-000009	corporationPartnership	3	BAC North America Holding Corporation	01-MAY-2007	Indirect Owner	E	true		
+0000772037-09-000009	corporationPartnership	4	LaSalle Bank Corporation	17-OCT-2008	Indirect Owner	E	true		
+0000772037-09-000009	corporationPartnership	5	Bank of America National Association	01-JUN-2005	Indirect Owner	NA	true		
+0000772037-09-000009	corporationPartnership	6	Columbia Management Group	01-APR-2003	Direct Owner	E	true		
+0000772037-09-000009	corporationPartnership	7	Barnes, Maria S.	27-JUL-2007	Assistant Secretary	NA	true		
+0000772037-09-000009	corporationPartnership	8	Barry, Peter J.	15-MAY-2008	Assistant Treasurer	NA	true		
+0000772037-09-000009	corporationPartnership	9	Beck, Janice L.	01-FEB-2007	Vice President	NA	true		
+0000772037-09-000009	corporationPartnership	10	Bednarz, Allen F.	27-JUL-2007	Assistant Treasurer	NA	true		
+0000772037-09-000009	corporationPartnership	11	Brantley, Thomas M.	30-APR-2005	Senior Vice President	NA	true		
+0000772037-09-000009	corporationPartnership	12	Coughlin, Kerri	01-FEB-2007	Vice President	NA	true		
+0000772037-09-000009	corporationPartnership	13	Davis, Walter Keith	30-APR-2005	Senior Vice President	NA	true		
+0000772037-09-000009	corporationPartnership	29	Weidner, Donna	30-JUN-2005	Assistant Treasuer	NA	true		15-MAY-2008
+0000772037-09-000009	corporationPartnership	15	Jones, Michael	01-NOV-2007	Director	NA	true		
+0000772037-09-000009	corporationPartnership	16	Kane, Joanne M.	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000009	corporationPartnership	20	Nutter, Teddy R.	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000009	corporationPartnership	17	McKinley, Katherine S.	01-APR-2006	Assistant Secretary	NA	true		
+0000772037-09-000009	corporationPartnership	18	Moon, Leslie	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000009	corporationPartnership	19	Mroz, Gregory S.	01-APR-2006	Senior Vice President	NA	true		
+0000772037-09-000009	corporationPartnership	21	Pryor, Elizabeth A.	30-APR-2005	Secretary	NA	true		
+0000772037-09-000009	corporationPartnership	22	Schroeder, Luke F.	01-FEB-2007	Vice President	NA	true		
+0000772037-09-000009	corporationPartnership	23	Smith, Connie B.	01-APR-2006	Assistant Secretary	NA	true		
+0000772037-09-000009	corporationPartnership	24	Smith, Robin G.	01-FEB-2007	Senior Vice President	NA	true		
+0000772037-09-000009	corporationPartnership	25	Tai, Nina	27-JUL-2007	Assistant Secretary	NA	true		
+0000772037-09-000009	corporationPartnership	26	Varma, Atul	27-JUL-2007	Chief Financial Officer	NA	true		
+0000772037-09-000009	corporationPartnership	27	Welsh, Stephen T.	16-JUL-2004	President and Director	NA	true		
+0001466955-09-000005	corporationPartnership	2	Blake Schneider	12-JUN-2009	Chief Financial Officer	NA	true		
+0001466955-09-000005	corporationPartnership	1	LOYAL3 Holdings, Inc.	12-JUN-2009	Owner	E	true		
+0000950123-09-024769	corporationPartnership	1	Philip Alexander Taylor	01-AUG-2000	Director	NA	true		
+0000950123-09-024769	corporationPartnership	21	John Maniatis	26-MAY-2009	Sr. VP, Marketing Communications	NA	true		
+0000950123-09-024769	corporationPartnership	3	Pietro (Peter) Intraligi	01-JUN-2004	Director	NA	true		
+0000950123-09-024769	corporationPartnership	4	Wayne John Bolton	16-MAY-2005	Chief Compliance Officer & VP,Compliance	NA	true		
+0000950123-09-024769	corporationPartnership	5	Invesco Canada Holdings Inc.	01-AUG-2000	Sole Voting Shareholder	E	true		
+0000950123-09-024769	corporationPartnership	6	Philip Alexander Taylor	08-JAN-2002	Chief Executive Officer	NA	true		
+0000950123-09-024769	corporationPartnership	7	Pietro (Peter) Intraligi	21-SEP-2007	Chief Operating Officer	NA	true		
+0000950123-09-024769	corporationPartnership	8	Graham Stewart Anderson	19-NOV-2007	Director	NA	true		
+0000950123-09-024769	corporationPartnership	9	Pietro (Peter) Intraligi	18-MAR-2008	President	NA	true		
+0000950123-09-024769	corporationPartnership	10	Graham Stewart Anderson	18-MAR-2008	Chief Investment Officer	NA	true		
+0000950123-09-024769	corporationPartnership	11	Annie Ping-Ting Chong-Chew	20-JUL-2007	Senior VP, Global Investments Data Mgmt	NA	true		
+0000950123-09-024769	corporationPartnership	12	Harsh Damani	20-JUL-2007	Senior Vice President, Finance	NA	true		
+0000950123-09-024769	corporationPartnership	13	Bruce Erwin Winch	24-JAN-2008	Sr. VP, Pension & Alliance Distribution	NA	true		
+0000950123-09-024769	corporationPartnership	14	Scott Robert McLean	24-JAN-2008	Senior Vice President, Retail Sales	NA	true		
+0000950123-09-024769	corporationPartnership	15	Theodor Constantin Heldman	29-JUL-2008	Chief Financial Officer, Funds	NA	true		
+0000950123-09-024769	corporationPartnership	16	Theodor Constantin Heldman	29-JUL-2008	Vice President, Fund Accounting	NA	true		
+0000950123-09-024769	corporationPartnership	17	Eric Jeffrey Adelson	08-SEP-2008	Director	NA	true		
+0000950123-09-024769	corporationPartnership	18	Eric Jeffrey Adelson	08-SEP-2008	Senior Vice President, Legal	NA	true		
+0000950123-09-024769	corporationPartnership	19	Eric Jeffrey Adelson	08-SEP-2008	Secretary	NA	true		
+0000950123-09-024769	corporationPartnership	20	John Ciampaglia	26-MAY-2009	Sr. Vice President, Product Development	NA	true		
+0000950123-09-024769	corporationPartnership	2	David Colvin Warren	01-AUG-2000	Director, CFO and Executive VP	NA	true		
+0000005076-09-000004	corporationPartnership	14	Paul F. Roye	11-SEP-2007	Director	NA	true		
+0000005076-09-000004	corporationPartnership	15	Martin Jacobs	11-SEP-2007	Director	NA	true		
+0000005076-09-000004	corporationPartnership	13	J. Steven Duncan	11-SEP-2007	Director	NA	true		
+0000005076-09-000004	corporationPartnership	12	Angela M. Mitchell	01-SEP-2001	Secretary	NA	false		
+0000005076-09-000004	corporationPartnership	11	Catherine M. Ward	01-OCT-1995	Director	NA	true		
+0000005076-09-000004	corporationPartnership	10	Carmelo Spinella	01-SEP-2005	Director	NA	true		
+0000005076-09-000004	corporationPartnership	9	Kenneth R. Gorvetzian	01-SEP-2001	Director & Chairman	NA	true		
+0000005076-09-000004	corporationPartnership	8	Kevin G. Clifford	03-JAN-2007	Director	NA	true		
+0000005076-09-000004	corporationPartnership	7	Cindy M. Omiya	01-SEP-2004	Director, Vice President & Treasurer	NA	true		
+0000005076-09-000004	corporationPartnership	1	Capital Research and Management Company	01-JUL-1985	Stockholder	E	true		
+0000005076-09-000004	corporationPartnership	2	John H. Phelan	03-JAN-2007	Director & President	NA	true		
+0000005076-09-000004	corporationPartnership	3	J. Kelly Webb	01-SEP-2002	Director & Chairman	NA	true		02-JUL-2009
+0000005076-09-000004	corporationPartnership	4	Jeanne R. Askvig	01-SEP-2006	Director & Senior Vice President	NA	true		
+0000005076-09-000004	corporationPartnership	5	Deborah L. Lima	01-SEP-2004	Director & Senior Vice President	NA	true		
+0000005076-09-000004	corporationPartnership	6	Diane S. Sawyer	01-SEP-2006	Director & Senior Vice President	NA	true		
+0001018490-09-000011	corporationPartnership	8	Alec Gurdeep Singh	05-AUG-2008	Director and President	NA	true		
+0001018490-09-000011	corporationPartnership	7	Deutsche Bank AG	04-JUN-1999	Owner of 100% of Taunus	E	false		
+0001018490-09-000011	corporationPartnership	5	Deutsche Bank Trust Corporation ('DBTC')	31-MAR-1990	Owner of 100% of DBHold	E	false		
+0001018490-09-000011	corporationPartnership	4	Deutsche Bank Holdings, Inc. ('DBHold')	12-DEC-1991	Owner of 100% of Registrant	E	false		
+0001018490-09-000011	corporationPartnership	3	Scott Allan Muirhead	05-FEB-2003	Director and President	NA	true		25-JUL-2008
+0001018490-09-000011	corporationPartnership	6	Taunus Corporation ('Taunus')	04-JUN-1999	Owner of 100% of DBTC	E	false		
+0001018490-09-000011	corporationPartnership	2	Michael Seamus Moran	31-AUG-2004	Director	NA	true		
+0001018490-09-000011	corporationPartnership	1	Foy Benton Hester	01-JUL-1999	Director	NA	true		
+0001133702-09-000015	corporationPartnership	1	Fidelity Global Brokerage Group, Inc	01-AUG-2000	parent	E	true		
+0001133702-09-000015	corporationPartnership	2	Robert Adams	01-MAY-2004	Senior Vice President	NA	false		
+0001133702-09-000015	corporationPartnership	3	Thomas Lux	01-SEP-2006	CFO	NA	false		01-JUN-2009
+0001133702-09-000015	corporationPartnership	4	Norman Malo	01-AUG-2000	Director & CEO	NA	true		01-APR-2009
+0001133702-09-000015	corporationPartnership	5	Ellyn McColgan	01-APR-2003	Director	NA	true		15-AUG-2007
+0001133702-09-000015	corporationPartnership	6	Gerard McGraw	01-APR-2003	COO	NA	true		
+0001133702-09-000015	corporationPartnership	14	Paul Guaneri	01-JUN-2009	CFO	NA	false		
+0001133702-09-000015	corporationPartnership	8	Tami Rash	01-JUN-2005	Treasurer & SVP	NA	false		
+0001133702-09-000015	corporationPartnership	9	Karen Saperstein	01-AUG-2003	Secretary & General Counsel	NA	false		14-SEP-2008
+0001133702-09-000015	corporationPartnership	10	Rodger Lawson	04-OCT-2007	Director	NA	true		
+0001133702-09-000015	corporationPartnership	11	Karen Crupi	15-SEP-2008	Secretary & Chief Legal Officer	NA	false		
+0001133702-09-000015	corporationPartnership	12	Charles Goldman	01-APR-2009	Director & CEO	NA	true		
+0001133702-09-000015	corporationPartnership	13	Sanjiv Mirchandani	01-APR-2009	Director & President	NA	true		
+0001133702-09-000015	corporationPartnership	7	Richard OBrien	01-AUG-2002	Chief Compliance Officer & SVP	NA	false		
+0000728889-09-001489	corporationPartnership	8	OppenheimerFunds, Inc.	16-SEP-1987	Parent Company	E	true		
+0000728889-09-001489	corporationPartnership	7	Stacy Roode	13-JAN-2007	Vice President OFI and SSI	NA	true		
+0000728889-09-001489	corporationPartnership	6	Susan Cornwell	15-JAN-2003	SVP OFI and SSI	NA	true		
+0000728889-09-001489	corporationPartnership	5	David Pfeffer	23-FEB-2004	SVP and Chief Financial Officer OFI	NA	true		
+0000728889-09-001489	corporationPartnership	4	Darren Walsh	15-OCT-2007	EVP OFI, President & Director SSI	NA	true		
+0000728889-09-001489	corporationPartnership	3	Kurt Wolfgruber	13-MAR-2007	President OFI	NA	true		30-APR-2009
+0000728889-09-001489	corporationPartnership	2	William Glavin	01-JAN-2009	CEO OFI, President & Director	NA	true		
+0000728889-09-001489	corporationPartnership	1	John Murphy	01-JUL-2001	CEO OFI, Chairman & Director SSI	NA	true		
+0000728889-09-001488	corporationPartnership	1	John Murphy	01-JUL-2001	CEO, OFI, Chairman and Director SFSI	NA	true		
+0000728889-09-001488	corporationPartnership	2	William Glavin	01-JAN-2009	CEO OFI, President & Director	NA	true		
+0000728889-09-001488	corporationPartnership	3	Kurt Wolfgruber	13-MAR-2007	President OFI	NA	true		30-APR-2009
+0000728889-09-001488	corporationPartnership	4	Robert Zack	01-JAN-2004	EVP and GC OFI, SVP, GC & Director SFSI	NA	true		
+0000728889-09-001488	corporationPartnership	9	OppenheimerFunds, Inc.	18-JAN-1989	Parent Company	E	false		
+0000728889-09-001488	corporationPartnership	6	David Pfeffer	23-FEB-2004	SVP and Chief Financial Officer OFI	NA	true		
+0000728889-09-001488	corporationPartnership	7	Susan Cornwell	15-JAN-2003	SVP OFI and SFSI	NA	true		
+0000728889-09-001488	corporationPartnership	8	Stacy Roode	03-JAN-2007	VP OFI and SFSI	NA	true		
+0000728889-09-001488	corporationPartnership	5	Darren Walsh	15-OCT-2007	EVP OFI, President & Director SFSI	NA	true		
+0000728889-09-001487	corporationPartnership	9	Oppenheimer Acquisition Corporation	21-JUN-1990	Parent Company	E	true		
+0000728889-09-001487	corporationPartnership	8	Stacy Roode	13-JAN-2007	Vice President	NA	true		
+0000728889-09-001487	corporationPartnership	7	Susan Cornwell	15-JAN-2003	Senior Vice President	NA	true		
+0000728889-09-001487	corporationPartnership	6	David Pfeffer	23-FEB-2004	Senior VP and Chief Financial Officer	NA	true		
+0000728889-09-001487	corporationPartnership	5	Darren Walsh	15-OCT-2007	Executive Vice President	NA	true		
+0000728889-09-001487	corporationPartnership	4	Robert Zack	01-JAN-2004	Executive VP and General Counsel	NA	true		
+0000728889-09-001487	corporationPartnership	3	Kurt Wolfgruber	13-MAR-2007	President and Director	NA	true		30-APR-2009
+0000728889-09-001487	corporationPartnership	1	John Murphy	01-JUL-2001	Chairman, CEO and Director	NA	true		
+0000728889-09-001487	corporationPartnership	2	William Glavin	01-JAN-2009	CEO OFI, President & Director	NA	true		
+0001170078-09-000004	soleProprietorship	1	Gary D. Black	04-SEP-2007	Executive Vice President			Officer of Company	13-JUL-2009
+0001090198-09-000005	soleProprietorship	1	Allan Dean Engel	01-MAY-1999	President			President	
+0001090198-09-000005	soleProprietorship	19	Allan Dean Engel	01-SEP-2004	Chief Legal Officer			Chief Legal Officer	
+0001090198-09-000005	soleProprietorship	3	Richard Marvin DeVos, Jr.	01-MAY-1999	Indirect Owner			25% Owner G2	
+0001090198-09-000005	soleProprietorship	4	Suzanne Cheryl VanderWeide	01-MAY-1999	Indirect Owner			25% Owner G2	
+0001090198-09-000005	soleProprietorship	5	Daniel George DeVos	01-MAY-1999	Indirect Owner			25% Owner G2	
+0001090198-09-000005	soleProprietorship	6	Douglas Lee DeVos	01-MAY-1999	Indirect Owner			25% Owner G2	
+0001090198-09-000005	soleProprietorship	7	JVA Enterprises Holdings LLC	01-JAN-2003	Indirect Owner			50% Owner Activa Mgt. Svcs. LLC	01-JAN-2009
+0001090198-09-000005	soleProprietorship	8	Jay VanAndel Trust U/A/D 8-28-78	01-NOV-2002	Indirect Owner			99% Owner JVA Enterprises Holdings LLC	
+0001090198-09-000005	soleProprietorship	9	David Lee VanAndel	01-DEC-2004	Trustee			Trustee of Jay VanAndel Trst UAD 8-28-78	
+0001090198-09-000005	soleProprietorship	10	Activa Management Services, LLC	01-AUG-2000	Owner			Sole Member of Applicant	01-JAN-2009
+0001090198-09-000005	soleProprietorship	11	Activa Holdings Corp.	01-AUG-2000	Indirect Owner			Manager for Activa Mgt Svcs. LLC	01-JAN-2009
+0001090198-09-000005	soleProprietorship	12	Julia Dutton Smith	01-MAR-2004	Asst. Secretary and Asst. Treasurer			NASD Principal	
+0001090198-09-000005	soleProprietorship	13	Allan Dean Engel	01-SEP-2004	President			Chief Compliance Officer	
+0001090198-09-000005	soleProprietorship	14	Activa Holdings Corp.	01-JAN-2009	Indirect Owner			Manager for Activa Asset Management LLC	
+0001090198-09-000005	soleProprietorship	15	G2 Capital, LLC (G2)	01-JAN-2009	50% Owner of Activa Asset Management LLC			Member/Manager	
+0001090198-09-000005	soleProprietorship	16	JVA Enterprises Holdings, LLC	01-JAN-2009	50% Owner of Activa Asset Management LLC			Member/Manager	
+0001090198-09-000005	soleProprietorship	20	Allan Dean Engel	01-SEP-2004	Chief Financial Officer			Chief Financial Officer	
+0001090198-09-000005	soleProprietorship	17	Allan  Dean Engel	01-SEP-2004	Chief Executive Officer			Chief Executive Officer	
+0001090198-09-000005	soleProprietorship	18	Allan Dean Engel	01-SEP-2004	Chief Operations Officer			Chief Operations Officer	
+0001090198-09-000005	soleProprietorship	2	G2 Capital, LLC (G2)	01-MAY-1999	Indirect Owner			50% Owner Activa Mgt. Svcs. LLC	01-JAN-2009
+0001133702-09-000013	corporationPartnership	1	Fidelity Global Brokerage Group, Inc	01-AUG-2000	parent	E	true		
+0001133702-09-000013	corporationPartnership	2	Robert Adams	01-MAY-2004	Senior Vice President	NA	false		
+0001133702-09-000013	corporationPartnership	3	Thomas Lux	01-SEP-2006	CFO	NA	false		01-JUN-2009
+0001133702-09-000013	corporationPartnership	4	Norman Malo	01-AUG-2000	Director & CEO	NA	true		01-APR-2009
+0001133702-09-000013	corporationPartnership	5	Ellyn McColgan	01-APR-2003	Director	NA	true		15-AUG-2007
+0001133702-09-000013	corporationPartnership	6	Gerard McGraw	01-APR-2003	COO	NA	true		
+0001133702-09-000013	corporationPartnership	14	Paul Guaneri	01-JUN-2009	CFO	NA	false		
+0001133702-09-000013	corporationPartnership	8	Tami Rash	01-JUN-2005	Treasurer & SVP	NA	false		
+0001133702-09-000013	corporationPartnership	9	Karen Saperstein	01-AUG-2003	Secretary & General Counsel	NA	false		14-SEP-2008
+0001133702-09-000013	corporationPartnership	10	Rodger Lawson	04-OCT-2007	Director	NA	true		
+0001133702-09-000013	corporationPartnership	11	Karen M. Crupi	15-SEP-2008	Secretary & Chief Legal Officer	NA	false		
+0001133702-09-000013	corporationPartnership	12	Charles G. Goldman	01-APR-2009	Director & CEO	NA	true		
+0001133702-09-000013	corporationPartnership	13	Sanjiv Mirchandani	01-APR-2009	Director & President	NA	true		
+0001133702-09-000013	corporationPartnership	7	Rich OBrien	01-AUG-2002	Chief Compliance Officer & SVP	NA	false		
+0001419454-09-000009	corporationPartnership	1	FID Holdings (Mauritius) Limited	08-OCT-2004	Shareholder	E	true		
+0001419454-09-000009	corporationPartnership	2	Fidelity India Shared Services Partnership	26-OCT-2004	Shareholder	NA	false		
+0001419454-09-000009	corporationPartnership	3	FIL Limited	29-MAR-2007	Shareholder	B	false		24-MAR-2009
+0001419454-09-000009	corporationPartnership	4	Fidelity International Services Limited	29-MAR-2007	Shareholder	NA	false		24-MAR-2009
+0001419454-09-000009	corporationPartnership	5	Surinder Singh	01-DEC-2005	Director (see Attachment 1)	NA	true		31-AUG-2008
+0001419454-09-000009	corporationPartnership	6	Caron McDonald	07-SEP-2006	Director (see Attachment 1)	NA	true		15-DEC-2008
+0001419454-09-000009	corporationPartnership	7	Yash Pal Syngal	14-AUG-2006	Director	NA	true		19-AUG-2008
+0001419454-09-000009	corporationPartnership	8	Richard Siegelman	04-FEB-2008	Transfer Agent CCO (see Attachment 1)	NA	false		
+0001419454-09-000009	corporationPartnership	9	Gurpal Singh	09-SEP-2008	Director	NA	true		19-DEC-2008
+0001419454-09-000009	corporationPartnership	10	Mahesh Muzumdar	01-DEC-2008	Director	NA	true		
+0001419454-09-000009	corporationPartnership	11	Arijit Mukherji	01-DEC-2008	Director	NA	true		
+0001419454-09-000009	corporationPartnership	12	Kevin Smith	16-DEC-2008	Director	NA	true		08-APR-2009
+0001419454-09-000009	corporationPartnership	13	Sunil Kunte	20-MAY-2009	Director	NA	true		
+0000862124-09-000010	corporationPartnership	1	FMR Corp	01-JUL-1978	Shareholder	E	true		30-SEP-2007
+0000862124-09-000010	corporationPartnership	16	Robert Donelan	14-JUN-2007	President	NA	true		
+0000862124-09-000010	corporationPartnership	3	Timothy F. Hayes	28-JUN-2006	President & Director	NA	true		14-JUN-2007
+0000862124-09-000010	corporationPartnership	4	Jeffrey Carney	28-JUN-2006	Executive Vice President	NA	true		14-JUN-2007
+0000862124-09-000010	corporationPartnership	5	Laura B. Cronin	28-JUN-2006	Executive Operating Officer	NA	false		03-OCT-2007
+0000862124-09-000010	corporationPartnership	6	Robert A. Dwight	03-JUL-2003	Executive Operating Officer	NA	true		
+0000862124-09-000010	corporationPartnership	7	Joseph P. LoRusso	03-JUL-2003	Director	NA	true		14-JUN-2007
+0000862124-09-000010	corporationPartnership	8	Stephen E. Tibbetts	01-AUG-1994	Treasurer	NA	false		14-JUN-2007
+0000862124-09-000010	corporationPartnership	9	J. Gregory Wass	28-JUN-2006	Assistant Treasurer	NA	false		
+0000862124-09-000010	corporationPartnership	10	John J. Hitt	28-JUN-2006	Assistant Secretary	NA	false		01-AUG-2008
+0000862124-09-000010	corporationPartnership	17	Raymond Marcinowski	14-JUN-2007	President & Director	NA	true		29-FEB-2008
+0000862124-09-000010	corporationPartnership	18	Barbara March	11-FEB-2008	Executive Operating Officer	NA	true		
+0000862124-09-000010	corporationPartnership	19	Dub Nelson	15-SEP-2008	Executive Operating Officer	NA	true		01-DEC-2008
+0000862124-09-000010	corporationPartnership	20	Christine Reynolds	01-AUG-2008	Executive Operating Officer	NA	true		
+0000862124-09-000010	corporationPartnership	21	Mary Brady	01-AUG-2008	Secretary	NA	false		
+0000862124-09-000010	corporationPartnership	22	Peter D. Stahl	01-AUG-2008	Assistant Secretary	NA	false		
+0000862124-09-000010	corporationPartnership	23	Gerard McGraw	04-SEP-2007	Executive Operating Officer	NA	true		
+0000862124-09-000010	corporationPartnership	24	Marvin Adams	15-SEP-2008	Director	NA	true		
+0000862124-09-000010	corporationPartnership	25	Richard Dobbs	15-SEP-2008	Director	NA	true		
+0000862124-09-000010	corporationPartnership	26	Phillip Guarino	01-DEC-2008	Treasurer	NA	false		
+0000862124-09-000010	corporationPartnership	11	Richard Siegelman	14-JUN-2007	Chief Compliance Officer	NA	false		01-MAY-2009
+0000862124-09-000010	corporationPartnership	12	Anmarie Ciccolo	14-JUN-2007	Chief Compliance Officer	NA	false		
+0000862124-09-000010	corporationPartnership	13	Joseph Hollis	14-JUN-2007	Executive Operating Officer	NA	true		01-AUG-2008
+0000862124-09-000010	corporationPartnership	14	Terence Sanz	14-JUN-2007	Treasurer	NA	false		01-DEC-2008
+0000862124-09-000010	corporationPartnership	15	FMR LLC	01-OCT-2007	Shareholder	E	true		
+0000862124-09-000010	corporationPartnership	2	Susan Sturdy	28-JUN-2006	Secretary	NA	false		01-AUG-2008
+0001458682-09-000002	soleProprietorship	1	Juan Carlos Osorio	06-MAR-2009	Managing Member			Owner, Certificate Signer	
+0001458682-09-000002	soleProprietorship	4	Mediha Kolar	15-JUN-2009	Operations Associate			Certificate Signer	
+0001458682-09-000002	soleProprietorship	3	Kyla D. Kennedy	01-JUN-2009	Operations Coordinator			Certificate Signer	
+0001458682-09-000002	soleProprietorship	2	Kara A. Kennedy	01-JUN-2009	Managing Member/Executive Director			Owner, Certificate Signer	
+0001323210-09-000003	corporationPartnership	1	Tannya Irizarry	29-NOV-1999	Managing Director	B	true		
+0001419454-09-000007	corporationPartnership	8	Richard Siegelman	04-FEB-2008	Transfer Agent CCO (see Attachment 1)	NA	false		
+0001419454-09-000007	corporationPartnership	7	Yash Pal Syngal	14-AUG-2006	Director	NA	true		19-AUG-2008
+0001419454-09-000007	corporationPartnership	6	Caron McDonald	07-SEP-2006	Director (see Attachment 1)	NA	true		15-DEC-2008
+0001419454-09-000007	corporationPartnership	4	Fidelity International Services Limited	29-MAR-2007	Shareholder	NA	false		24-MAR-2009
+0001419454-09-000007	corporationPartnership	3	FIL Limited	29-MAR-2007	Shareholder	B	false		24-MAR-2009
+0001419454-09-000007	corporationPartnership	10	Mahesh Muzumdar	01-DEC-2008	Director	NA	true		
+0001419454-09-000007	corporationPartnership	1	FID Holdings (Mauritius) Limited	08-OCT-2004	Shareholder	E	true		
+0001419454-09-000007	corporationPartnership	5	Surinder Singh	01-DEC-2005	Director (see Attachment 1)	NA	true		31-AUG-2008
+0001419454-09-000007	corporationPartnership	13	Sunil Kunte	20-MAY-2009	Director	NA	true		
+0001419454-09-000007	corporationPartnership	12	Kevin Smith	16-DEC-2008	Director	NA	true		08-APR-2009
+0001419454-09-000007	corporationPartnership	11	Arijit Mukherji	01-DEC-2008	Director	NA	true		
+0001419454-09-000007	corporationPartnership	9	Gurpal Singh	09-SEP-2008	Director	NA	true		19-DEC-2008
+0001419454-09-000007	corporationPartnership	2	Fidelity India Shared Services Partnership	26-OCT-2004	Shareholder	NA	false		
+0000862124-09-000008	corporationPartnership	25	Richard Dobbs	15-SEP-2008	Director	NA	true		
+0000862124-09-000008	corporationPartnership	26	Phillip Guarino	01-DEC-2008	Treasurer	NA	false		
+0000862124-09-000008	corporationPartnership	17	Raymond Marcinowski	14-JUN-2007	President & Director	NA	true		29-FEB-2008
+0000862124-09-000008	corporationPartnership	18	Barbara March	11-FEB-2008	Executive Operating Officer	NA	true		
+0000862124-09-000008	corporationPartnership	19	Dub Nelson	15-SEP-2008	Executive Operating Officer	NA	true		01-DEC-2008
+0000862124-09-000008	corporationPartnership	20	Christine Reynolds	01-AUG-2008	Executive Operating Officer	NA	true		
+0000862124-09-000008	corporationPartnership	21	Mary Brady	01-AUG-2008	Secretary	NA	false		
+0000862124-09-000008	corporationPartnership	22	Peter D. Stahl	01-AUG-2008	Assistant Secretary	NA	false		
+0000862124-09-000008	corporationPartnership	23	Gerard McGraw	04-SEP-2007	Executive Operating Officer	NA	true		
+0000862124-09-000008	corporationPartnership	1	FMR Corp	01-JUL-1978	Shareholder	E	true		30-SEP-2007
+0000862124-09-000008	corporationPartnership	2	Susan Sturdy	28-JUN-2006	Secretary	NA	false		01-AUG-2008
+0000862124-09-000008	corporationPartnership	24	Marvin Adams	15-SEP-2008	Director	NA	true		
+0000862124-09-000008	corporationPartnership	4	Jeffrey Carney	28-JUN-2006	Executive Vice President	NA	true		14-JUN-2007
+0000862124-09-000008	corporationPartnership	5	Laura B. Cronin	28-JUN-2006	Executive Operating Officer	NA	false		03-OCT-2007
+0000862124-09-000008	corporationPartnership	6	Robert A. Dwight	03-JUL-2003	Executive Operating Officer	NA	true		
+0000862124-09-000008	corporationPartnership	7	Joseph P. LoRusso	03-JUL-2003	Director	NA	true		14-JUN-2007
+0000862124-09-000008	corporationPartnership	8	Stephen E. Tibbetts	01-AUG-1994	Treasurer	NA	false		14-JUN-2007
+0000862124-09-000008	corporationPartnership	9	J. Gregory Wass	28-JUN-2006	Assistant Treasurer	NA	false		
+0000862124-09-000008	corporationPartnership	10	John J. Hitt	28-JUN-2006	Assistant Secretary	NA	false		01-AUG-2008
+0000862124-09-000008	corporationPartnership	11	Richard Siegelman	14-JUN-2007	Chief Compliance Officer	NA	false		01-MAY-2009
+0000862124-09-000008	corporationPartnership	12	Anmarie Ciccolo	14-JUN-2007	Chief Compliance Officer	NA	false		
+0000862124-09-000008	corporationPartnership	13	Joseph Hollis	14-JUN-2007	Executive Operating Officer	NA	true		01-AUG-2008
+0000862124-09-000008	corporationPartnership	14	Terence Sanz	14-JUN-2007	Treasurer	NA	false		01-DEC-2008
+0000862124-09-000008	corporationPartnership	3	Timothy F. Hayes	28-JUN-2006	President & Director	NA	true		14-JUN-2007
+0000862124-09-000008	corporationPartnership	16	Robert Donelan	14-JUN-2007	President	NA	true		
+0000862124-09-000008	corporationPartnership	15	FMR LLC	01-OCT-2007	Shareholder	E	true		
+0001133702-09-000011	corporationPartnership	14	Paul Guaneri	01-JUN-2009	CFO	NA	false		
+0001133702-09-000011	corporationPartnership	13	Sanjiv Mirchandani	01-APR-2009	Director & President	NA	true		
+0001133702-09-000011	corporationPartnership	12	Charles G. Goldman	01-APR-2009	Director & CEO	NA	true		
+0001133702-09-000011	corporationPartnership	11	Karen M. Crupi	15-SEP-2008	Secretary & Chief Legal Officer	NA	false		
+0001133702-09-000011	corporationPartnership	10	Rodger Lawson	04-OCT-2007	Director	NA	true		
+0001133702-09-000011	corporationPartnership	9	Karen Saperstein	01-AUG-2003	Secretary & General Counsel	NA	false		14-SEP-2008
+0001133702-09-000011	corporationPartnership	8	Tami Rash	01-JUN-2005	Treasurer & SVP	NA	false		
+0001133702-09-000011	corporationPartnership	7	Rich OBrien	01-AUG-2002	Chief Compliance Officer & SVP	NA	false		
+0001133702-09-000011	corporationPartnership	6	Gerard McGraw	01-APR-2003	COO	NA	true		
+0001133702-09-000011	corporationPartnership	5	Ellyn McColgan	01-APR-2003	Director	NA	true		15-AUG-2007
+0001133702-09-000011	corporationPartnership	4	Norman Malo	01-AUG-2000	Director & CEO	NA	true		01-APR-2009
+0001133702-09-000011	corporationPartnership	3	Thomas Lux	01-SEP-2006	CFO	NA	false		01-JUN-2009
+0001133702-09-000011	corporationPartnership	1	Fidelity Global Brokerage Group, Inc	01-AUG-2000	parent	E	true		
+0001133702-09-000011	corporationPartnership	2	Robert Adams	01-MAY-2004	Senior Vice President	NA	false		
+0001174540-09-000006	soleProprietorship	1	Halliburton, Derek	01-MAY-2007	CFO			N/A	
+0001174540-09-000006	soleProprietorship	2	Medina, Nicolas Ettore	01-MAY-2005	Chief Compliance Officer			N/A	
+0001174540-09-000006	soleProprietorship	3	Pruitt, Nancy Vineyard	01-MAY-2005	Treasurer			N/A	
+0001174540-09-000006	soleProprietorship	4	ACS Human Resources Solutions, Inc.	01-MAY-2005	Owner			100% Owner	
+0001174540-09-000006	soleProprietorship	5	Panos, Tas	30-JAN-2008	Secretary			N/A	
+0001174540-09-000006	soleProprietorship	6	Vezina, Ann Francis	29-DEC-2008	President			N/A	
+0001174540-09-000006	soleProprietorship	7	Khan, Rohail Ahmed	29-DEC-2008	Senior Vice President			N/A	
+0001169743-09-000047	corporationPartnership	2	Connie Shannon	07-MAY-2009	Secretary	NA	true		
+0001169743-09-000047	corporationPartnership	1	Jeffrey Don Clark	07-MAY-2009	CEO	NA	true		
+0001104659-09-041730	corporationPartnership	7	Catherine Crowley	10-SEP-2007	General Counsel, SVP, Secretary	NA	false		22-MAY-2009
+0001104659-09-041730	corporationPartnership	6	Edmund Bergan	31-MAY-2006	General Counsel, SVP, Secretary	NA	false		01-JUN-2007
+0001104659-09-041730	corporationPartnership	5	Patrick Joseph Farrell	06-FEB-2006	Chief Financial Officer	NA	false		
+0001104659-09-041730	corporationPartnership	4	Christina Maria Massaro	24-JAN-2005	Chief Compliance Officer	NA	false		
+0001104659-09-041730	corporationPartnership	3	Arthur Thomas Bent III	01-JUL-1997	President, Assistant Treasurer	C	true		
+0001104659-09-041730	corporationPartnership	2	Bruce Roger Bent II	01-AUG-1990	SVP, Secretary, Assistant Treasurer	C	true		
+0001104659-09-041730	corporationPartnership	1	Bruce Roger Bent	01-SEP-1981	Chairman, Chief Executive Officer	C	true		
+0001104659-09-041730	corporationPartnership	8	Catherine Birch	23-JUN-2009	Secretary	NA	false		
+0001104659-09-041728	soleProprietorship	4	Edwin Ehlert	01-JAN-2005	Trustee			May own shares of one or more portfolios	
+0001104659-09-041728	soleProprietorship	15	Catherine Crowley	10-SEP-2007	Secretary			May own shares of one or more portfolios	22-MAY-2009
+0001104659-09-041728	soleProprietorship	14	Edmund Bergan	31-MAY-2006	General Counsel, SVP, Secretary			May own shares of one or more portfolios	01-JUN-2007
+0001104659-09-041728	soleProprietorship	13	Frank Stalzer	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041728	soleProprietorship	12	Stephen Zieniewicz	17-APR-2007	Trustee			May own shares of one or more portfolios	14-JAN-2009
+0001104659-09-041728	soleProprietorship	11	Santa Albicocco	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041728	soleProprietorship	10	Ronald Artinian	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041728	soleProprietorship	9	William Viklund	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041728	soleProprietorship	8	Patrick Joseph Farrell	06-FEB-2006	Chief Financial Officer			May own shares of one or more portfolios	02-FEB-2009
+0001104659-09-041728	soleProprietorship	7	Christina Maria Massaro	24-JAN-2005	Chief Compliance Officer			May own shares of one or more portfolios	
+0001104659-09-041728	soleProprietorship	6	Joseph Donnelly	01-JAN-2005	Trustee			May own shares of one or more portfolios	12-JUN-2008
+0001104659-09-041728	soleProprietorship	5	William Montgoris	01-JAN-2005	Trustee			May own shares of one or more portfolios	27-FEB-2009
+0001104659-09-041728	soleProprietorship	3	Arthur Thomas Bent III	01-JAN-2005	Co-CEO, SVP, Asst Treasurer			May own shares of one or more portfolios	
+0001104659-09-041728	soleProprietorship	2	Bruce Roger Bent II	01-JAN-2005	Co-CEO, SVP, Asst Treasurer			May own shares of one or more portfolios	
+0001104659-09-041728	soleProprietorship	1	Bruce Roger Bent	01-JAN-2005	Chairman, Pres, Treas, Prin Fin Officer			May own shares of one or more portfolios	
+0001104659-09-041727	soleProprietorship	1	Bruce Roger Bent	01-JAN-2005	Chairman, Pres, Treas, Prin Fin Officer			May own shares of one or more portfolios	
+0001104659-09-041727	soleProprietorship	9	Joseph Donnelly	17-APR-2007	Trustee			May own shares of one or more portfolios	12-JUN-2008
+0001104659-09-041727	soleProprietorship	3	Arthur Thomas Bent III	01-JAN-2005	Co-CEO, SVP, Asst Treasurer			May own shares of one or more portfolios	
+0001104659-09-041727	soleProprietorship	4	Edwin Ehlert	01-JAN-2005	Trustee			May own shares of one or more portfolios	
+0001104659-09-041727	soleProprietorship	8	William Viklund	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041727	soleProprietorship	5	William Montgoris	01-JAN-2005	Trustee			May own shares of one or more portfolios	27-FEB-2009
+0001104659-09-041727	soleProprietorship	6	Christina Maria Massaro	24-JAN-2005	Chief Compliance Officer			May own shares of one or more portfolios	
+0001104659-09-041727	soleProprietorship	7	Patrick Joseph Farrell	06-FEB-2006	Chief Financial Officer			May own shares of one or more portfolios	02-FEB-2009
+0001104659-09-041727	soleProprietorship	15	Catherine Crowley	10-SEP-2007	Secretary			May own shares of one or more portfolios	22-MAY-2009
+0001104659-09-041727	soleProprietorship	14	Edmund Bergan	31-MAY-2006	General Counsel, SVP, Secretary			May own shares of one or more portfolios	01-JUN-2007
+0001104659-09-041727	soleProprietorship	13	Stephen Zieniewicz	17-APR-2007	Trustee			May own shares of one or more portfolios	14-JAN-2009
+0001104659-09-041727	soleProprietorship	12	Santa Albicocco	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041727	soleProprietorship	11	Ronald Artinian	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041727	soleProprietorship	10	Frank Stalzer	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041727	soleProprietorship	2	Bruce Roger Bent II	01-JAN-2005	Co-CEO, SVP, Asst Treasurer			May own shares of one or more portfolios	
+0001104659-09-041726	soleProprietorship	1	Bruce Roger Bent	01-JAN-2005	Chairman, Pres, Treas, Prin Fin Officer			May own shares of one or more portfolio	
+0001104659-09-041726	soleProprietorship	2	Bruce Roger Bent II	01-JAN-2005	Co-CEO, SVP, Asst Treasurer			May own shares of one or more portfolio	
+0001104659-09-041726	soleProprietorship	3	Arthur Thomas Bent III	01-JAN-2005	Co-/CEO, SVP, Asst Treasurer			May own shares of one or more portfolio	
+0001104659-09-041726	soleProprietorship	4	Edwin Ehlert	01-JAN-2005	Trustee			May own shares of one or more portfolioM	
+0001104659-09-041726	soleProprietorship	5	William Montgoris	01-JAN-2005	Trustee			May own shares of one or more portfolio	27-FEB-2009
+0001104659-09-041726	soleProprietorship	6	Joseph Donnelly	01-JAN-2005	Trustee			May own shares of one or more portfolio	12-JUN-2008
+0001104659-09-041726	soleProprietorship	7	Frank Stalzer	01-JAN-2005	Trustee			May own shares of one or more portfolio	
+0001104659-09-041726	soleProprietorship	8	Christina Maria Massaro	24-JAN-2005	Chief Compliance Officer			May own shares of one or more portfolio	
+0001104659-09-041726	soleProprietorship	9	Patrick Joseph Farrell	06-FEB-2006	Chief Financial Officer			May own shares of one or more portfolio	02-FEB-2009
+0001104659-09-041726	soleProprietorship	10	William Viklund	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041726	soleProprietorship	11	Ronald Artinian	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041726	soleProprietorship	12	Santa Albicocco	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041726	soleProprietorship	13	Stephen Zieniewicz	17-APR-2007	Trustee			May own shares of one or more portfolios	14-JAN-2009
+0001104659-09-041726	soleProprietorship	14	Edmund Bergan	31-MAY-2006	General Counsel, SVP, Secretary			May own shares of one or more portfolios	01-JUN-2007
+0001104659-09-041726	soleProprietorship	15	Catherine Crowley	10-SEP-2007	Secretary			May own shares of one or more portfolios	22-MAY-2009
+0001104659-09-041721	soleProprietorship	7	Patrick Joseph Farrell	06-FEB-2006	Chief Financial Officer			May own shares of one or more portfolios	02-FEB-2009
+0001104659-09-041721	soleProprietorship	15	Catherine Crowley	10-SEP-2007	Secretary			May own shares of one or more portfolios	22-MAY-2009
+0001104659-09-041721	soleProprietorship	10	Frank Stalzer	01-MAY-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041721	soleProprietorship	11	Ronald Artinian	01-MAY-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041721	soleProprietorship	12	Santa Albicocco	01-MAY-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041721	soleProprietorship	9	Joseph Donnelly	01-MAY-2007	Trustee			May own shares of one or more portfolios	12-JUN-2008
+0001104659-09-041721	soleProprietorship	14	Edmund Bergan	31-MAY-2006	General Counsel, SVP, Secretary			May own shares of one or more portfolios	01-JUN-2007
+0001104659-09-041721	soleProprietorship	13	Stephen Zieniewicz	17-APR-2007	Trustee			May own shares of one or more portfolios	14-JAN-2009
+0001104659-09-041721	soleProprietorship	6	Christina Maria Massaro	24-JAN-2005	Chief Compliance Officer			May own shares of one or more portfolios	
+0001104659-09-041721	soleProprietorship	5	William Montgoris	01-JAN-2005	Trustee			May own shares of one or more portfolios	27-FEB-2009
+0001104659-09-041721	soleProprietorship	8	William Viklund	01-MAY-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041721	soleProprietorship	4	Edwin Ehlert	01-JAN-2005	Trustee			May own shares of one or more portfolios	
+0001104659-09-041721	soleProprietorship	3	Arthur Thomas Bent III	01-JAN-2005	Co-CEO, SVP, Asst Treasurer			May own shares of one or more portfolios	
+0001104659-09-041721	soleProprietorship	2	Bruce Roger Bent II	01-JAN-2005	Co-CEO, SVP, Asst Treasurer			May own shares of one or more portfolios	
+0001104659-09-041721	soleProprietorship	1	Bruce Roger Bent	01-JAN-2005	Chairman, Pres, Treas, Prin Fin Officer			May own shares of one or more portfolios	
+0001104659-09-041719	soleProprietorship	9	Joseph Donnelly	17-APR-2007	Trustee			May own shares of one or more portfolios	12-JUN-2008
+0001104659-09-041719	soleProprietorship	10	Frank Stalzer	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041719	soleProprietorship	1	Bruce Roger Bent	01-JAN-2005	Chairman, Pres, Treas, Prin Fin Officer			May own shares of one or more portfolios	
+0001104659-09-041719	soleProprietorship	11	Ronald Artinian	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041719	soleProprietorship	12	Santa Albicocco	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041719	soleProprietorship	13	Stephen Zieniewicz	17-APR-2007	Trustee			May own shares of one or more portfolios	14-JAN-2009
+0001104659-09-041719	soleProprietorship	14	Edmund Bergan	31-MAY-2006	General Counsel, SVP, Secretary			May own shares of one or more portfolios	01-JUN-2007
+0001104659-09-041719	soleProprietorship	15	Catherine Crowley	10-SEP-2007	Secretary			May own shares of one or more portfolios	22-MAY-2009
+0001104659-09-041719	soleProprietorship	8	William Viklund	17-APR-2007	Trustee			May own shares of one or more portfolios	
+0001104659-09-041719	soleProprietorship	7	Patrick Joseph Farrell	06-FEB-2006	Chief Financial Officer			May own shares of one or more portfolios	02-FEB-2009
+0001104659-09-041719	soleProprietorship	6	Christina Maria Massaro	24-JAN-2005	Chief Compliance Officer			May own shares of one or more portfolios	
+0001104659-09-041719	soleProprietorship	5	William Montgoris	01-JAN-2005	Trustee			May own shares of one or more portfolios	27-FEB-2009
+0001104659-09-041719	soleProprietorship	4	Edwin Ehlert	01-JAN-2005	Trustee			May own shares of one or more portfolios	
+0001104659-09-041719	soleProprietorship	3	Arthur Thomas Bent III	01-JAN-2005	Co-CEO, SVP, Asst Treasurer			May own shares of one or more portfolios	
+0001104659-09-041719	soleProprietorship	2	Bruce Roger Bent II	01-JAN-2005	Co-CEO, SVP, Asst Treasurer			May own shares of one or more portfolios	
+0001213900-09-001622	corporationPartnership	2	SCOTT J. SILVERMAN	10-JUN-2009	SECRETARY/TREASURER/DIRECTOR	D	true		
+0001213900-09-001622	corporationPartnership	1	BRUCE STEPHEN TRULIO	10-JUN-2009	PRESIDENT/CHAIRMAN	D	true		

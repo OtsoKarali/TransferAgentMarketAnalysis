@@ -1,0 +1,16 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENTITY_ID	ENTITYNAME	SUCCESSORREGISTERED	ADDRESS
+0000107034-14-000002	tawCustodians	1	ESRT Management TRS, LLC Attn: Mark Labell		60 E 42nd Street 26th Floor New York  10165
+0000107034-14-000002	tawRegistrant	1	Malkin Holdings LLC (n/k/a ESRT MH Holdings, L.L.C.)		60 East 42nd Street 26th Floor New York  10165
+0000892251-14-000048	tawCustodians	1	Karl J. Grafe		301 E. 4th Street  Cincinnati  45202
+0000892251-14-000048	tawRegistrant	1	American Premier Underwriters, Inc.		301 E. 4th Street  Cincinnati  45202
+0000948010-14-000004	tawCustodians	1	BETHESDA HOLDINGS II LLC		6860 SOUTH YOSEMITE COURT SUITE 2000  CENTENNIAL  80112
+0000948010-14-000004	tawRegistrant	1	ISTC CORPORATION		80 INTERNATIONAL DRIVE SUITE 130  GREENVILLE  29615
+0001162044-14-000077	tawRegistrant	1	Emarld Research Corp		16 Rimwood Lane  Colts Neck  07722
+0001162044-14-000077	tawCustodians	1	Mutual Shareholder Services, LLC		8000 Town Centre Drive, Suite 400  Broadview Heights  44147
+0001162044-14-000077	tawSuccessors	1	Mutual Shareholder Services, LLC	Y	8000 Town Centre Drive, Suite 400  Broadview Heights  44147
+0000752336-14-000001	tawCustodians	1	U.S. Bancorp Fund Services LLC		615 East Michigan Street  Milwaukee  53202-5207
+0000752336-14-000001	tawRegistrant	1	United Shareholder Services, Inc.		7900 Callaghan Road  San Antonio  78229
+0000752336-14-000001	tawSuccessors	1	U.S. Bancorp Fund Services LLC	Y	615 East Michigan Street  Milwaukee  53202-5207
+0000950123-14-000042	tawSuccessors	1	Phoenix American Financial Services, Inc.	Y	2401 Kerner Blvd  San Rafael  94901
+0000950123-14-000042	tawCustodians	1	Phoenix American Financial Services, Inc.		2401 Kerner Blvd  San Rafael  94901
+0000950123-14-000042	tawRegistrant	1	TNP TRANSFER AGENT, LLC		3151 Airway Avenue G-3  Costa Mesa  92626

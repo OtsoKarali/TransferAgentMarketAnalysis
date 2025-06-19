@@ -1,0 +1,17 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENTITY_ID	ENTITYNAME	SUCCESSORREGISTERED	ADDRESS
+0001214659-15-008568	tawRegistrant	1	Ridgewood Companies TA, LLC		14 Philips Parkway  Montvale  07645
+0001214659-15-008568	tawCustodians	1	Computershare Trust Company, N.A.		250 Royall Street  Canton  02021
+0001214659-15-008568	tawSuccessors	1	Computershare Trust Company, N.A.	Y	250 Royall Street  Canton  02021
+0000783398-15-000007	tawSuccessors	2	American Stock Transfer and Trust Company	Y	6201 15th Ave  Brooklyn  11219
+0000783398-15-000007	tawCustodians	1	Pioneer Investment Management, Inc.		60 State Street  Boston  02109
+0000783398-15-000007	tawSuccessors	3	DST Systems Inc	Y	333 W 11th St  Kansas City  64105
+0000783398-15-000007	tawRegistrant	1	Pioneer Investment Management Shareholder Services Inc		60 State St  Boston  02109
+0000783398-15-000007	tawSuccessors	1	Boston Financial Data Services	Y	2000 Crown Colony Drive  Quincy  02169
+0001283467-15-000005	tawCustodians	2	Computershare Trust Company of Canada		100 University Avenue 8th floor Toronto  M5J 2Y1
+0001283467-15-000005	tawCustodians	1	Computershare Investor Services Inc.		100 University Avenue 8th floor Toronto  M5J 2Y1
+0001283467-15-000005	tawSuccessors	2	Computershare Trust Company of Canada	Y	100 University Avenue 8th floor Toronto  M5J 2Y1
+0001283467-15-000005	tawRegistrant	1	Valiant Trust Company		3000-10303 Jasper Avenue NW  Edmonton  T5J 3X6
+0001283467-15-000005	tawSuccessors	1	Computershare Investor Services Inc.	Y	100 University Avenue 8th floor Toronton  M5J 2Y1
+0001526795-15-000008	tawCustodians	1	n/a		    
+0001526795-15-000008	tawRegistrant	1	Apex Fund Services (U.S.) Inc		25 Broad Street  Red Bank  07701
+0001526795-15-000008	tawLocations	1	n/a see attachment		    

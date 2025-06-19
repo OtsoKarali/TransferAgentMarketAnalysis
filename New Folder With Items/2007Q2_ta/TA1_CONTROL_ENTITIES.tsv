@@ -1,0 +1,17 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENT_ID	ENTITYNAME	AGREEMENTDESCRIPTION
+0000746972-07-000002	otherControlManagement	1	Bonnie O Houston	President of OTR, Inc.
+0001007444-07-000006	otherControlManagement	1	LPL Investment Holdings, Inc.	Principal Stockholder of LPL Holdings, Inc.
+0001007444-07-000006	otherControlManagement	2	Hellman & Friedman Capital Partners V, L.P.	Stockholder of LPL Investment Holdings, Inc.
+0001007444-07-000006	otherControlManagement	8	David Bonderman	Stockholder of TPG Advisors IV, Inc.
+0001007444-07-000006	otherControlManagement	4	TPG Partners IV, L.P.	Stockholder of LPL Investment Holdings, Inc.
+0001007444-07-000006	otherControlManagement	5	TPG Advisors IV, Inc.	General Partner of TPG Genpar IV, L.P.
+0001007444-07-000006	otherControlManagement	6	TPG Genpar IV, L.P.	General Partner of TPG Partners IV, L.P.
+0001007444-07-000006	otherControlManagement	7	William S. Price, III	Stockholder of TPG Advisors IV, Inc.
+0001007444-07-000006	otherControlManagement	9	James G. Coulter	Stockholder of TPG Advisors IV, Inc.
+0001007444-07-000006	otherControlManagement	3	Hellman & Friedman Investors V, LLC	General Partner of Hellman & Friedman Capital Partners V, L.P.
+0000950135-07-003518	otherControlManagement	1	Terrence P. Sullivan	General Partner of Registrant
+0000950135-07-003517	otherControlManagement	1	Terrence P. Sullivan	General Partner of Registrant
+0001139578-07-000007	otherControlManagement	1	Robeco US Holding Inc.	Holding company of Harbor Capital Advisors, Inc.
+0001139578-07-000007	otherControlManagement	2	Robeco International Holding B.V.	Holding company of Robeco US Holding Inc.; indirect owner of applicant.
+0001139578-07-000007	otherControlManagement	3	Robeco Groep N.V.	Indirect owner of applicant.
+0001139578-07-000007	otherControlManagement	4	Cooperative Centrale Raiffeissen Boerenleen Bank B.A. (Rabobank Nederland)	Indirect owner of applicant.

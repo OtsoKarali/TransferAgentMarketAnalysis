@@ -1,0 +1,55 @@
+ACCESSION_NUMBER	ACCT_HOLDER_TYPE	EQUITYSECURITY	DEBTSECURITY	OPENENDINVESTMENTCOMPANY	LIMITEDPARTNERSHIP	MUNICIPALDEBT	OTHER	NUMBERISSUES	AMOUNTISSUES
+0001866046-23-000003	dividendReinvDirectPurchasePlan							0	
+0001866046-23-000003	currentAgent							0	0.0
+0001866046-23-000003	directRegistrationSystem							0	
+0001866046-23-000003	dividendAndInterest							0	0.0
+0001866046-23-000003	transNotMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001866046-23-000003	priorAgent							0	0.0
+0001866046-23-000003	securityHolderAccounts	100.0	0.0	0.0	0.0	0.0	0.0		
+0001866046-23-000003	transMaintainMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001866046-23-000003	notTransMaintMasterSecHolder	11.0	0.0	0.0	0.0	0.0	0.0		
+0001410382-23-000002	currentAgent							0	0.0
+0001410382-23-000002	transNotMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001410382-23-000002	directRegistrationSystem							0	
+0001410382-23-000002	dividendAndInterest							6	164883.0
+0001410382-23-000002	dividendReinvDirectPurchasePlan							6	
+0001410382-23-000002	notTransMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001410382-23-000002	priorAgent							0	0.0
+0001410382-23-000002	securityHolderAccounts	0.0	0.0	27.0	0.0	0.0	73.0		
+0001410382-23-000002	transMaintainMasterSecHolder	0.0	0.0	6.0	0.0	0.0	1.0		
+0001774416-23-000003	transNotMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001774416-23-000003	transMaintainMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001774416-23-000003	securityHolderAccounts	0.0	0.0	0.0	0.0	0.0	0.0		
+0001774416-23-000003	priorAgent							0	0.0
+0001774416-23-000003	currentAgent							0	0.0
+0001774416-23-000003	dividendReinvDirectPurchasePlan							0	
+0001774416-23-000003	dividendAndInterest							0	0.0
+0001774416-23-000003	directRegistrationSystem							0	
+0001774416-23-000003	notTransMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001771881-23-000004	transMaintainMasterSecHolder	11.0	0.0	0.0	0.0	0.0	0.0		
+0001771881-23-000004	securityHolderAccounts	99.0	0.25	0.0	0.0	0.75	0.0		
+0001771881-23-000004	priorAgent							0	0.0
+0001771881-23-000004	notTransMaintMasterSecHolder	2.0	0.0	0.0	0.0	1.0	0.0		
+0001771881-23-000004	dividendReinvDirectPurchasePlan							2	
+0001771881-23-000004	dividendAndInterest							7	834150726.93
+0001771881-23-000004	directRegistrationSystem							6	
+0001771881-23-000004	currentAgent							0	0.0
+0001771881-23-000004	transNotMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0000024179-23-000002	currentAgent							0	0.0
+0000024179-23-000002	directRegistrationSystem							2318	
+0000024179-23-000002	dividendAndInterest							155	10919349941.35
+0000024179-23-000002	dividendReinvDirectPurchasePlan							20	
+0000024179-23-000002	transNotMaintMasterSecHolder	195.0	0.0	0.0	0.0	0.0	0.0		
+0000024179-23-000002	priorAgent							0	0.0
+0000024179-23-000002	securityHolderAccounts	99.0	1.0	0.0	0.0	0.0	0.0		
+0000024179-23-000002	transMaintainMasterSecHolder	4643.0	6.0	0.0	0.0	0.0	0.0		
+0000024179-23-000002	notTransMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001794142-23-000003	currentAgent							0	0.0
+0001794142-23-000003	directRegistrationSystem							0	
+0001794142-23-000003	dividendAndInterest							0	0.0
+0001794142-23-000003	dividendReinvDirectPurchasePlan							0	
+0001794142-23-000003	notTransMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		
+0001794142-23-000003	priorAgent							0	0.0
+0001794142-23-000003	securityHolderAccounts	0.0	0.0	0.0	0.0	0.0	100.0		
+0001794142-23-000003	transMaintainMasterSecHolder	0.0	0.0	0.0	0.0	0.0	1.0		
+0001794142-23-000003	transNotMaintMasterSecHolder	0.0	0.0	0.0	0.0	0.0	0.0		

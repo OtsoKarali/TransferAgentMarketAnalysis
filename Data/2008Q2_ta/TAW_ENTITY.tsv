@@ -1,0 +1,15 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENTITY_ID	ENTITYNAME	SUCCESSORREGISTERED	ADDRESS
+0000906355-08-000007	tawCustodians	1	Rod R. Steger		25531 Commercentre Dr. Suite 120 Lake Forest  92630-8874
+0000906355-08-000007	tawRegistrant	1	SPARTA, Inc.		25531 Commercentre Dr. Suite 120 Lake Forest  92630-8874
+0001389521-08-000006	tawRegistrant	1	Prodigious LLC		4745 Independence St.  Wheat Ridge  80033
+0000950152-08-003264	tawRegistrant	1	STAAR Financial Advisors, Inc.		604 McKnight Park Dr.  Pittsburgh  15237
+0000950152-08-003264	tawCustodians	1	Huntington National Bank		7 Easton Oval, EA4E72  Columbus  43219
+0000950152-08-003264	tawSuccessors	1	Mutual Shareholder Services	Y	8000 Town Center Dr.  Broadview Heights  44147
+0001057740-08-000004	tawCustodians	1	Peter Kiewit Sons', Inc.		1000 Kiewit Plaza 3555 Farnam Street Omaha  68131
+0001057740-08-000004	tawRegistrant	1	Peter Kiewit Sons', Inc.		1000 Kiewit Plaza 3555 Farnam Street Omaha  68131
+0001264640-08-000004	tawRegistrant	1	JCM Partners, LLC		2151 Salvio Street, Suite 325  Concord, CA  94520  
+0001039876-08-000006	tawSuccessors	1	Morgan Stanley Trust	Y	Harborside Financial Center Plaza II, 2nd Floor Jersey City  07311
+0001039876-08-000006	tawRegistrant	1	Morgan Stanley Trust		Harborside Financial Center Plaza II, 2nd Floor Jersey City  07311
+0001049957-08-000001	tawRegistrant	1	Old Mutual Shareholder Services, Inc.		4643 S. Ulster St., Suite 600  Denver  80237
+0001049957-08-000001	tawCustodians	1	DST Systems, Inc.		333 W. 11th St.  Kansas City  64105
+0001049957-08-000001	tawSuccessors	1	Old Mutual Fund Services	Y	4643 S. Ulster St., Suite 600  Denver  80237

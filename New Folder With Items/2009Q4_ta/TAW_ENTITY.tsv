@@ -1,0 +1,41 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENTITY_ID	ENTITYNAME	SUCCESSORREGISTERED	ADDRESS
+0000950123-09-069824	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-069824	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-069824	tawRegistrant	1	Seligman Data Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-069824	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-069824	tawCustodians	1	RiverSource Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-069824	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000751448-09-000011	tawRegistrant	1	Charles Schwab & Co., Inc.		211 Main Street  San Francisco  94105
+0000751448-09-000011	tawCustodians	1	Charles Schwab & Co., Inc.		211 Main Street  San Francisco  94105
+0000751448-09-000011	tawSuccessors	1	Boston Financial Data Services	Y	2000 Crown Colony Drive  Quincy  02169
+0000950123-09-067549	tawRegistrant	1	RIVERSOURCE GOVERNMENT MONEY MARKET FUND INC/TA		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-067549	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-067549	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-067549	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-067549	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-067549	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-063885	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000950123-09-063885	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-063885	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-063885	tawRegistrant	1	SELIGMAN GROWTH FUND INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-063885	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-063885	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-063883	tawSuccessors	1	RiverSource Service Corporation	Y	734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-063883	tawRegistrant	1	SELIGMAN FRONTIER FUND INC.		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-063883	tawCustodians	1	RiverSource Service Corporation		734 Ameriprise Financial Center  Minneapolis  55474
+0000950123-09-063883	tawLocations	3	Boston Financial Data Services, Inc.		30 Dan Road  Canton  02021
+0000950123-09-063883	tawLocations	2	PFPC Inc.		400 Bellevue Parkway  Wilmington  19809
+0000950123-09-063883	tawLocations	1	RiverSource Service Corporation		600 Sable Oaks Drive  South Portland  04106
+0000769810-09-000009	tawSuccessors	1	SEI Institutional Transfer Agent, Inc.	Y	One Freedom Valley Drive  Oaks  19456
+0000769810-09-000009	tawRegistrant	1	SEI Investments Management Corporation		One Freedom Valley Drive  Oaks  19456
+0000769810-09-000009	tawCustodians	1	SEI Institutional Transfer Agent, Inc.		One Freedom Valley Drive  Oaks  19456
+0001443149-09-000006	tawRegistrant	1	Affinity Investor CORP		1331 N. California Blvd., Suite 200  Walnut Creek  94596
+0001443149-09-000006	tawCustodians	1	M. Greg Allio		1331 N. California Blvd., Suite 200  Walnut Creek  94596
+0001140361-09-023557	tawCustodians	1	WELLS FARGO BANK, N.A.		161 NORTH CONCORD EXCHANGE STREET  SOUTH ST PAUL  55075
+0001140361-09-023557	tawSuccessors	1	WELLS FARGO BANK, N.A.	Y	161 NORTH CONCORD EXCHANGE STREET  SOUTH ST PAUL  55075
+0001140361-09-023557	tawRegistrant	1	SIERRA PACIFIC RESOURCES		6100 NEIL ROAD  RENO  89511
+0001140361-09-023557	tawLocations	1	NV ENERGY, INC.		6226 WEST SAHARA AVENUE  LAS VEGAS  89146
+0000735236-09-000016	tawLocations	1	Jeffrey Van Riper		Seneca Foods Corporation 3736 South Main Street Marion  14505
+0000735236-09-000016	tawSuccessors	1	Computershare Trust Company	Y	250 Royall Street  Canton  02021
+0000735236-09-000016	tawRegistrant	1	Seneca Foods Corporation		3736 South Main Street  Marion  14505
+0000735236-09-000016	tawCustodians	1	Sarah S. Mortensen		Seneca Foods Corporation 1605 Main Street Suite 1010 Sarasota  34236

@@ -1,0 +1,10 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENTITY_ID	ENTITYNAME	SUCCESSORREGISTERED	ADDRESS
+0001387131-16-008760	tawRegistrant	1	U.S. Bancorp Asset Management, Inc.		800 Nicollet Mall  Minneapolis  55402
+0001387131-16-008760	tawLocations	2	Iron Mountain		9715 James Ave. S.  Bloomington  55431
+0001387131-16-008760	tawLocations	1	Iron Mountain		5170 S. 6th St.  Milwaukee  53221
+0001387131-16-008760	tawCustodians	1	U.S. Bancorp Asset Management, Inc.		800 Nicollet Mall  Minneapolis  55402
+0000883757-16-000022	tawRegistrant	1	Equity Financial Trust Company		200 University Avenue, Suite 300  Toronto  M5H 4H1
+0000883757-16-000022	tawCustodians	1	TSX Trust Company		200 University Ave., Suite 300  Toronto  M5H 4H1
+0000883757-16-000022	tawSuccessors	1	TSX Trust Company	Y	200 University Avenue, Suite 300  Toronto  M5H 4H1
+0001169743-16-000032	tawSuccessors	1	UMB Fund Services, Inc.	Y	235 W. Galena Street  Milwaukee  53212
+0001169743-16-000032	tawRegistrant	1	J.D. Clark & Co., Inc.		2225 Washington Boulevard Suite 300 Ogden  84401

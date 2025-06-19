@@ -1,0 +1,17 @@
+ACCESSION_NUMBER	ENTITY_TYPE	ENTITY_ID	ENTITYNAME	SUCCESSORREGISTERED	ADDRESS
+0000808487-07-000006	tawSuccessors	1	DWS Scudder Investments Service Company	Y	222 S. Riverside Plaza  Chicago  60606
+0000808487-07-000006	tawCustodians	1	State Street Financial Center		One Lincoln Street  Boston  02111
+0000808487-07-000006	tawRegistrant	1	DWS Scudder Service Corp.		222 S Riverside Plaza  Chicago  60606
+0000708299-07-000014	tawCustodians	1	JPMorgan Chase Bank N.A.		1111 Polaris Parkway  Columbus  43271
+0000708299-07-000014	tawLocations	1	JPMorgan Chase Bank N.A.		303 Broadway St. Suite 1100 Cincinnati  45202
+0000708299-07-000014	tawSuccessors	1	JPMorgan Chase Bank N.A.	Y	1111 Polaris Parkway  Columbus  43271
+0000708299-07-000014	tawRegistrant	1	Integrated Investment Services, Inc.		303 Broadway St. Suite 1100 Cincinnati  45202
+0001387793-07-000008	tawRegistrant	1	T. Rowe Price Retirement Plan Services, Inc.		4515 Painters Mills Road  Owings Mills  21117
+0001387793-07-000008	tawRegistrant	2	T. Rowe Price Retirement Plan Services, Inc.		100 E. Pratt Street  Baltimore  21202
+0001146173-07-000002	tawRegistrant	1	InCap Service Company		320 North Charles Street  Baltimore  21201
+0001144204-07-009682	tawRegistrant	1	Citco Mutual Fund Services, Inc.		83 General Warren Blvd. Suite 200 Malvern  19355
+0001144204-07-009682	tawLocations	1	Citco Fund Services of America, Inc.		83 General Warren Blvd. Suite 200 Malvern  19355
+0001144204-07-009682	tawCustodians	1	Citco Fund Services (London) Ltd.		7 Albermarle Street Attn: Michael Regan, General Counsel London  W1S 4HQ
+0000753043-07-000003	tawSuccessors	1	Computershare Trust Company, N.A.	Y	250 Royalle Street  Canton  02021
+0000753043-07-000003	tawCustodians	1	Kellie Gwinn		350 Indiana Street Suite 800 Golden  80401
+0000753043-07-000003	tawRegistrant	1	Computershare Trust Company, Inc.		350 Indiana Street Suite 800 Golden  80401
