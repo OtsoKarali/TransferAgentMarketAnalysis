@@ -1,21 +1,19 @@
 #!/usr/bin/env python3
 """
 SEC 10-K Transfer Agent Analysis Pipeline
-Downloads all 10-K filings and extracts transfer agent mentions to analyze market share.
+Downloads recent 10-K filings and extracts transfer agent mentions to analyze market share.
 """
 import os
-import json
 import csv
 import time
 import requests
 import re
-from pathlib import Path
 from typing import List, Dict, Optional
-from urllib.parse import urljoin
 import logging
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from bs4 import BeautifulSoup
 import pandas as pd
+from datetime import datetime, timedelta
 
 # Configure logging
 logging.basicConfig(
@@ -29,34 +27,82 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-SUBMISSIONS_URL = "https://www.sec.gov/Archives/edgar/daily-index/bulkdata/submissions.zip"
-SUBMISSIONS_DIR = "submissions_json"
 RAW_10K_DIR = "raw_10k"
 OUTPUT_CSV = "all_10ks.csv"
 TRANSFER_AGENTS_CSV = "transfer_agents.csv"
 MARKET_SHARE_CSV = "market_share.csv"
 
-# Transfer agent brands to look for
+# Transfer agent brands to look for (expanded list with variations)
 TRANSFER_AGENT_BRANDS = [
+    # Computershare and variations
     "Computershare",
-    "BNY Mellon", 
-    "Equiniti",
-    "State Street",
-    "DST",
-    "Broadridge",
+    "Computershare Trust Company",
+    "Computershare Canada",
+    # American Stock Transfer
+    "American Stock Transfer & Trust Company",
     "American Stock Transfer",
+    "AST",
+    # Broadridge
+    "Broadridge",
+    "Broadridge Corporate Issuer Solutions",
+    # Continental
+    "Continental Stock Transfer & Trust Company",
     "Continental Stock Transfer",
-    "VStock Transfer",
+    # Equiniti
+    "Equiniti",
+    "EQ Shareowner Services",
+    "EQ",
+    # BNY Mellon and variations
+    "The Bank of New York Mellon",
+    "BNY Mellon",
+    "Mellon Investor Services",
+    "Mellon",
+    "Bank of New York",
+    # Wells Fargo
+    "Wells Fargo Shareowner Services",
+    "Wells Fargo Bank",
+    "Wells Fargo",
+    "Shareowner Services",
+    # Issuer Direct
     "Issuer Direct",
+    # VStock
+    "VStock Transfer",
+    # Pacific
+    "Pacific Stock Transfer",
+    # Empire
+    "Empire Stock Transfer",
+    # Securities Transfer Corporation
+    "Securities Transfer Corporation",
+    # Colonial
+    "Colonial Stock Transfer",
+    # Philadelphia
+    "Philadelphia Stock Transfer",
+    # Registrar and Transfer Company
+    "Registrar and Transfer Company",
+    "R&T",
+    # UMB
+    "UMB Bank",
+    "UMB",
+    # Zions
+    "Zions Bank",
+    "Zions First National Bank",
+    # State Street
+    "State Street",
+    "State Street Bank and Trust",
+    # TSX/Canada
+    "TSX Trust Company",
+    "Odyssey Trust Company",
+    # Others
     "Fidelity",
-    "Vanguard"
+    "Vanguard",
+    "Shareholder Services"
 ]
 
-# SEC rate limiting (10 requests per second)
-SEC_DELAY = 0.2  # 200ms between requests (more conservative)
+# SEC rate limiting (very conservative)
+SEC_DELAY = 0.5  # 500ms between requests
 MAX_RETRIES = 3
-RETRY_DELAY = 1.0  # Start with 1 second delay for retries
-MAX_FILINGS = 100  # Limit for initial test run (set to None for full run)
+RETRY_DELAY = 600.0  # 10 minutes pause on rate limit
+MAX_FILINGS = 100  # Limit for initial test run
 
 class SEC10KAnalyzer:
     def __init__(self):
@@ -65,129 +111,160 @@ class SEC10KAnalyzer:
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         })
-        
-    def download_submissions(self) -> bool:
-        """Download and extract the SEC submissions archive."""
-        try:
-            logger.info("Downloading SEC submissions archive...")
-            
-            # Download the ZIP file
-            response = self.session.get(SUBMISSIONS_URL, timeout=30)
-            response.raise_for_status()
-            
-            with open("submissions.zip", "wb") as f:
-                f.write(response.content)
-            
-            # Extract the ZIP file
-            import zipfile
-            with zipfile.ZipFile("submissions.zip", 'r') as zip_ref:
-                zip_ref.extractall(SUBMISSIONS_DIR)
-            
-            logger.info(f"Successfully extracted submissions to {SUBMISSIONS_DIR}")
-            return True
-            
-        except Exception as e:
-            logger.error(f"Failed to download submissions: {e}")
-            return False
     
-    def identify_10k_filings(self) -> List[Dict]:
-        """Parse all JSON files and identify 10-K filings."""
-        logger.info("Identifying 10-K filings...")
+    def get_recent_10k_filings(self, days_back: int = 30) -> List[Dict]:
+        """Get recent 10-K filings from SEC's daily index."""
+        logger.info(f"Getting 10-K filings from the last {days_back} days...")
         
         filings = []
-        json_files = list(Path(SUBMISSIONS_DIR).glob("*.json"))
+        # Start from a recent past date (2 days ago to avoid partial/incomplete days)
+        base_date = datetime.today() - timedelta(days=2)
         
-        for json_file in json_files:
+        for i in range(days_back * 2):  # Double the range to account for weekends
+            date = base_date - timedelta(days=i)
+            date_str = date.strftime("%Y%m%d")
+            
+            # Skip weekends (Saturday=5, Sunday=6)
+            if date.weekday() >= 5:
+                logger.debug(f"Skipping weekend date {date_str}")
+                continue
+            
+            # SEC daily index URL format
+            daily_url = f"https://www.sec.gov/Archives/edgar/daily-index/{date.year}/QTR{((date.month-1)//3)+1}/master.{date_str}.idx"
+            
             try:
-                with open(json_file, 'r') as f:
-                    data = json.load(f)
+                time.sleep(SEC_DELAY)
+                response = self.session.get(daily_url, timeout=30)
                 
-                cik = data.get('cik', '')
-                if not cik:
+                if response.status_code == 404:
+                    logger.debug(f"No index file for {date_str}")
+                    continue
+                elif response.status_code == 403:
+                    logger.warning(f"Access forbidden for {date_str} - may be too recent")
+                    continue
+                elif response.status_code != 200:
+                    logger.warning(f"HTTP {response.status_code} for {date_str}")
                     continue
                 
-                filings_data = data.get('filings', {}).get('recent', {})
-                forms = filings_data.get('form', [])
-                accs = filings_data.get('accessionNumber', [])
-                dates = filings_data.get('filingDate', [])
+                logger.info(f"Processing index file for {date_str}")
                 
-                for i, form in enumerate(forms):
-                    if form in ('10-K', '10-K/A'):
-                        if i < len(accs) and i < len(dates):
-                            acc = accs[i]
-                            date = dates[i]
-                            
+                # Parse the daily index
+                lines = response.text.split('\n')
+                for line in lines[11:]:  # Skip header lines
+                    if not line.strip():
+                        continue
+                    
+                    parts = line.split('|')
+                    if len(parts) >= 4:
+                        cik = parts[0].strip()
+                        company = parts[1].strip()
+                        form = parts[2].strip()
+                        accession = parts[3].strip()
+                        
+                        if form in ('10-K', '10-K/A'):
                             # Build URL
                             cik_int = int(cik)
-                            path = acc.replace('-', '')
-                            url = f"https://www.sec.gov/Archives/edgar/data/{cik_int}/{path}/{acc}.htm"
+                            path = accession.replace('-', '')
+                            url = f"https://www.sec.gov/Archives/edgar/data/{cik_int}/{path}/{accession}.htm"
                             
                             filings.append({
                                 'cik': cik,
-                                'accession': acc,
-                                'date': date,
+                                'company': company,
+                                'accession': accession,
+                                'date': date_str,
                                 'url': url
                             })
                             
+                            # Stop if we have enough filings
+                            if len(filings) >= MAX_FILINGS:
+                                logger.info(f"Reached limit of {MAX_FILINGS} filings")
+                                break
+                
+                if len(filings) >= MAX_FILINGS:
+                    break
+                    
             except Exception as e:
-                logger.warning(f"Error processing {json_file}: {e}")
+                logger.warning(f"Error processing {date_str}: {e}")
                 continue
         
-        logger.info(f"Found {len(filings)} 10-K filings")
+        logger.info(f"Found {len(filings)} recent 10-K filings")
         return filings
     
     def save_filings_csv(self, filings: List[Dict]) -> None:
         """Save filings to CSV file."""
         with open(OUTPUT_CSV, 'w', newline='') as fout:
-            writer = csv.DictWriter(fout, fieldnames=['cik', 'accession', 'date', 'url'])
+            writer = csv.DictWriter(fout, fieldnames=['cik', 'company', 'accession', 'date', 'url'])
             writer.writeheader()
             writer.writerows(filings)
         
         logger.info(f"Saved {len(filings)} filings to {OUTPUT_CSV}")
     
     def download_10k_document(self, filing: Dict) -> Optional[str]:
-        """Download a single 10-K document with retry logic."""
-        filename = f"{filing['cik']}_{filing['accession']}.htm"
-        filepath = os.path.join(RAW_10K_DIR, filename)
-        
-        # Skip if already downloaded
-        if os.path.exists(filepath):
-            return filepath
-        
-        # Download with rate limiting and retries
-        for attempt in range(MAX_RETRIES + 1):
-            try:
-                time.sleep(SEC_DELAY)
-                response = self.session.get(filing['url'], timeout=30)
-                
-                if response.status_code == 429:
-                    # Rate limited - wait longer and retry
-                    wait_time = RETRY_DELAY * (2 ** attempt)  # Exponential backoff
-                    logger.warning(f"Rate limited for {filing['url']}, waiting {wait_time}s before retry {attempt + 1}/{MAX_RETRIES}")
-                    time.sleep(wait_time)
-                    continue
-                
-                response.raise_for_status()
-                
-                # Save the file
-                with open(filepath, 'w', encoding='utf-8') as f:
-                    f.write(response.text)
-                
-                logger.debug(f"Downloaded {filename}")
+        """Download a single 10-K document using SEC index.json to find the correct file."""
+        cik = filing['cik']
+        accession = filing['accession']
+        cik_int = int(cik)
+        path = accession.replace('-', '')
+        filing_dir = f"https://www.sec.gov/Archives/edgar/data/{cik_int}/{path}"
+        index_json_url = f"{filing_dir}/index.json"
+
+        try:
+            time.sleep(SEC_DELAY)
+            response = self.session.get(index_json_url, timeout=30)
+            if response.status_code == 404:
+                logger.warning(f"404 Not Found for {index_json_url}, skipping.")
+                return None
+            response.raise_for_status()
+            index_data = response.json()
+            # Find the primary document (usually the main 10-K HTML)
+            primary_doc = index_data.get('directory', {}).get('item', [])[0].get('name')
+            # Try to find the first .htm or .html file if not found
+            if not primary_doc or not (primary_doc.endswith('.htm') or primary_doc.endswith('.html')):
+                for item in index_data.get('directory', {}).get('item', []):
+                    name = item.get('name', '')
+                    if name.lower().endswith(('.htm', '.html')):
+                        primary_doc = name
+                        break
+            if not primary_doc:
+                logger.warning(f"No HTML document found in {index_json_url}, skipping.")
+                return None
+            # Download the primary document
+            doc_url = f"{filing_dir}/{primary_doc}"
+            filename = f"{cik}_{accession}.htm"
+            filepath = os.path.join(RAW_10K_DIR, filename)
+            if os.path.exists(filepath):
                 return filepath
-                
-            except requests.exceptions.RequestException as e:
-                if attempt == MAX_RETRIES:
-                    logger.warning(f"Failed to download {filing['url']} after {MAX_RETRIES + 1} attempts: {e}")
-                    return None
-                else:
-                    wait_time = RETRY_DELAY * (2 ** attempt)
-                    logger.warning(f"Attempt {attempt + 1} failed for {filing['url']}, waiting {wait_time}s before retry: {e}")
-                    time.sleep(wait_time)
-        
-        return None
+            for attempt in range(MAX_RETRIES + 1):
+                try:
+                    time.sleep(SEC_DELAY)
+                    doc_response = self.session.get(doc_url, timeout=30)
+                    if doc_response.status_code == 404:
+                        logger.warning(f"404 Not Found for {doc_url}, skipping.")
+                        return None
+                    if doc_response.status_code == 429:
+                        logger.error(f"RATE LIMITED! Stopping for 10 minutes. URL: {doc_url}")
+                        logger.error("This is a hard stop. Please wait 10 minutes before running again.")
+                        time.sleep(RETRY_DELAY)
+                        return None
+                    doc_response.raise_for_status()
+                    with open(filepath, 'w', encoding='utf-8') as f:
+                        f.write(doc_response.text)
+                    logger.info(f"Downloaded {filename}")
+                    return filepath
+                except requests.exceptions.RequestException as e:
+                    if attempt == MAX_RETRIES:
+                        logger.warning(f"Failed to download {doc_url} after {MAX_RETRIES + 1} attempts: {e}")
+                        return None
+                    else:
+                        wait_time = RETRY_DELAY * (2 ** attempt)
+                        logger.warning(f"Attempt {attempt + 1} failed for {doc_url}, waiting {wait_time}s before retry: {e}")
+                        time.sleep(wait_time)
+            return None
+        except Exception as e:
+            logger.warning(f"Error processing {index_json_url}: {e}")
+            return None
     
-    def download_all_10ks(self, filings: List[Dict], max_workers: int = 3) -> List[str]:
+    def download_all_10ks(self, filings: List[Dict], max_workers: int = 1) -> List[str]:
         """Download all 10-K documents with parallel processing."""
         logger.info(f"Downloading {len(filings)} 10-K documents...")
         
@@ -240,29 +317,48 @@ class SEC10KAnalyzer:
             
             mentions = []
             
-            # Look for transfer agent mentions
+            # Look for transfer agent mentions with broader patterns
             patterns = [
-                r'(?:transfer agent|registrar|stock transfer).{0,200}?(' + '|'.join(TRANSFER_AGENT_BRANDS) + ')',
-                r'(' + '|'.join(TRANSFER_AGENT_BRANDS) + ').{0,200}?(?:transfer agent|registrar|stock transfer)'
+                # Pattern 1: transfer agent/registrar followed by brand
+                r'(?:transfer agent|registrar|stock transfer|trust company).{0,300}?(' + '|'.join(TRANSFER_AGENT_BRANDS) + ')',
+                # Pattern 2: brand followed by transfer agent/registrar
+                r'(' + '|'.join(TRANSFER_AGENT_BRANDS) + ').{0,300}?(?:transfer agent|registrar|stock transfer|trust company)',
+                # Pattern 3: just the brand name (for broader capture)
+                r'\b(' + '|'.join(TRANSFER_AGENT_BRANDS) + r')\b'
             ]
             
             for pattern in patterns:
                 matches = re.finditer(pattern, text, re.IGNORECASE)
                 for match in matches:
                     # Get surrounding context
-                    start = max(0, match.start() - 100)
-                    end = min(len(text), match.end() + 100)
+                    start = max(0, match.start() - 150)
+                    end = min(len(text), match.end() + 150)
                     context = text[start:end].replace('\n', ' ').strip()
+                    
+                    # Clean up the brand name
+                    brand = match.group(1).strip()
                     
                     mentions.append({
                         'cik': cik,
                         'accession': accession,
-                        'brand': match.group(1),
+                        'brand': brand,
                         'context': context,
-                        'file': html_file
+                        'file': html_file,
+                        'pattern_used': pattern[:50] + "..." if len(pattern) > 50 else pattern
                     })
             
-            return mentions
+            # Remove duplicates based on brand and similar context
+            unique_mentions = []
+            seen = set()
+            
+            for mention in mentions:
+                # Create a key based on brand and first 50 chars of context
+                key = (mention['brand'].lower(), mention['context'][:50].lower())
+                if key not in seen:
+                    seen.add(key)
+                    unique_mentions.append(mention)
+            
+            return unique_mentions
             
         except Exception as e:
             logger.warning(f"Error extracting transfer agents from {html_file}: {e}")
@@ -318,33 +414,22 @@ class SEC10KAnalyzer:
         """Run the complete analysis pipeline."""
         logger.info("Starting SEC 10-K Transfer Agent Analysis")
         
-        # Step 1: Download submissions (if not already done)
-        if not os.path.exists(SUBMISSIONS_DIR):
-            if not self.download_submissions():
-                logger.error("Failed to download submissions. Exiting.")
-                return
-        
-        # Step 2: Identify 10-K filings
-        filings = self.identify_10k_filings()
+        # Step 1: Get recent 10-K filings
+        filings = self.get_recent_10k_filings(days_back=30)
         if not filings:
             logger.error("No 10-K filings found. Exiting.")
             return
         
-        # Limit filings for initial test run
-        if MAX_FILINGS and len(filings) > MAX_FILINGS:
-            logger.info(f"Limiting to first {MAX_FILINGS} filings for test run (total found: {len(filings)})")
-            filings = filings[:MAX_FILINGS]
-        
-        # Step 3: Save filings to CSV
+        # Step 2: Save filings to CSV
         self.save_filings_csv(filings)
         
-        # Step 4: Download 10-K documents
+        # Step 3: Download 10-K documents
         downloaded_files = self.download_all_10ks(filings)
         
-        # Step 5: Extract transfer agent mentions
+        # Step 4: Extract transfer agent mentions
         mentions_df = self.analyze_all_documents(downloaded_files)
         
-        # Step 6: Calculate market share
+        # Step 5: Calculate market share
         market_share_df = self.calculate_market_share(mentions_df)
         
         # Display results
