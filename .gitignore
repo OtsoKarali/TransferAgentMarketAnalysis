@@ -1,0 +1,47 @@
+# Data files and directories
+Data/
+submissions/
+submissions_json/
+raw_10k/
+submissions.zip
+all_10ks.csv
+transfer_agents.csv
+market_share.csv
+sec_analysis.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+test_submissions/
+
+# Archive directory (contains old scripts)
+archive/
+
+# Large files that shouldn't be in git
+*.zip
+*.tar.gz
+*.csv
+*.log 
