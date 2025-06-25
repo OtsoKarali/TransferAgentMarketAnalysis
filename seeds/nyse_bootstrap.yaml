@@ -1,0 +1,8 @@
+# Example NYSE bootstrap seed file
+- cik: '0000320193'
+  ticker: AAPL
+  listed_year: 1980
+- cik: '0000789019'
+  ticker: MSFT
+  listed_year: 1986
+# Add more entries or replace with full dump from dseuss/nyse_listing_history 

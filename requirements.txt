@@ -1,0 +1,8 @@
+sec-edgar-downloader==5.*
+sec-api
+pandas
+beautifulsoup4
+rapidfuzz
+tqdm
+pyyaml
+python-dotenv
