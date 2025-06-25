@@ -9,6 +9,14 @@ transfer_agents.csv
 market_share.csv
 sec_analysis.log
 
+# TSV datasets and large data files
+*.tsv
+*.tsv.gz
+*.tsv.bz2
+txt.tsv
+large_dataset*.tsv
+dataset*.tsv
+
 # Python cache
 __pycache__/
 *.pyc
@@ -44,4 +52,10 @@ archive/
 *.zip
 *.tar.gz
 *.csv
-*.log 
+*.log
+
+# Downloaded filings and results
+approaches/*/filings/
+approaches/*/results/
+filings/
+results/
