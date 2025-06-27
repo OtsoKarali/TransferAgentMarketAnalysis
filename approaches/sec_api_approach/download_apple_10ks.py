@@ -8,7 +8,7 @@ import json
 from sec_api import QueryApi, RenderApi
 
 # Configuration
-API_KEY = "26a280450813af7924eb4763f350bf24a7344e1b975937aba9447e4a70e33832"  # Replace with your SEC-API key
+API_KEY = "26a280450813af7924eb4763f350bf24a7344e1b975937aba9447e4a70e33832" 
 COMPANY_TICKER = "AAPL"
 MAX_FILINGS = 5
 DOWNLOAD_FOLDER = "./filings"
